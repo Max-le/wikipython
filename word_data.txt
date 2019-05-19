@@ -1,233 +1,289 @@
+{{also|Telephone|téléphone|téléphoné|téléphône}}
 ==English==
+{{wikipedia}}
+[[Image:Dialog gr 1972.jpg|thumb|right|A rotary-dial telephone]]
 
 ===Etymology===
-From {{suffix|en|craze|y}}.
-
-Earliest meaning (1570s) was that of "diseased, sickly". Meaning "full of cracks or flaws" is from the 1580s; that of "of unsound mind, or behaving as so" is from the 1610s. Jazz slang sense "cool, exciting" attested by 1927. To drive (someone) crazy is attested by 1873. Phrase crazy like a fox recorded from 1935. Crazy Horse, Teton Lakota (Siouan) war leader (d. 1877) translates ''thašuka witko'', literally "his horse is crazy"<ref>[http://www.etymonline.com/index.php?search=crazy EtymOnline]</ref>.
+{{PIE root|en|kʷel|bʰeh₂|id2=speak}}
+First used by {{w|Alexander Graham Bell}} in 1876 to refer to the modern instrument, but previous devices had been given this name, which was borrowed from {{bor|en|fr|téléphone}}. Ultimately from {{der|en|grc|τῆλε|t=afar}} + {{m|grc|φωνή|t=voice, sound}}.
 
 ===Pronunciation===
-* {{IPA|/ˈkɹeɪzi/|lang=en}}
-* {{audio|en-us-crazy.ogg|Audio (US)|lang=en}}
-* {{rhymes|eɪzi|lang=en}}
-
-===Adjective===
-{{en-adj|er}}
-
-# [[insane|Insane]]; [[lunatic]]; [[demented]].
-#* '''1663''', {{w|Samuel Butler}}, ''{{w|Hudibras}}''
-#*: Over moist and '''crazy''' brains.
-#* {{quote-book|lang=en|year=1913|author={{w|Joseph C. Lincoln}}|chapter=5
-|title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]
-|passage=Of all the queer collections of humans outside of a '''crazy''' asylum, it seemed to me this sanitarium was the cup winner. […] When you're well enough off so's you don't have to fret about anything but your heft or your diseases you begin to get queer, I suppose.}}
-#: {{ux|en|His ideas were both frightening and '''crazy'''.}}
-# Out of control.
-#: {{ux|en|When she gets on the motorcycle she goes '''crazy'''.}}
-# Overly excited or [[enthusiastic]].
-#* R. B. Kimball
-#*: The girls were '''crazy''' to be introduced to him.
-#: {{ux|en|He went '''crazy''' when he won.}}
-# [[in love|In love]]; experiencing [[romantic]] feelings.
-#: {{ux|en|Why is she so '''crazy''' about him?}}
-# {{lb|en|informal}} Very [[unexpected]]; wildly [[surprising]].
-#: {{ux|en|The game had a '''crazy''' ending.}}
-# Characterized by [[weakness]] or [[feebleness]]; [[decrepit]]; [[broken]]; falling to [[decay]]; [[shaky]]; [[unsafe]].
-#* Macaulay
-#*: Piles of mean and '''crazy''' houses.
-#* Addison
-#*: One of great riches, but a '''crazy''' constitution.
-#* Jeffrey
-#*: They {{...}} got a '''crazy''' boat to carry them to the island.
-#* '''1859''', Charles Dickens, ''A Tale of Two Cities''
-#*: Casement windows opened, '''crazy''' doors were unbarred, and people came forth shivering—chilled, as yet, by the new sweet air.
-
-====Synonyms====
-* {{l|en|Thesaurus:insane}}
-* {{sense|out of control}} {{l|en|off the chain}}, {{l|en|nutso}}
-* {{sense|insane; lunatic; demented}} {{l|en|deranged}}, {{l|en|loco}}, {{l|en|nutso}}, {{l|en|zany}}
-
-====Derived terms====
-{{der4|en|cray|craze|crazily|craziness|crazing|crazy bone|crazy like a fox|crazy mad|crazy paving|crazy quilt|like crazy}}
-
-====Translations====
-{{trans-top|insane, demented}}
-* Arabic: {{t+|ar|مَجْنُون}}, {{t|ar|مَسْعُور}}
-* Armenian: {{t+|hy|խենթ}}, {{t+|hy|խելագար}}, {{t+|hy|գիժ}}
-* Azerbaijani: {{t+|az|dəli}}
-* Basque: {{t|eu|zoro}}, {{t|eu|ero}}
-* Belarusian: {{t|be|шалёны}}
-* Bulgarian: {{t+|bg|луд}}
-* Burmese: {{t+|my|နှမ်း}}
-* Catalan: {{t+|ca|boig}}
-* Cebuano: {{t|ceb|buang}}
-* Chinese:
-*: Cantonese: {{t|yue|癡線|tr=ci1 sin3}}, {{t|yue|癲}}, {{t|yue|癫|tr=din1}}
-*: Mandarin: {{t+|cmn|瘋狂}}, {{t+|cmn|疯狂|tr=fēngkuáng}}, {{t+|cmn|瘋}}, {{t+|cmn|疯|tr=fēng}}
-* Czech: {{t+|cs|šílený}}, {{t|cs|pominutý}}, {{t|cs|trhlý}}, {{t|cs|potrhlý}}, {{t|cs|zbavený rozumu}}, {{t|cs|ztřeštěný}}, {{t|cs|bláznivý}}
-* Danish: {{t|da|skør}}, {{t+|da|sindssyg}}, {{t|da|sindsforvirret}}, {{t+|da|gal}}, {{t|da|gakgak}}
-* Dutch: {{t+|nl|zot}}, {{t+|nl|gek}}, {{t+|nl|getikt}}, {{t+|nl|gestoord}}, {{t+|nl|krankjorum}}, {{t+|nl|geschift}}
-* Esperanto: {{t+|eo|freneza}}
-* Estonian: {{t+|et|hull}}
-* Finnish: {{t+|fi|hullu}}, {{t+|fi|mieletön}}, {{t+|fi|järjetön}}
-* French: {{t+|fr|avoir une araignée au plafond}}, {{t+|fr|chtarbé}}, {{t+|fr|dérangé}}, {{t+|fr|dingo}}, {{t+|fr|fou}}, {{t+|fr|taré}}
-* Galician: {{t|gl|tolo|m}}, {{t|gl|louco|m}}
-* Georgian: {{t|ka|შეშლილი}}, {{t|ka|გადარეული}}, {{t|ka|გიჟი}}
-* German: {{t+|de|verrückt}}
-* Greek: {{t+|el|τρελός|m}}
-*: Ancient: {{t|grc|μανιώδης}}
-* Hawaiian: {{t|haw|pupule}}
-* Hindi: {{t+|hi|पागल}}
-* Hungarian: {{t+|hu|bolond}}, {{t+|hu|őrült}}
-* Ilocano: {{t|ilo|bagtit}}, {{t|ilo|balla}}, {{t|ilo|antutit}}, {{t|ilo|ambagel}}, {{t|ilo|agmuyot}}, {{t|ilo|ammangaw}}, {{t|ilo|kuwatit}}, {{t|ilo|mauyong}}, {{t|ilo|alloy}}, {{t|ilo|attit}}, {{t|ilo|talpeng}}, {{t|ilo|appat}}, {{t|ilo|allot}}, {{t|ilo|tiwel}}, {{t|ilo|alintaweng}}, {{t|ilo|ambreng}}, {{t|ilo|ullog}}, {{t|ilo|murtit}}, {{t|ilo|ketit}}, {{t|ilo|bultik}}
-* Indonesian: {{t+|id|gila}}
-* Italian: {{t+|it|pazzo}}, {{t+|it|matto}}
-* Japanese: {{t|ja|気が狂う|tr=きのくるった, ki no kurutta|alt=気の狂った}}, {{t|ja|[[頭]]が[[おかしい]]|tr=あたまがおかしい, atama ga okashii}}
-* Kapampangan: {{t|pam|murit}}, {{t|pam|moret}}
-* Khmer: {{t+|km|ឆ្កួត}}, {{t|km|លលាតែ}}, {{t|km|ឧម្មត្តកៈ}} {{qualifier|formal}}
-* Korean: {{t+|ko|미치다|alt=미친}}
-{{trans-mid}}
-* Kurdish: {{t+|ku|dîn}}
-* Latgalian: {{t|ltg|troks}}
-* Latin: {{t|la|dēlīrus}}, {{t|la|vēcors}}
-* Latvian: {{t|lv|traks}}, {{t|lv|ārprātīgs}}, {{t|lv|vājprātīgs}}
-* Macedonian: {{t|mk|луд}}
-* Malay: {{t|ms|gila}}
-* Maltese: {{t|mt|miġnun|m}}
-* Maori: {{t|mi|pōrewharewha}}, {{t|mi|heahea}}, {{t|mi|rorirori}}, {{t|mi|wairangi}}, {{t|mi|pōrangi}}, {{t|mi|pōrewarewa}}
-* Mongolian: {{t+|mn|солиотой}}, {{t+|mn|галзуу}}
-* Norwegian: {{t|no|galen}}, {{t+|no|gal}}, {{t+|no|gæren}}
-* Pashto: {{t+|ps|لېونی|tr=lewanay}}
-* Persian: {{t+|fa|دیوانه|tr=divâne}}, {{t+|fa|مجنون|tr=majnun}}
-* Polish: {{t+|pl|szalony}}
-* Portuguese: {{t+|pt|louco}}, {{t+|pt|maluco}}, {{t+|pt|doido}}
-* Romanian: {{t+|ro|nebun|m}}, {{t+|ro|înnebunit}}, {{t+|ro|tulburat}}
-* Russian: {{t+|ru|сумасше́дший}}, {{t+|ru|безу́мный}}, {{t+|ru|умалишённый}}, {{t+|ru|поме́шанный}}, {{t+|ru|чо́кнутый}}, {{t+|ru|спя́тивший}}, {{t+|ru|неадеква́тный|tr=neadɛkvátnyj}}, {{t+|ru|ошале́вший}}
-* Scottish Gaelic: {{t|gd|craicte}}, {{t|gd|às a chiall}} {{qualifier|3rd person singular masculine, see entry for other persons}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|луд}}
-*: Roman: {{t+|sh|lud}}
-* Slovak: {{t|sk|bláznivý}}
-* Slovene: {{t|sl|blazen}}, {{t|sl|trapast}}
-* Spanish: {{t+|es|loco}}, {{t+|es|colgado}}, {{t+|es|sonado}}, {{t+|es|trastornado}}, {{t+|es|tronado}}, {{t+|es|zumbado}}, {{t+|es|orate}}, {{t+|es|chalado}}, {{t+|es|tarambana}}
-* Sundanese: {{t|su|gélo}}
-* Swedish: {{t+|sv|galen}}, {{t+|sv|tok}}, {{t+|sv|tokig}}
-* Tagalog: {{qualifier|literally}} {{t+|tl|baliw}}, {{t+|tl|loko}}
-* Tajik: {{t+|tg|девона}}
-* Thai: {{t|th|บ้า}}
-* Turkish: {{t+|tr|aptal}}, {{t+|tr|deli}}, {{t+|tr|manyak}}
-* Ukrainian: {{t+|uk|божеві́льний}}, {{t+|uk|безу́мний}}
-* Urdu: {{t|ur|پاگل|tr=pāgal}}
-* Vietnamese: {{t+|vi|điên}}, {{t+|vi|điên rồ}}
-* Volapük: {{t+|vo|lienetik}}
-* Welsh: {{t+|cy|gwallgof|}}, {{t+|cy|ynfyd}}, {{t+|cy|gorffwyll}}, {{t+|cy|lloerig}}
-{{trans-bottom}}
-
-{{trans-top|out of control}}
-* Armenian: {{t-needed|hy}}
-* Catalan: {{t+|ca|boig|m}}
-* Chinese:
-*: Cantonese: {{t|yue|癲}}, {{t|yue|癫|tr=din1}}, {{t|yue|癡線}}
-*: Mandarin: {{t+|cmn|瘋}}, {{t+|cmn|疯|tr=fēng}}, {{t+|cmn|瘋狂}}, {{t+|cmn|疯狂|tr=fēngkuáng}}
-* Esperanto: {{t-needed|eo}}
-* Finnish: {{t+|fi|hullu}}, {{t+|fi|villi}}
-* French: {{t+|fr|fou}}
-* Georgian: {{t|ka|უმართავი}}
-* German: {{t+|de|verrückt}}
-* Greek: {{t+|el|τρελός|m}}
-{{trans-mid}}
-* Khmer: {{t+|km|ឆ្កួត}}, {{t+|km|ឈ្លក់}}
-* Korean: {{t-needed|ko}}
-* Mongolian: {{t|mn|зүггүй}}
-* Pashto: {{t+|ps|لېونی|tr=lewanay}}
-* Portuguese: {{t+|pt|louco}}, {{t+|pt|doido}}
-* Romanian: {{t+|ro|nebun}}, {{t+|ro|necontrolat}}
-* Russian: {{t+|ru|сумасше́дший}}, {{t+|ru|безу́мный}}
-* Scottish Gaelic: {{t|gd|craicte}}, {{t|gd|às a chiall}} {{qualifier|3rd person singular masculine, see entry for other persons}}
-* Spanish: {{t+|es|loco}}, {{t+|es|desquiciado}}
-* Thai: {{t|th|คลั่ง}}
-* Vietnamese: {{t-needed|vi}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Albanian: {{t+check|sq|marrë}}
-* Betawi: {{t-check|bew|gokil}}
-* Bulgarian: {{t+check|bg|побъркан}}, {{t+check|bg|смахнат}}
-* Chamicuro: {{t-check|ccc|matitu}}
-* Czech: {{t+check|cs|šílený}}, {{t-check|cs|pominutý}}, {{t-check|cs|trhlý}}, {{t-check|cs|potrhlý}}, {{t-check|cs|zbavený rozumu}}, {{t-check|cs|ztřeštěný}}, {{t-check|cs|bláznivý}}
-* Dutch: {{t+check|nl|gek}}
-* Hebrew: {{t+check|he|משוגע|m|tr=meshuga}}, {{t-check|he|משוגעת|f|tr=meshuga'at}}
-* Hindi: {{t+check|hi|पागल}}, {{t+check|hi|दिवाना}}
-* Indonesian: {{t+check|id|gila}}
-* Italian: {{t+check|it|pazzo}}
-* Japanese: {{t-check|ja|頭のおかしい|tr=atama-no okashii}}
-* Kurdish:
-*: Sorani: {{t+check|ku|شێت|tr=shaet}}
-* Latvian: {{t-check|lv|traks}}
-{{trans-mid}}
-* Norwegian: {{t+check|no|gal}}, {{t-check|no|galen}}, {{t+check|no|gæren}}, {{t+check|no|sinnsyk}}, {{t-check|no|sprø}}, {{t+check|no|vanvittig}}
-* Persian: {{t+check|fa|ديوانه|tr=divāne}}, {{t+check|fa|مجنون|tr=majnun}}
-* Pitjantjatjara: {{t-check|pjt|rama}}
-* Serbo-Croatian:
-*: Cyrillic: {{t-check|sh|лу̑д|m}}
-*: Roman: {{t+check|sh|lȗd|m}}
-* Slovene: {{t+check|sl|nor}}
-* Swedish: {{t+check|sv|galen}}, {{t+check|sv|stollig}}
-* Tagalog: {{t+check|tl|baliw}}
-* Telugu: {{t+check|te|పిచ్చి}}
-* Urdu: {{t-check|ur|پاگل|tr=pāgal}}, {{t-check|ur|دیوانہ|tr=divāna}}
-* Vietnamese: {{t+check|vi|điên}}, {{t+check|vi|khùng}}
-* West Frisian: {{t-check|fy|gek}}
-{{trans-bottom}}
-
-===Adverb===
-{{en-adv}}
-
-# {{lb|en|slang}} [[very|Very]], [[extremely]].
-#: {{ux|en|That trick was '''crazy''' good.}}
-
-====Translations====
-{{trans-top|very, extremely}}
-* Norwegian:
-*: Bokmål: {{t+|nb|sykt}}, {{t+|nb|sinnssykt}}, {{t|nb|sjukt}}, {{t|nb|sinnssjukt}}
-*: Nynorsk: {{t|nn|sjukt}}, {{t|nn|sinnsssjukt}}
-{{trans-mid}}
-* Swedish: {{t+|sv|sjukt}}
-{{trans-bottom}}
+* {{a|RP}} {{IPA|/ˈtɛlɪfəʊn/|/ˈtɛləfəʊn/|lang=en}}
+* {{a|US}} {{IPA|/ˈtɛləfoʊn/|lang=en}}
+* {{audio|En-us-telephone.ogg|Audio (US)|lang=en}}
+* {{audio|LL-Q1860 (eng)-Nattes à chat-telephone.wav|Audio|lang=en}}
 
 ===Noun===
-{{en-noun|~|crazies}}
+{{en-noun|~}}
 
-# An [[insane]] or [[eccentric]] person; a [[crackpot]].
-#* '''2011''' ''{{w|Allen Gregory}}'', "Pilot" (season 1, episode 1):
-#*: Allen Gregory DeLongpre: Now drink up, you knuckleheads! Have a blast! It's our night, you '''crazies'''! Chloe, where are you?
-# {{lb|en|slang|uncountable}} Eccentric behaviour; lunacy.
-#* {{quote-text|lang=en|year=2013|author=Douglas Schwartz|title=Checkered Scissors|page=211|passage=Then again, her whole evening was full of '''crazy''', and she didn't know what else to do.}}
+# A [[telecommunication]] [[device]] (originally [[mechanical]], and now [[electronic]]) used for two-way talking with another person (often shortened to [[phone]]).
+# {{lb|en|North America|uncountable}} The game of [[Chinese whispers]].
+#* {{quote-journal|lang=en|date=October 27, 2013
+|author=Erik Adams
+|title=TV: Review: THE SIMPSONS (CLASSIC): “The PTA Disbands”
+|work=The Onion AV Club
+|url=http://www.avclub.com/articles/the-pta-disbands,104762/
+|page=
+|passage=And since the spring of 1995, no game of '''telephone''' has ended without some Simpsons-loving smart-ass dropping “purple monkey dishwasher” into the chain.}}
+#* {{quote-journal|lang=en|date=October 3, 2017
+|author=David Dobbs
+|title=The Touch of Madness
+|journal=Pacific Standard
+|url=https://psmag.com/magazine/the-touch-of-madness-mental-health-schizophrenia
+|page=
+|passage=In other words, Jones' career and life may have been derailed because a game of '''telephone''' went bad.}}
 
 ====Synonyms====
-* {{sense|insane or eccentric person}} {{l|en|lunatic}}, {{l|en|mad man}}, {{l|en|nut ball}}, {{l|en|nut case}}, {{l|en|nutso}}, {{l|en|psychopath}}
+* {{l|en|blower}}, {{l|en|phone}}, {{l|en|farspeaker}}, {{l|en|Ameche}} {{qualifier|slang}}, [[dog and bone]] {{qualifier|slang}}, [[horn]] {{qualifier|informal}}
+* See also [[Thesaurus:phone]]
+
+====Hyponym====
+* {{l|en|cellphone}}
+
+====Derived terms====
+{{rel-top3|Terms derived from ''telephone (noun)''}}
+* {{l|en|mobile telephone}}
+* {{l|en|public telephone}}
+* {{l|en|telephone book}}
+{{rel-mid3}}
+* {{l|en|telephone box}}
+* {{l|en|telephone call}}
+* {{l|en|telephone conference}}
+{{rel-mid3}}
+* {{l|en|telephone tag}}
+* {{l|en|telephonic}}
+* {{l|en|telephony}}
+{{rel-bottom}}
 
 ====Translations====
-{{trans-top|an insane or eccentric person}}
-* Bulgarian: {{t+|bg|смахнат}}, {{t+|bg|побъркан}}
-* Catalan: {{t+|ca|boig|m}}
-* Finnish: {{t+|fi|hullu}}, {{t+|fi|mielipuoli}}
-* French: {{t+|fr|fou|m}}, {{t+|fr|folle|f}}
-* Khmer: {{t+|km|ដំណើប|tr=dɑmnaəp}}, {{t|km|ចំកួត|tr=cɑmkuət}}
-* Ngarrindjeri: {{t|nay|wurangi}}
-* Norwegian: {{t|no|galning|m}}, {{t|no|gærning|m}}
+{{trans-top|a device used for two-way talking with other people}}
+* Abkhaz: {{t|ab|ателефон|sc=Cyrl}}
+* Afrikaans: {{t+|af|telefoon}}
+* Alabama: {{t|akz|maanaaɬihilka}}, {{t|akz|masnaaɬiilka}}, {{t|akz|naaɬiikapalki}} {{qualifier|old}}
+* Albanian: {{t+|sq|telefon|m}}
+* Amharic: {{t|am|ስልክ|sc=Ethi}}
+* Arabic: {{t|ar|تِلِفُون|m}}, {{t|ar|تِلِفُون|m|tr=telefōn}}, {{t|ar|تَلِفُون|m}}, {{t+|ar|هَاتِف|m}}
+* Armenian: {{t+|hy|հեռախոս}}
+* Assamese: {{t|as|টেলিফোন}}
+* Assiniboine: {{t|asb|masʾápabi}}
+* Asturian: {{t+|ast|teléfonu|m}}
+* Azerbaijani: {{t+|az|telefon}}
+* Bashkir: {{t|ba|телефон|sc=Cyrl}}
+* Basque: {{t|eu|telefono}}
+* Belarusian: {{t|be|тэлефо́н|m|sc=Cyrl}}
+* Bengali: {{t|bn|দূরভাষা|sc=Beng}}, {{t+|bn|ফোন|sc=Beng}}, {{t|bn|টেলিফোন}}
+* Breton: {{t+|br|pellgomz}}
+* Bulgarian: {{t|bg|телефо́н|m}}
+* Burmese: {{t+|my|တယ်လီဖုန်း|sc=Mymr}}, {{t+|my|ဖုန်း|sc=Mymr}}, {{t+|my|စကားပြောကြေးနန်း}}
+* Buryat: {{t|bua|телефон}}
+* Catalan: {{t+|ca|telèfon|m}}
+* Cebuano: {{t|ceb|telepono}}
+* Central Dusun: {{t|dtp|telefon}}
+* Chechen: {{t|ce|телефон}}
+* Cherokee: {{t|chr|ᎠᎾᎦᎵᏍᎩ ᎠᏏᎳᏛ|sc=Cher}}
+* Cheyenne: {{t|chy|aseéestsestôtse}}
+* Chinese:
+*: Cantonese: {{t|yue|電話|sc=Hani}}, {{t|yue|电话|tr=din6 waa6|sc=Hani}}
+*: Dungan: {{t|dng|дянхуа|sc=Cyrl}}, {{t|dng|телефон}}
+*: Hakka: {{t|hak|電話|sc=Hani}}, {{t|hak|电话|tr=thien-fa|sc=Hani}}
+*: Mandarin: {{t+|cmn|電話|sc=Hani}}, {{t+|cmn|电话|tr=diànhuà|sc=Hani}}
+*: Min Dong: {{t|cdo|電話|sc=Hani}}, {{t|cdo|电话|tr=diêng-uâ|sc=Hani}}
+*: Min Nan: {{t+|nan|電話|sc=Hani}}, {{t|nan|电话|tr=tiān-ōe|sc=Hani}}
+*: Wu: {{t|wuu|電話|sc=Hani}}, {{t|wuu|电话|tr=di hho|sc=Hani}}
+* Chukchi: {{t|ckt|вэтгавъёԓгын|tr=vėtgavʺjoḷgyn}}
+* Chuvash: {{t|cv|телефон|sc=Cyrl}}
+* Comox: {{t|coo|sqʷay}}
+* Czech: {{t+|cs|telefon}}
+* Danish: {{t+|da|telefon}}
+* Dutch: {{t+|nl|telefoon|m}}
+* Esperanto: {{t+|eo|telefono}}
+* Estonian: {{t+|et|telefon}}
+* Faroese: {{t|fo|telefon}}
+* Finnish: {{t+|fi|puhelin}}
+* French: {{t+|fr|téléphone|m}}
+* Friulian: {{t|fur|telefon}}
+* Galician: {{t+|gl|teléfono|m}}
+* Georgian: {{t|ka|ტელეფონი}}
+* German: {{t+|de|Telefon|n}}, {{t+|de|Telephon|n}}, {{t+|de|Fernsprecher|m}}
+*: Central Franconian: {{t|gmw-cfr|Fäänshpräscho}}
+* Greek: {{t+|el|τηλέφωνο|n}}
+* Greenlandic: {{t|kl|oqarasuaat}}
+* Guaraní: {{t|gn|pumbyry}}
+* Gujarati: {{t|gu|દૂરબોલ|sc=Gujr}}, {{t|gu|ટેલિફોન|sc=Gujr}}, {{t|gu|દૂરભાષ|sc=Gujr}}
+* Hebrew: {{t+|he|טֶלֶפוֹן|m|tr=télefon}}
+* Hindi: {{t|hi|दूरभाष}}, {{t|hi|टेलीफ़ोन|m|sc=Deva}}, {{t|hi|फ़ोन|m}}
+* Hungarian: {{t+|hu|telefon}}
+* Icelandic: {{t+|is|sími|m}}
+* Ido: {{t+|io|telefonilo}}
+* Indonesian: {{t+|id|telepon}}
+* Inuktitut: {{t|iu|uqaalaut}}
+* Irish: {{t|ga|teileafón}}, {{t+|ga|guthán|m}}, {{t|ga|fón|m}}
+* Italian: {{t+|it|telefono|m}}
+* Japanese: {{t+|ja|電話|tr=でんわ, denwa}}
+* Kalmyk: {{t|xal|утцн}}
+* Kannada: {{t+|kn|ದೂರವಾಣಿ|sc=Knda}}, {{t+|kn|ಗೆಂಟುಮಾತು|sc=Knda}}
+* Kapampangan: {{t|pam|teleponu}}
+* Kazakh: {{t+|kk|телефон|sc=Cyrl}}
+* Khmer: {{t+|km|ទូរស័ព្ទ|sc=Khmr|tr=tuurasap}}
+* Korean: {{t+|ko|전화}} ({{t+|ko|電話|sc=Hani}})
+* Kurdish:
+*: Kurmanji: {{t+|ku|telefon}}, {{t|kmr|dûrbîsk}}, {{t|kmr|dûrbîst}}
+*: Sorani: {{t|ku|ته‌ليفون|tr=telefón|sc=ku-Arab}}
+* Kyrgyz: {{t+|ky|телефон|sc=Cyrl}}
+* Lakota: {{t|lkt|omás’apȟe}}
+* Lao: {{t+|lo|ໂທລະສັບ}}
+* Latin: {{t|la|telephonum|n}}, {{t|la|telephonium|n}}
+* Latvian: {{t|lv|telefons|m}}, {{t+|lv|tālrunis|m}}
 {{trans-mid}}
-* Pashto: {{t+|ps|لېونی|m|tr=lewanay}}, {{t|ps|لېونۍ|f|tr=lewanëy}}
-* Polish: {{t+|pl|świr|m}}, {{t+|pl|dziwak|m}}, {{t+|pl|wariat|m}}
-* Portuguese: {{t+|pt|louco|m}}
-* Romanian: {{t+|ro|nebun|m}}, {{t+|ro|nebună|f}}, {{t|ro|sonat|m}}, {{t+|ro|sonată|f}}
-* Russian: {{t+|ru|сумасше́дший|m}}, {{t+|ru|поме́шанный|m}}, {{t+|ru|псих|m}} {{qualifier|slang}}, {{t+|ru|неадеква́т|m}} {{qualifier|slang}}
-* Turkish: {{t+|tr|manyak}}, {{t+|tr|zibidi}}
+* Lingala: {{t|ln|ebengeli}}
+* Lithuanian: {{t+|lt|telefonas|m}}
+* Macedonian: {{t|mk|телефо́н|m}}
+* Malagasy: {{t+|mg|telefàonina}}
+* Malay: {{t|ms|telefon}}
+* Malayalam: {{t+|ml|ടെലിഫോൺ|sc=Mlym}}, {{t|ml|ദൂരശ്രാവി|sc=Mlym}}
+* Malecite-Passamaquoddy: {{t|pqm|mattoktihikon}}
+* Maltese: {{t|mt|telefon|m}}, {{t|mt|telefown|m}}
+* Manx: {{t|gv|çhellvane|m}}
+* Maori: {{t|mi|waea}}, {{t|mi|whoounu}}, {{t|mi|waeakōrero}}
+* Marathi: {{t|mr|टेलीफोन|sc=Deva}}, {{t|mr|फोन|m}}, {{t|mr|दूरध्वनी}}
+* Mongolian: {{t+|mn|утас}}, {{t+|mn|телефон}}
+* Nahuatl: {{t|nah|mekatlanonotski}}, {{t|nah|huehcacaquiztli}}
+* Navajo: {{t|nv|béésh bee haneʼé}}
+* Nepali: {{t|ne|टेलिफोन|tr=ṭeliphon|sc=Deva}}
+* Norman: {{t|nrf|téléphône|m}}
+* Northern Sami: {{t|se|telefovdna}}
+* Norwegian: {{t+|no|telefon|m}}
+* Occitan: {{t+|oc|telefòn|m}}
+* Ojibwe: {{t|oj|giigidowin}}
+* Oriya: {{t+|or|ଟେଲିଫୋନ}}
+* Papiamentu: {{t|pap|telefón}}
+* Pashto: {{t+|ps|تيلفون|m|tr=telefǔn}}
+* Pawnee: {{t|paw|rarácawakataku}}
+* Pennsylvania German: {{t|pdc|Faernschwetzer}}
+* Persian: {{t+|fa|تلفن|tr=telefón}}
+* Pitcairn-Norfolk: {{t|pih|foen}}
+* Plains Cree: {{t|crk|ᓭᐁᐧᐱᒋᑲᐣ|tr=sewepicikan}}, {{t|crk|ᐊᔭᒫᑲᐣ|tr=ayamâkan}}
+* Polish: {{t+|pl|telefon|m}}
+* Portuguese: {{t+|pt|telefone|m}}
+* Punjabi: {{t|pa|ਟੈਲੀਫ਼ੋਨ}}, {{t|pa|ਫ਼ੋਨ|m}}
+* Quechua: {{t|qu|karu rimay}}
+* Romanian: {{t+|ro|telefon|n}}
+* Romansch: {{t|rm|telefon|m}}
+* Russian: {{t+|ru|телефо́н|m}}
+* Rusyn: {{t|rue|телефо́н|m}}
+* Sanskrit: {{t|sa|दूरभाषं}}
+* Scottish Gaelic: {{t|gd|fòn|f}}, {{t|gd|cian-fhuaim|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|телефон|m|sc=Cyrl}}
+*: Roman: {{t+|sh|telefon|m}}
+* Shona: {{t|sn|runhare}}
+* Sindhi: {{t+|sd|ڏور وايو|alt=ڏُور وايو}}
+* Sinhalese: {{t|si|බණුව|sc=Sinh}}, {{t|si|දුරකථනය|sc=Sinh}}
+* Slovak: {{t|sk|telefón|m}}
+* Slovene: {{t+|sl|telefon|m}}
+* Southern East Cree: {{t|crj|ᑖᐦᑳᐱᐦᒉᓂᑲᓐ|tr=taahkaapihchenikan}}
+* Spanish: {{t+|es|teléfono|m}}
+* Swahili: {{t+|sw|simu}}
+* Swedish: {{t+|sv|telefon|c}}
+* Tagalog: {{t+|tl|telepono}}, {{t+|tl|telépono}}, {{t+|tl|hatinig}}
+* Tahitian: {{t|ty|niuniu paraparau}}
+* Tajik: {{t+|tg|телефон|sc=Cyrl}}, {{t|tg|дургӯ|sc=Cyrl}}
+* Tamil: {{t+|ta|தொலைபேசி|sc=Taml}}
+* Tatar: {{t|tt|телефон|sc=Cyrl}}
+* Telugu: {{t+|te|దూరవాణి}}, {{t|te|టెలీఫోను|sc=Telu}}, {{t|te|ఫోను}}
+* Thai: {{t+|th|โทรศัพท์}}
+* Tibetan: {{t|bo|ཁ་པར|sc=Tibt}}
+* Tigrinya: {{t|ti|ተለፎን|sc=Ethi}}, {{t|ti|ስልኪ|sc=Ethi}}
+* Turkish: {{t+|tr|telefon}}, {{t|tr|alısün}}
+* Turkmen: {{t|tk|telefon}}
+* Ukrainian: {{t+|uk|телефо́н|m|sc=Cyrl}}
+* Unami: {{t|unm|sëkahsën}}
+* Urdu: {{t|ur|ٹیلیفون|tr=ṭelīfon}}, {{t|ur|ہاتف|tr=hātef|sc=ur-Arab}}
+* Uyghur: {{t+|ug|تېلېفون|sc=ug-Arab}}
+* Uzbek: {{t+|uz|telefon}}
+* Venda: {{t|ve|luṱingo}}
+* Vietnamese: {{t+|vi|điện thoại}} ({{t|vi|電話|sc=Hani}}), {{t|vi|dây nói}}, {{t|vi|phôn}} {{qualifier|informal}}
+* Volapük: {{t+|vo|telefonöm}}, {{qualifier|complete unit}} {{t+|vo|telefonaparat}}
+* Walloon: {{t|wa|telefone}}
+* Welsh: {{t|cy|teliffon}}, {{t+|cy|ffôn|f}}
+* West Frisian: {{t|fy|tillefoan}}, {{t|fy|telefoan}}
+* Yakut: {{t|sah|телефон|sc=Cyrl}}
+* Yami: {{t|tao|dingwa}}
+* Yiddish: {{t|yi|טעלעפֿאָן|n|sc=Hebr}}
+* Yup'ik: {{t|esu|qanercuun}}
+* Yurok: {{t|yur|'o chweeegeen}}
+* Zhuang: {{t|za|denva}}
 {{trans-bottom}}
 
-===See also===
-* {{pedialite}}
+{{trans-see|Chinese whispers}}
 
-===References===
-<references/>
+===Verb===
+{{en-verb|telephon}}
 
-[[Category:English degree adverbs]]
-[[Category:en:People]]
+# {{lb|en|ambitransitive}} To (attempt to) contact someone using the telephone.
+#* {{quote-book|lang=en|year=1913|author=[[w:Robert Barr (writer)|Robert Barr]]
+|title=Lord Stranleigh Abroad
+|chapter=4|url=http://openlibrary.org/works/OL1796924W
+|passage=“I came down like a wolf on the fold, didn’t I ?  Why didn’t I '''telephone''' ?  Strategy, my dear boy, strategy. This is a surprise attack, and I’d no wish that the garrison, forewarned, should escape. …”}}
+
+====Synonyms====
+* {{l|en|call}}, {{l|en|drop someone a line|drop a line}}, {{l|en|phone}}, {{l|en|ring}}
+* See also [[Thesaurus:telephone]]
+
+====Translations====
+{{trans-top|to call someone}}
+* Arabic: {{t|ar|تَلْفَنَ}} ({{lang|und|sc=Arab|[[ل|لـِ]]}} ''li-'')
+* Belarusian: {{t|be|звані́ць|impf}}, {{t|be|пазвані́ць|pf}}; {{t|be|тэлефанава́ць|impf}}, {{t|be|патэлефанава́ць|pf}}
+* Breton: {{t+|br|pellgomz}}
+* Catalan: {{t+|ca|telefonar}}, {{t+|ca|trucar}}, {{t+|ca|cridar}}
+* Chinese:
+*: Mandarin: {{t+|cmn|打電話|sc=Hani}}, {{t+|cmn|打电话|tr=dǎ diànhuà|sc=Hani}}
+* Czech: {{t+|cs|telefonovat}}, {{t+|cs|volat}}
+* Danish: {{t+|da|telefonere}}, {{t+|da|telefonere}}, {{t+|da|ringe}}
+* Dutch: {{t+|nl|telefoneren}}
+* Esperanto: {{t+|eo|telefoni}}, {{t|eo|alvoki}}
+* Finnish: {{t|fi|[[soittaa]] (puhelimella)}}
+* French: {{t+|fr|téléphoner}}
+* Galician: {{t|gl|telefonar}}
+* Georgian: {{t|ka|დარეკვა}}
+* German: {{t+|de|telefonieren}}, {{t+|de|anrufen}}
+* Greek: {{t+|el|τηλεφωνώ}}, {{t+|el|καλώ}}
+* Hindi: {{t|hi|फ़ोन करना}}
+* Hungarian: {{t+|hu|telefonál}}
+* Icelandic: {{t+|is|hringja}}, {{t|is|hringja í}}
+* Ido: {{t+|io|telefonar}}
+* Italian: {{t+|it|telefonare}}
+* Japanese: {{t+|ja|電話をかける|tr=でんわをかける, denwa o kakeru|sc=Jpan}}
+* Korean: {{t|ko|전화를 걸다}}
+* Latvian: {{t|lv|telefonēt}}, {{t|lv|zvanīt}}, {{t|lv|piezvanīt}}
+{{trans-mid}}
+* Macedonian: {{t|mk|телефонира|tr=telefoníra}}, {{t|mk|ѕвони|tr=dzvóni}}
+* Maltese: {{t|mt|ċempel|m}}
+* Maori: {{t|mi|rīngi}}, {{t|mi|waea}}
+* Persian: {{t|fa|دورواژیدن|tr=durvâžidan}}, {{t+|fa|تلفن کردن|tr=telefon kardan}}
+* Polish: {{t+|pl|dzwonić}}, {{t+|pl|telefonować}}
+* Portuguese: {{t+|pt|telefonar}}
+* Romansch: {{t|rm|telefonar}}
+* Russian: {{t+|ru|звони́ть|impf}}, {{t+|ru|позвони́ть|pf}} (по [[телефон|телефону]] po telefónu), {{t+|ru|телефони́ровать|impf}}, {{g|pf}} {{qualifier|rare}}
+* Scottish Gaelic: {{t|gd|fòn}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|телефонирати|sc=Cyrl}}, {{l|sh|назвати}} {{l|sh|на}} {{t|sh|телефон|sc=Cyrl}}
+*: Roman: {{t+|sh|telefonirati}}, {{l|sh|nazvati}} {{l|sh|na}} {{t+|sh|telefon}}
+* Slovak: {{t|sk|telefonovať}}, {{t|sk|zatelefonovať}}, {{t|sk|volať}}, {{t|sk|zavolať}}
+* Spanish: {{t+|es|telefonear}}, {{t+|es|llamar|alt=llamar por teléfono}}
+* Swahili: {{t|sw|piga simu}}
+* Swedish: {{t+|sv|ringa}}
+* Thai: {{t+|th|โทรศัพท์}}, {{t+|th|โทร|tr=too}}
+* Tibetan: {{t|bo|ཁ་དཔར་གཏོང་བ}}
+* Turkish: {{t+|tr|telefon etmek}}, {{t+|tr|aramak}}, {{t+|tr|telefonlamak}}
+* Ukrainian: {{t|uk|дзвони́ти|impf}}, {{t|uk|подзвони́ти|pf}}, {{t+|uk|телефонува́ти|impf}}
+* Vietnamese: {{t|vi|gọi điện thoại}}, {{t|vi|gọi điện}}, {{t|vi|kêu điện thoại}}
+* Volapük: {{t+|vo|telefonön}}
+* Yiddish: {{t|yi|טעלעפֿאָנירן}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=eeehlnopt|phenetole}}
+
+[[Category:English basic words]]
+[[Category:en:Telephony]]

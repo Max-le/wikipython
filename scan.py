@@ -5,7 +5,7 @@ from wiki import print_dict
 def prettify(string):
     return string.replace('{','').replace('}', '').replace('trans-top|', '')
     
-# Returns a dictionary contaning [ word =>  definition]
+# Returns a dictionary contaning [ definition =>  word]
 def extract_defs_and_translations(filename, target_lang):
     translations = dict()
     if (os.path.isfile(filename) == False): raise Exception('Couldn\'t find '+filename)
@@ -16,9 +16,6 @@ def extract_defs_and_translations(filename, target_lang):
                 current_definition = prettify(line)
             if line.find('* '+target_lang) != -1:
                 word = prettify(line)
-                try: 
-                    translations[word] = translations[word] +" ; "+ current_definition 
-                except: 
-                    translations[word] = current_definition
+                translations[current_definition] = word
     return translations
 
