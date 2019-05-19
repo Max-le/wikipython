@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 
 # print_dict(my_dico)
 # request.get_wiktionary_data('Run')
-# print_dict(scan.extract_defs_and_translations('word_data.txt', 'Italian'))
+print_dict(scan.extract_defs_and_translations('word_data.txt', 'German'))
 # language = pycountry.languages.get(name='Englishh')
 print(convert_lang_code('English'))
 print(convert_lang_code('en'))

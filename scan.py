@@ -7,7 +7,7 @@ def prettify(string):
     
 # Returns a dictionary contaning [ word =>  definition]
 def extract_defs_and_translations(filename, target_lang):
-    translations = {'': ''}
+    translations = dict()
     if (os.path.isfile(filename) == False): raise Exception('Couldn\'t find '+filename)
     with open ( filename, ('rt')) as lines:
         current_definition = ''
@@ -16,6 +16,9 @@ def extract_defs_and_translations(filename, target_lang):
                 current_definition = prettify(line)
             if line.find('* '+target_lang) != -1:
                 word = prettify(line)
-                translations[word] = current_definition
+                try: 
+                    translations[word] = translations[word] +" ; "+ current_definition 
+                except: 
+                    translations[word] = current_definition
     return translations
 
