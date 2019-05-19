@@ -1,4 +1,4 @@
-import sys, scan, request, wiki
+import sys, scan, wiki,pycountry, fetcher
 language = 'de'
 try: 
     word = sys.argv[1]
@@ -9,7 +9,6 @@ try:
     language = sys.argv[2]
 except: 
     print("Default language : "+language )
-    
-request.get_wiktionary_data(word)
-dico = scan.extract_defs_and_translations('word_data.txt',wiki.convert_lang_code(language) )
+fetcher.get_wiktionary_data(word)
+dico = scan.extract_defs_and_translations('word_data.txt',wiki.get_iso_name(language) )
 wiki.print_dict(dico)

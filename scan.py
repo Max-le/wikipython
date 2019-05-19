@@ -3,7 +3,7 @@ from wiki import print_dict
 
 # Get rid of unuseful markers ( prettifies )
 def prettify(string):
-    return string.replace('{','').replace('}', '').replace('trans-top|', '')
+    return string.replace('{','').replace('}', '').replace('trans-top|', '').replace("\n", "")
     
 # Returns a dictionary contaning [ definition =>  word]
 def extract_defs_and_translations(filename, target_lang):

@@ -1,289 +1,661 @@
-{{also|Telephone|téléphone|téléphoné|téléphône}}
+{{also|pastá|pastā|påstå|pastă}}
 ==English==
 {{wikipedia}}
-[[Image:Dialog gr 1972.jpg|thumb|right|A rotary-dial telephone]]
 
 ===Etymology===
-{{PIE root|en|kʷel|bʰeh₂|id2=speak}}
-First used by {{w|Alexander Graham Bell}} in 1876 to refer to the modern instrument, but previous devices had been given this name, which was borrowed from {{bor|en|fr|téléphone}}. Ultimately from {{der|en|grc|τῆλε|t=afar}} + {{m|grc|φωνή|t=voice, sound}}.
+Borrowed from {{bor|en|it|pasta}}, from {{der|en|LL.|pasta||dough, pastry cake, paste}}, from {{der|en|grc|πάστα||barley porridge}}, from {{m|grc|παστός||sprinkled with salt}}.
 
 ===Pronunciation===
-* {{a|RP}} {{IPA|/ˈtɛlɪfəʊn/|/ˈtɛləfəʊn/|lang=en}}
-* {{a|US}} {{IPA|/ˈtɛləfoʊn/|lang=en}}
-* {{audio|En-us-telephone.ogg|Audio (US)|lang=en}}
-* {{audio|LL-Q1860 (eng)-Nattes à chat-telephone.wav|Audio|lang=en}}
+* {{a|UK}} {{enPR|păsʹtə}}, {{IPA|/ˈpæstə/|lang=en}}
+* {{a|US}} {{enPR|päsʹtə}}, {{IPA|/ˈpɑstə/|lang=en}}
+* {{a|CA}} {{enPR|păsʹtə|päsʹtə}}, {{IPA|/ˈpæstə/|/ˈpɒstə/|lang=en}}
+* {{a|AU}} {{enPR|päsʹtə}}, {{IPA|/ˈpɐːstə/|lang=en}}
+* {{a|NZ}} {{enPR|päsʹtə}}, {{IPA|/ˈpɐːstɘ/|lang=en}}
+* {{rhymes|ɑːstə|æstə|lang=en}}
 
 ===Noun===
 {{en-noun|~}}
 
-# A [[telecommunication]] [[device]] (originally [[mechanical]], and now [[electronic]]) used for two-way talking with another person (often shortened to [[phone]]).
-# {{lb|en|North America|uncountable}} The game of [[Chinese whispers]].
-#* {{quote-journal|lang=en|date=October 27, 2013
-|author=Erik Adams
-|title=TV: Review: THE SIMPSONS (CLASSIC): “The PTA Disbands”
-|work=The Onion AV Club
-|url=http://www.avclub.com/articles/the-pta-disbands,104762/
-|page=
-|passage=And since the spring of 1995, no game of '''telephone''' has ended without some Simpsons-loving smart-ass dropping “purple monkey dishwasher” into the chain.}}
-#* {{quote-journal|lang=en|date=October 3, 2017
-|author=David Dobbs
-|title=The Touch of Madness
-|journal=Pacific Standard
-|url=https://psmag.com/magazine/the-touch-of-madness-mental-health-schizophrenia
-|page=
-|passage=In other words, Jones' career and life may have been derailed because a game of '''telephone''' went bad.}}
+# {{lb|en|uncountable}} [[dough|Dough]] made from [[wheat]] and water and sometimes mixed with [[egg]] and formed into various shapes; often sold in [[dried]] form and typically boiled for eating.
+# {{lb|en|uncountable}} A [[dish]] or [[serving]] of pasta.
+# {{lb|en|countable}} A [[type]] of pasta.
 
-====Synonyms====
-* {{l|en|blower}}, {{l|en|phone}}, {{l|en|farspeaker}}, {{l|en|Ameche}} {{qualifier|slang}}, [[dog and bone]] {{qualifier|slang}}, [[horn]] {{qualifier|informal}}
-* See also [[Thesaurus:phone]]
+====Quotations====
+{{seeCites}}
 
-====Hyponym====
-* {{l|en|cellphone}}
+====Hyponyms====
+* See also [[Thesaurus:pasta]]
 
-====Derived terms====
-{{rel-top3|Terms derived from ''telephone (noun)''}}
-* {{l|en|mobile telephone}}
-* {{l|en|public telephone}}
-* {{l|en|telephone book}}
-{{rel-mid3}}
-* {{l|en|telephone box}}
-* {{l|en|telephone call}}
-* {{l|en|telephone conference}}
-{{rel-mid3}}
-* {{l|en|telephone tag}}
-* {{l|en|telephonic}}
-* {{l|en|telephony}}
-{{rel-bottom}}
+====Related terms====
+* {{l|en|paste}}
 
 ====Translations====
-{{trans-top|a device used for two-way talking with other people}}
-* Abkhaz: {{t|ab|ателефон|sc=Cyrl}}
-* Afrikaans: {{t+|af|telefoon}}
-* Alabama: {{t|akz|maanaaɬihilka}}, {{t|akz|masnaaɬiilka}}, {{t|akz|naaɬiikapalki}} {{qualifier|old}}
-* Albanian: {{t+|sq|telefon|m}}
-* Amharic: {{t|am|ስልክ|sc=Ethi}}
-* Arabic: {{t|ar|تِلِفُون|m}}, {{t|ar|تِلِفُون|m|tr=telefōn}}, {{t|ar|تَلِفُون|m}}, {{t+|ar|هَاتِف|m}}
-* Armenian: {{t+|hy|հեռախոս}}
-* Assamese: {{t|as|টেলিফোন}}
-* Assiniboine: {{t|asb|masʾápabi}}
-* Asturian: {{t+|ast|teléfonu|m}}
-* Azerbaijani: {{t+|az|telefon}}
-* Bashkir: {{t|ba|телефон|sc=Cyrl}}
-* Basque: {{t|eu|telefono}}
-* Belarusian: {{t|be|тэлефо́н|m|sc=Cyrl}}
-* Bengali: {{t|bn|দূরভাষা|sc=Beng}}, {{t+|bn|ফোন|sc=Beng}}, {{t|bn|টেলিফোন}}
-* Breton: {{t+|br|pellgomz}}
-* Bulgarian: {{t|bg|телефо́н|m}}
-* Burmese: {{t+|my|တယ်လီဖုန်း|sc=Mymr}}, {{t+|my|ဖုန်း|sc=Mymr}}, {{t+|my|စကားပြောကြေးနန်း}}
-* Buryat: {{t|bua|телефон}}
-* Catalan: {{t+|ca|telèfon|m}}
-* Cebuano: {{t|ceb|telepono}}
-* Central Dusun: {{t|dtp|telefon}}
-* Chechen: {{t|ce|телефон}}
-* Cherokee: {{t|chr|ᎠᎾᎦᎵᏍᎩ ᎠᏏᎳᏛ|sc=Cher}}
-* Cheyenne: {{t|chy|aseéestsestôtse}}
+{{trans-top|dough}}
+* Arabic:
+*: Hijazi Arabic: {{t|acw|مَكَرونة|f|tr=makarōna}}
+* Catalan: {{t+|ca|pasta|f}}
 * Chinese:
-*: Cantonese: {{t|yue|電話|sc=Hani}}, {{t|yue|电话|tr=din6 waa6|sc=Hani}}
-*: Dungan: {{t|dng|дянхуа|sc=Cyrl}}, {{t|dng|телефон}}
-*: Hakka: {{t|hak|電話|sc=Hani}}, {{t|hak|电话|tr=thien-fa|sc=Hani}}
-*: Mandarin: {{t+|cmn|電話|sc=Hani}}, {{t+|cmn|电话|tr=diànhuà|sc=Hani}}
-*: Min Dong: {{t|cdo|電話|sc=Hani}}, {{t|cdo|电话|tr=diêng-uâ|sc=Hani}}
-*: Min Nan: {{t+|nan|電話|sc=Hani}}, {{t|nan|电话|tr=tiān-ōe|sc=Hani}}
-*: Wu: {{t|wuu|電話|sc=Hani}}, {{t|wuu|电话|tr=di hho|sc=Hani}}
-* Chukchi: {{t|ckt|вэтгавъёԓгын|tr=vėtgavʺjoḷgyn}}
-* Chuvash: {{t|cv|телефон|sc=Cyrl}}
-* Comox: {{t|coo|sqʷay}}
-* Czech: {{t+|cs|telefon}}
-* Danish: {{t+|da|telefon}}
-* Dutch: {{t+|nl|telefoon|m}}
-* Esperanto: {{t+|eo|telefono}}
-* Estonian: {{t+|et|telefon}}
-* Faroese: {{t|fo|telefon}}
-* Finnish: {{t+|fi|puhelin}}
-* French: {{t+|fr|téléphone|m}}
-* Friulian: {{t|fur|telefon}}
-* Galician: {{t+|gl|teléfono|m}}
-* Georgian: {{t|ka|ტელეფონი}}
-* German: {{t+|de|Telefon|n}}, {{t+|de|Telephon|n}}, {{t+|de|Fernsprecher|m}}
-*: Central Franconian: {{t|gmw-cfr|Fäänshpräscho}}
-* Greek: {{t+|el|τηλέφωνο|n}}
-* Greenlandic: {{t|kl|oqarasuaat}}
-* Guaraní: {{t|gn|pumbyry}}
-* Gujarati: {{t|gu|દૂરબોલ|sc=Gujr}}, {{t|gu|ટેલિફોન|sc=Gujr}}, {{t|gu|દૂરભાષ|sc=Gujr}}
-* Hebrew: {{t+|he|טֶלֶפוֹן|m|tr=télefon}}
-* Hindi: {{t|hi|दूरभाष}}, {{t|hi|टेलीफ़ोन|m|sc=Deva}}, {{t|hi|फ़ोन|m}}
-* Hungarian: {{t+|hu|telefon}}
-* Icelandic: {{t+|is|sími|m}}
-* Ido: {{t+|io|telefonilo}}
-* Indonesian: {{t+|id|telepon}}
-* Inuktitut: {{t|iu|uqaalaut}}
-* Irish: {{t|ga|teileafón}}, {{t+|ga|guthán|m}}, {{t|ga|fón|m}}
-* Italian: {{t+|it|telefono|m}}
-* Japanese: {{t+|ja|電話|tr=でんわ, denwa}}
-* Kalmyk: {{t|xal|утцн}}
-* Kannada: {{t+|kn|ದೂರವಾಣಿ|sc=Knda}}, {{t+|kn|ಗೆಂಟುಮಾತು|sc=Knda}}
-* Kapampangan: {{t|pam|teleponu}}
-* Kazakh: {{t+|kk|телефон|sc=Cyrl}}
-* Khmer: {{t+|km|ទូរស័ព្ទ|sc=Khmr|tr=tuurasap}}
-* Korean: {{t+|ko|전화}} ({{t+|ko|電話|sc=Hani}})
-* Kurdish:
-*: Kurmanji: {{t+|ku|telefon}}, {{t|kmr|dûrbîsk}}, {{t|kmr|dûrbîst}}
-*: Sorani: {{t|ku|ته‌ليفون|tr=telefón|sc=ku-Arab}}
-* Kyrgyz: {{t+|ky|телефон|sc=Cyrl}}
-* Lakota: {{t|lkt|omás’apȟe}}
-* Lao: {{t+|lo|ໂທລະສັບ}}
-* Latin: {{t|la|telephonum|n}}, {{t|la|telephonium|n}}
-* Latvian: {{t|lv|telefons|m}}, {{t+|lv|tālrunis|m}}
+*: Cantonese: {{t|yue|意大利粉|tr=Ji3 daai6 lei6 fan2|sc=Hani}}, {{t|yue|意粉|tr=Ji3 fan2|sc=Hani}} {{qualifier|abbreviation}}
+*: Mandarin: {{t+|cmn|意大利麵|sc=Hani}}, {{t+|cmn|意大利面|tr=Yìdàlì miàn|sc=Hani}}
+* Czech: {{t|cs|těstoviny|f-p}}
+* Danish: {{t+|da|pasta|c}}
+* Dutch: {{t+|nl|deegwaren|f-p}}
+* Esperanto: {{t+|eo|pasto}}
+* Faroese: {{t|fo|pasta|f}}
+* Finnish: {{t+|fi|pasta}}
+* French: {{t+|fr|pâtes|f-p}}, {{t+|fr|pâtes alimentaires|f-p}}
+* German: {{t+|de|Nudeln|f-p}}; {{q|formal, specialist}} {{t+|de|Teigwaren|f-p}}; {{q|commercial sometimes}} {{t+|de|Pasta|f}}
+* Greek: {{t+|el|ζυμαρικά|n-p}}
+* Hindi: {{t|hi|पास्ता|tr=pāstā}}
+* Hungarian: {{t+|hu|tészta}}
+* Italian: {{t+|it|pasta|f}}, {{t+|it|impasto|m}}
+* Japanese: {{t|ja|パスタ|tr=pasuta}}
+* Korean: {{t+|ko|파스타}}
 {{trans-mid}}
-* Lingala: {{t|ln|ebengeli}}
-* Lithuanian: {{t+|lt|telefonas|m}}
-* Macedonian: {{t|mk|телефо́н|m}}
-* Malagasy: {{t+|mg|telefàonina}}
-* Malay: {{t|ms|telefon}}
-* Malayalam: {{t+|ml|ടെലിഫോൺ|sc=Mlym}}, {{t|ml|ദൂരശ്രാവി|sc=Mlym}}
-* Malecite-Passamaquoddy: {{t|pqm|mattoktihikon}}
-* Maltese: {{t|mt|telefon|m}}, {{t|mt|telefown|m}}
-* Manx: {{t|gv|çhellvane|m}}
-* Maori: {{t|mi|waea}}, {{t|mi|whoounu}}, {{t|mi|waeakōrero}}
-* Marathi: {{t|mr|टेलीफोन|sc=Deva}}, {{t|mr|फोन|m}}, {{t|mr|दूरध्वनी}}
-* Mongolian: {{t+|mn|утас}}, {{t+|mn|телефон}}
-* Nahuatl: {{t|nah|mekatlanonotski}}, {{t|nah|huehcacaquiztli}}
-* Navajo: {{t|nv|béésh bee haneʼé}}
-* Nepali: {{t|ne|टेलिफोन|tr=ṭeliphon|sc=Deva}}
-* Norman: {{t|nrf|téléphône|m}}
-* Northern Sami: {{t|se|telefovdna}}
-* Norwegian: {{t+|no|telefon|m}}
-* Occitan: {{t+|oc|telefòn|m}}
-* Ojibwe: {{t|oj|giigidowin}}
-* Oriya: {{t+|or|ଟେଲିଫୋନ}}
-* Papiamentu: {{t|pap|telefón}}
-* Pashto: {{t+|ps|تيلفون|m|tr=telefǔn}}
-* Pawnee: {{t|paw|rarácawakataku}}
-* Pennsylvania German: {{t|pdc|Faernschwetzer}}
-* Persian: {{t+|fa|تلفن|tr=telefón}}
-* Pitcairn-Norfolk: {{t|pih|foen}}
-* Plains Cree: {{t|crk|ᓭᐁᐧᐱᒋᑲᐣ|tr=sewepicikan}}, {{t|crk|ᐊᔭᒫᑲᐣ|tr=ayamâkan}}
-* Polish: {{t+|pl|telefon|m}}
-* Portuguese: {{t+|pt|telefone|m}}
-* Punjabi: {{t|pa|ਟੈਲੀਫ਼ੋਨ}}, {{t|pa|ਫ਼ੋਨ|m}}
-* Quechua: {{t|qu|karu rimay}}
-* Romanian: {{t+|ro|telefon|n}}
-* Romansch: {{t|rm|telefon|m}}
-* Russian: {{t+|ru|телефо́н|m}}
-* Rusyn: {{t|rue|телефо́н|m}}
-* Sanskrit: {{t|sa|दूरभाषं}}
-* Scottish Gaelic: {{t|gd|fòn|f}}, {{t|gd|cian-fhuaim|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|телефон|m|sc=Cyrl}}
-*: Roman: {{t+|sh|telefon|m}}
-* Shona: {{t|sn|runhare}}
-* Sindhi: {{t+|sd|ڏور وايو|alt=ڏُور وايو}}
-* Sinhalese: {{t|si|බණුව|sc=Sinh}}, {{t|si|දුරකථනය|sc=Sinh}}
-* Slovak: {{t|sk|telefón|m}}
-* Slovene: {{t+|sl|telefon|m}}
-* Southern East Cree: {{t|crj|ᑖᐦᑳᐱᐦᒉᓂᑲᓐ|tr=taahkaapihchenikan}}
-* Spanish: {{t+|es|teléfono|m}}
-* Swahili: {{t+|sw|simu}}
-* Swedish: {{t+|sv|telefon|c}}
-* Tagalog: {{t+|tl|telepono}}, {{t+|tl|telépono}}, {{t+|tl|hatinig}}
-* Tahitian: {{t|ty|niuniu paraparau}}
-* Tajik: {{t+|tg|телефон|sc=Cyrl}}, {{t|tg|дургӯ|sc=Cyrl}}
-* Tamil: {{t+|ta|தொலைபேசி|sc=Taml}}
-* Tatar: {{t|tt|телефон|sc=Cyrl}}
-* Telugu: {{t+|te|దూరవాణి}}, {{t|te|టెలీఫోను|sc=Telu}}, {{t|te|ఫోను}}
-* Thai: {{t+|th|โทรศัพท์}}
-* Tibetan: {{t|bo|ཁ་པར|sc=Tibt}}
-* Tigrinya: {{t|ti|ተለፎን|sc=Ethi}}, {{t|ti|ስልኪ|sc=Ethi}}
-* Turkish: {{t+|tr|telefon}}, {{t|tr|alısün}}
-* Turkmen: {{t|tk|telefon}}
-* Ukrainian: {{t+|uk|телефо́н|m|sc=Cyrl}}
-* Unami: {{t|unm|sëkahsën}}
-* Urdu: {{t|ur|ٹیلیفون|tr=ṭelīfon}}, {{t|ur|ہاتف|tr=hātef|sc=ur-Arab}}
-* Uyghur: {{t+|ug|تېلېفون|sc=ug-Arab}}
-* Uzbek: {{t+|uz|telefon}}
-* Venda: {{t|ve|luṱingo}}
-* Vietnamese: {{t+|vi|điện thoại}} ({{t|vi|電話|sc=Hani}}), {{t|vi|dây nói}}, {{t|vi|phôn}} {{qualifier|informal}}
-* Volapük: {{t+|vo|telefonöm}}, {{qualifier|complete unit}} {{t+|vo|telefonaparat}}
-* Walloon: {{t|wa|telefone}}
-* Welsh: {{t|cy|teliffon}}, {{t+|cy|ffôn|f}}
-* West Frisian: {{t|fy|tillefoan}}, {{t|fy|telefoan}}
-* Yakut: {{t|sah|телефон|sc=Cyrl}}
-* Yami: {{t|tao|dingwa}}
-* Yiddish: {{t|yi|טעלעפֿאָן|n|sc=Hebr}}
-* Yup'ik: {{t|esu|qanercuun}}
-* Yurok: {{t|yur|'o chweeegeen}}
-* Zhuang: {{t|za|denva}}
+* Kurdish: {{t|ku|meqarne}}
+* Latin: {{t|la|collȳra|f}}, {{t|la|pasta}} {{qualifier|Late}}
+* Lithuanian: {{t|lt|makaronas|m}}, {{t|lt|makaronai|m-p}}
+* Marathi: {{t|mr|पास्ता|m}}
+* Norman: {{t|nrf|pâtes|f-p}} {{qualifier|Jersey}}
+* Norwegian: {{t+|no|pasta}}
+* Persian: {{t|fa|پاستا|tr=pâsta}}
+* Polish: {{t+|pl|makaron|m}}
+* Portuguese: {{t+|pt|massa|f}}
+* Romanian: {{t+|ro|paste făinoase|f-p}}
+* Russian: {{t+|ru|макаро́ны|p}}, {{t|ru|макаро́нные изде́лия|n-p}}, {{qualifier|slang}} {{t+|ru|па́ста|f}} {{qualifier|considered non-standard and has other meanings}}
+* Serbo-Croatian: {{t|sh|testenina|f}}
+* Slovak: {{t|sk|cestovina|f}}
+* Spanish: {{t+|es|pastas|f-p}}
+* Swedish: {{t+|sv|pasta|c}}
+* Tamil: {{t|ta|மாச்சேவை}}
+* Thai: {{t|th|พาสตา}}
+* Turkish: {{t+|tr|makarna}}
+* Ukrainian: {{t|uk|макаронні вироби}}
+* Welsh: {{t+|cy|pasta}}
 {{trans-bottom}}
 
-{{trans-see|Chinese whispers}}
-
-===Verb===
-{{en-verb|telephon}}
-
-# {{lb|en|ambitransitive}} To (attempt to) contact someone using the telephone.
-#* {{quote-book|lang=en|year=1913|author=[[w:Robert Barr (writer)|Robert Barr]]
-|title=Lord Stranleigh Abroad
-|chapter=4|url=http://openlibrary.org/works/OL1796924W
-|passage=“I came down like a wolf on the fold, didn’t I ?  Why didn’t I '''telephone''' ?  Strategy, my dear boy, strategy. This is a surprise attack, and I’d no wish that the garrison, forewarned, should escape. …”}}
-
-====Synonyms====
-* {{l|en|call}}, {{l|en|drop someone a line|drop a line}}, {{l|en|phone}}, {{l|en|ring}}
-* See also [[Thesaurus:telephone]]
-
-====Translations====
-{{trans-top|to call someone}}
-* Arabic: {{t|ar|تَلْفَنَ}} ({{lang|und|sc=Arab|[[ل|لـِ]]}} ''li-'')
-* Belarusian: {{t|be|звані́ць|impf}}, {{t|be|пазвані́ць|pf}}; {{t|be|тэлефанава́ць|impf}}, {{t|be|патэлефанава́ць|pf}}
-* Breton: {{t+|br|pellgomz}}
-* Catalan: {{t+|ca|telefonar}}, {{t+|ca|trucar}}, {{t+|ca|cridar}}
-* Chinese:
-*: Mandarin: {{t+|cmn|打電話|sc=Hani}}, {{t+|cmn|打电话|tr=dǎ diànhuà|sc=Hani}}
-* Czech: {{t+|cs|telefonovat}}, {{t+|cs|volat}}
-* Danish: {{t+|da|telefonere}}, {{t+|da|telefonere}}, {{t+|da|ringe}}
-* Dutch: {{t+|nl|telefoneren}}
-* Esperanto: {{t+|eo|telefoni}}, {{t|eo|alvoki}}
-* Finnish: {{t|fi|[[soittaa]] (puhelimella)}}
-* French: {{t+|fr|téléphoner}}
-* Galician: {{t|gl|telefonar}}
-* Georgian: {{t|ka|დარეკვა}}
-* German: {{t+|de|telefonieren}}, {{t+|de|anrufen}}
-* Greek: {{t+|el|τηλεφωνώ}}, {{t+|el|καλώ}}
-* Hindi: {{t|hi|फ़ोन करना}}
-* Hungarian: {{t+|hu|telefonál}}
-* Icelandic: {{t+|is|hringja}}, {{t|is|hringja í}}
-* Ido: {{t+|io|telefonar}}
-* Italian: {{t+|it|telefonare}}
-* Japanese: {{t+|ja|電話をかける|tr=でんわをかける, denwa o kakeru|sc=Jpan}}
-* Korean: {{t|ko|전화를 걸다}}
-* Latvian: {{t|lv|telefonēt}}, {{t|lv|zvanīt}}, {{t|lv|piezvanīt}}
+{{trans-top|dish or serving}}
+* Finnish: {{t|fi|pastaruoka}} {{qualifier|dish}}; {{t|fi|[[pasta]]-[[annos]]}} {{qualifier|serving}}
+* German: {{t+|de|Nudeln|f-p}}; {{t+|de|Nudelgericht|n}}
 {{trans-mid}}
-* Macedonian: {{t|mk|телефонира|tr=telefoníra}}, {{t|mk|ѕвони|tr=dzvóni}}
-* Maltese: {{t|mt|ċempel|m}}
-* Maori: {{t|mi|rīngi}}, {{t|mi|waea}}
-* Persian: {{t|fa|دورواژیدن|tr=durvâžidan}}, {{t+|fa|تلفن کردن|tr=telefon kardan}}
-* Polish: {{t+|pl|dzwonić}}, {{t+|pl|telefonować}}
-* Portuguese: {{t+|pt|telefonar}}
-* Romansch: {{t|rm|telefonar}}
-* Russian: {{t+|ru|звони́ть|impf}}, {{t+|ru|позвони́ть|pf}} (по [[телефон|телефону]] po telefónu), {{t+|ru|телефони́ровать|impf}}, {{g|pf}} {{qualifier|rare}}
-* Scottish Gaelic: {{t|gd|fòn}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|телефонирати|sc=Cyrl}}, {{l|sh|назвати}} {{l|sh|на}} {{t|sh|телефон|sc=Cyrl}}
-*: Roman: {{t+|sh|telefonirati}}, {{l|sh|nazvati}} {{l|sh|na}} {{t+|sh|telefon}}
-* Slovak: {{t|sk|telefonovať}}, {{t|sk|zatelefonovať}}, {{t|sk|volať}}, {{t|sk|zavolať}}
-* Spanish: {{t+|es|telefonear}}, {{t+|es|llamar|alt=llamar por teléfono}}
-* Swahili: {{t|sw|piga simu}}
-* Swedish: {{t+|sv|ringa}}
-* Thai: {{t+|th|โทรศัพท์}}, {{t+|th|โทร|tr=too}}
-* Tibetan: {{t|bo|ཁ་དཔར་གཏོང་བ}}
-* Turkish: {{t+|tr|telefon etmek}}, {{t+|tr|aramak}}, {{t+|tr|telefonlamak}}
-* Ukrainian: {{t|uk|дзвони́ти|impf}}, {{t|uk|подзвони́ти|pf}}, {{t+|uk|телефонува́ти|impf}}
-* Vietnamese: {{t|vi|gọi điện thoại}}, {{t|vi|gọi điện}}, {{t|vi|kêu điện thoại}}
-* Volapük: {{t+|vo|telefonön}}
-* Yiddish: {{t|yi|טעלעפֿאָנירן}}
+* Thai: {{t|th|พาสตา}}
+{{trans-bottom}}
+
+{{trans-top|type of pasta}}
+* Finnish: {{t|fi|pastalaji}}
+{{trans-mid}}
+* Thai: {{t|th|พาสตา}}
 {{trans-bottom}}
 
 ===Anagrams===
-* {{anagrams|en|a=eeehlnopt|phenetole}}
+* {{anagrams|en|a=aapst|patas|tapas}}
 
-[[Category:English basic words]]
-[[Category:en:Telephony]]
+[[Category:en:Foods]]
+
+----
+
+==Catalan==
+
+===Etymology===
+From {{inh|ca|pro|}}, from {{inh|ca|LL.|pasta}}, from {{der|ca|grc|πάστα}}.
+
+===Pronunciation===
+* {{ca-IPA}}
+
+===Noun===
+{{ca-noun|f}}
+
+# [[paste]], [[dough]]
+# {{lb|ca|colloquial}} [[money]]
+# {{l|en|pasta}} {{gloss|dough made from wheat and water}}
+# {{l|en|pasta}} {{gloss|type of pasta}}
+
+====Derived terms====
+* {{l|ca|pastís}}
+
+===Further reading===
+* {{R:IEC2}}
+
+[[Category:Catalan terms inherited from Latin]]
+
+----
+
+==Cebuano==
+
+===Pronunciation===
+* {{hyphenation|pas|ta|lang=ceb}}
+
+===Etymology 1===
+{{calque|ceb|en|paste}}, from {{etyl|frm|ceb}} (modern {{m|fr|pâte}}), from {{etyl|LL.|ceb}} {{m|la|pasta}}, from {{etyl|grc|ceb}}.
+
+====Noun====
+{{head|ceb|noun}}
+
+# [[dental]] [[filling]]
+
+===Etymology 2===
+Borrowed from {{bor|ceb|en|pasta}},
+borrowed from {{der|ceb|it|pasta}}, from {{der|ceb|LL.|pasta||dough, pastry cake, paste}}, from {{der|ceb|grc|παστά||barley porridge}}, from {{m|grc|παστός||sprinkled with salt}}.
+
+====Noun====
+{{head|ceb|noun}}
+
+# [[pasta]]
+## [[dough]] made from [[wheat]] and water and sometimes mixed with [[egg]] and formed into various shapes; often sold in [[dried]] form and typically boiled for eating
+## a [[dish]] or [[serving]] of pasta
+## a [[type]] of pasta
+
+[[Category:ceb:Dentistry]]
+
+----
+
+==Czech==
+
+===Etymology===
+Borrowed from {{bor|cs|LL.|pasta}}; cf. Italian {{m|it|pasta}}, English {{m|en|paste}}.
+
+===Pronunciation===
+* {{IPA|/ˈpasta/|lang=cs}}
+* {{audio|Cs-pasta.ogg|Audio|lang=cs}}
+
+===Noun===
+{{cs-noun|g=f}}
+
+# [[paste]]
+
+=====Declension=====
+{{cs-decl-noun-auto|f|pas|t|a}}
+
+====Derived terms====
+* {{l|cs|zubní pasta}}
+
+----
+
+==Danish==
+{{wikipedia|lang=da}}
+
+===Etymology===
+From {{der|da|it|pasta}}.
+
+===Noun===
+{{da-noun|en|er}}
+
+# {{l|en|pasta}} (food)
+# {{l|en|paste}}
+
+====Declension====
+{{da-decl|en|er}}
+
+====Derived terms====
+{{der3|da|pastaret|pastasalat|pastaskrue|tandpasta|pastaopskrift|pastaproduktion|pastamager|pastafabrik|pastadej|pastaprodukt|fuldkornspasta|pastavare|pastastykke|pastarør|pastakuvert|pastaform|pastafabrikant|pastakogebog}}
+
+====See also====
+* {{l|da|makaroni}}
+* {{l|da|nudel}}
+* {{l|da|spaghetti}}
+
+===References===
+* {{R:DDO}}
+
+{{topics|da|Foods}}
+
+----
+
+==Dutch==
+
+===Etymology 1===
+Borrowed from {{bor|nl|LL.|pasta}}.
+
+====Noun====
+{{nl-noun|f|-'s|pastaatje}}
+
+# [[paste]]
+
+===Etymology 2===
+Borrowed from {{bor|nl|it|pasta}}.
+
+====Noun====
+{{nl-noun|f|-'s|pastaatje}}
+
+# {{l|en|pasta}}
+
+----
+
+==Faroese==
+
+===Etymology===
+Borrowed from {{bor|fo|it|pasta}}, from {{der|fo|LL.|pasta||dough, pastry cake, paste}}, from {{der|fo|grc|παστά||barley porridge}}, from {{m|grc|παστός||sprinkled with salt}}.
+
+===Pronunciation===
+* {{IPA|/ˈpʰasta/|lang=fo}}
+* {{rhymes|asta|lang=fo}}
+
+===Noun===
+{{fo-noun|f|pastu|-}}
+
+# {{l|en|pasta}}
+
+====Declension====
+{{fo-decl-noun-f1-s|past}}
+
+[[Category:fo:Foods]]
+
+----
+
+==Finnish==
+
+===Etymology===
+Borrowed from {{bor|fi|it|pasta}}.
+
+===Pronunciation===
+* {{rhymes|ɑstɑ|lang=fi}}
+
+===Noun===
+{{fi-noun}}
+
+# {{l|en|pasta}}
+
+====Declension====
+{{fi-decl-kala|past|||a}}
+
+====Compounds====
+* {{l|fi|pastakone}}
+* {{l|fi|tuorepasta}}
+
+===Anagrams===
+* {{anagrams|fi|a=aapst|tapas}}
+
+[[Category:fi:Foods]]
+[[Category:fi:Pasta]]
+
+----
+
+==Icelandic==
+
+===Etymology===
+Borrowed from {{bor|is|it|pasta}}.
+
+===Pronunciation===
+* {{IPA|/ˈpʰasta/|lang=is}}
+* {{rhymes|asta|lang=is}}
+
+===Noun===
+{{is-noun|n|pasta|-}}
+
+# {{l|en|pasta}}
+
+====Declension====
+{{is-decl-noun-n-w|p|a|st|pl=-}}
+
+[[Category:is:Foods]]
+
+----
+
+==Italian==
+{{wikipedia|lang=it}}
+
+===Etymology===
+From {{inh|it|LL.|pasta}}, from {{der|it|grc|πάστα}}.
+
+===Noun===
+{{it-noun|f}}
+
+# [[paste]]
+# {{l|en|pasta}}, [[noodles]]
+# [[dough]]
+# [[cake]], [[tart]]
+# [[texture]]
+
+====Derived terms====
+{{der3|it
+|pasta abrasiva
+|pasta alimentare
+|pasta all'uovo
+|pasta asciutta
+|pastasciutta
+|pasta brisée
+|pasta chimica
+|pasta cresciuta
+|pasta da carta
+|pasta di alluminio
+|pasta di fondo
+|pasta di legno
+|pasta di mandorle
+|pasta di paglia
+|pasta di stracci
+|pasta di vetro
+|pasta d'uomo
+|pasta dura
+|pasta fresca
+|pasta frolla|
+|pastafrolla
+|pasta glutinata
+|pasta margherita
+|pasta meccanica
+|pasta normale
+|pasticca
+}}
+
+[[Category:Italian basic words]]
+[[Category:Italian terms inherited from Latin]]
+[[Category:it:Foods]]
+
+----
+
+==Latin==
+
+===Etymology===
+Borrowed from {{bor|la|grc|πάστα}}, from {{m|grc|παστός||}}, from {{m|grc|πάσσω||sprinkle}}, from {{der|la|ine-pro|*kʷeh₁t-||to shake}}.
+
+===Pronunciation===
+* {{la-IPA|pasta}}
+
+===Noun===
+{{la-noun|pasta|pastae|f|first}}
+
+# {{lb|la|Late Latin}} [[paste]]
+
+====Inflection====
+{{la-decl-1st|past}}
+
+====Descendants====
+{{top2}}
+* Catalan: {{l|ca|pasta}}
+* English: {{l|en|paste}}, {{l|en|pasta}}
+* French: {{l|fr|pâte}}
+* Italian: {{l|it|pasta}}
+{{mid2}}
+* Occitan: {{l|oc|pasta}}
+* Portuguese: {{l|pt|pasta}}
+* Romanian: {{l|ro|pastă}}
+* Spanish: {{l|es|pasta}}
+{{bottom}}
+
+===Participle===
+{{la-part-form|pasta}}
+
+# {{inflection of|pastus||nom|f|s|lang=la}}
+# {{inflection of|pastus||nom|n|p|lang=la}}
+# {{inflection of|pastus||acc|n|p|lang=la}}
+# {{inflection of|pastus||voc|f|s|lang=la}}
+# {{inflection of|pastus||voc|n|p|lang=la}}
+
+{{la-part-form|pastā}}
+
+# {{inflection of|pastus||abl|f|s|lang=la}}
+
+===References===
+* {{R:L&S}}
+* {{R:du Cange}}
+* {{R:Gaffiot}}
+
+----
+
+==Latvian==
+
+===Noun===
+{{head|lv|noun form|g=m}}
+
+# {{lv-inflection of|pasts|gen|s}}
+
+----
+
+==Norwegian Bokmål==
+{{wikipedia|lang=no}}
+
+===Etymology===
+Borrowed from {{bor|nb|it|pasta}}.
+
+===Noun===
+{{nb-noun-m1}}
+
+# {{l|en|pasta}} {{qualifier|usually uncountable}} {{topics|nb|Foods}}
+# {{l|en|paste}}
+
+====Derived terms====
+* {{qualifier|sense 2}} {{l|nb|tannpasta}}
+
+===References===
+* {{R:The Bokmål Dictionary}}
+
+----
+
+==Norwegian Nynorsk==
+{{wikipedia|lang=nn}}
+
+===Etymology===
+Borrowed from {{bor|nn|it|pasta}}.
+
+===Noun===
+{{nn-noun-m2}}
+
+# {{l|en|pasta}} {{qualifier|usually uncountable}} {{topics|nn|Foods}}
+# {{l|en|paste}}
+
+====Derived terms====
+* {{qualifier|sense 2}} {{l|nn|tannpasta}}
+
+===References===
+* {{R:The Nynorsk Dictionary}}
+
+----
+
+==Polish==
+
+===Etymology===
+Borrowed from {{bor|pl|LL.|pasta}}; cf. Italian {{m|it|pasta}}, English {{m|en|paste}}.
+
+===Pronunciation===
+* {{pl-IPA}}
+
+===Noun===
+{{pl-noun|f}}
+
+# A soft mixture, [[paste]]
+
+====Declension====
+{{pl-decl-noun
+|pasta|pasty
+|pasty|past
+|paście|pastom
+|pastę|pasty
+|pastą|pastami
+|paście|pastach
+|pasto|pasty
+}}
+
+====Derived terms====
+{{der3
+|pl|pasta do butów
+|pasta do zębów
+|pasta kanapkowa
+|pasta ścierna
+|pasta termoprzewodząca
+}}
+
+----
+
+==Portuguese==
+
+===Etymology===
+From {{inh|pt|LL.|pasta||dough, pastry cake, paste}}, from {{der|pt|grc|πάστα}}.
+
+===Noun===
+{{pt-noun|f|s}}
+
+# {{lb|pt|cooking}} {{l|en|dough}} {{gloss|mix of flour and other ingredients}}
+# {{l|en|paste}}
+#: {{ux|pt|Eu gosto de escovar os dentes com essa '''pasta''' de dente.|I like to brush my teeth with this toothpaste.}}
+# {{l|en|folder}} {{gloss|organizer}}
+# {{lb|pt|computing|Brazil}} {{l|en|folder}} {{gloss|container of computer files}}
+# {{l|en|briefcase}} {{gloss|case used for carrying documents}}
+# {{lb|pt|politics}} {{l|en|ministry}}; {{l|en|portfolio}} {{gloss|responsibilities of a government department}}
+
+====Synonyms====
+* {{sense|dough}} {{l|pt|massa}}
+* {{sense|container of computer files}} {{l|pt|ficheiro}}, {{l|pt|diretório}}
+* {{sense|briefcase}} {{l|pt|maleta}}
+
+====Derived terms====
+* {{l|pt|pasta de dente}}
+
+[[Category:Portuguese terms inherited from Latin]]
+
+----
+
+==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|/pâsta/|lang=sh}}
+* {{hyphenation|pas|ta|lang=sh}}
+
+===Noun===
+{{sh-noun|g=f|head=pȁsta}}
+
+# {{l|en|pasta}}, [[polish]]
+#: {{ux|sh|pasta za zube|t=toothpaste|inline=1}}
+#: {{ux|sh|pasta za cipele|t=shoe polish|inline=1}}
+
+====Declension====
+{{sh-decl-noun
+|pȁsta|paste
+|paste|pȃstā / pȃstī
+|pasti|pastama
+|pastu|paste
+|pasto|paste
+|pasti|pastama
+|pastom|pastama
+}}
+
+[[Category:sh:Foods]]
+
+----
+
+==Sicilian==
+
+===Etymology===
+From {{inh|scn|LL.|pasta}}, from {{der|scn|grc|πάστα}}.
+
+===Pronunciation===
+* {{IPA|/ˈpasta/|[ˈpaʃta]|lang=scn}}
+* {{hyphenation|pàs|ta|lang=scn}}
+
+===Noun===
+{{scn-noun|past|f|a}}
+
+# [[#English|pasta]]
+# [[dough]]
+
+====Derived terms====
+* {{l|scn|pasta asciutta}}, {{l|scn|pastasciutta}}
+* {{l|scn|sculapasta}}
+
+[[Category:Sicilian terms inherited from Latin]]
+[[Category:scn:Foods]]
+
+----
+
+==Slovak==
+
+===Etymology===
+Borrowed from {{bor|sk|LL.|pasta}}; cf. Italian {{m|it|pasta}}, English {{m|en|paste}}.
+
+===Pronunciation===
+* {{IPA|/ˈpasta/|lang=sk}}
+
+===Noun===
+{{sk-noun|g=f|gen=pasty|pl=pasty|genpl=pást|decl=žena}}
+
+# [[paste]]
+
+====Declension====
+<!--{{sk-decl-noun|žena|ženy|žene|ženu|žene|ženou|ženy|žien|ženám|ženy|ženách|ženami}}-->
+{{sk-decl-noun|pasta|pasty|paste|pastu|paste|pastou|pasty|pást|pastám|pasty|pastách|pastami}}
+
+====Derived terms====
+* {{l|sk|pastička}}
+* {{l|sk|pastový}}
+
+===Further reading===
+* {{R:SDK}}
+
+[[Category:sk:Foods]]
+
+----
+
+==Spanish==
+
+===Etymology===
+From {{inh|es|LL.|pasta}}, from {{der|es|grc|πάστα}}.
+
+===Pronunciation===
+* {{es-IPA}}
+
+===Noun===
+{{es-noun|f}}
+
+# {{l|en|pasta}}
+# [[paste]], [[dough]]
+# {{lb|es|Spain|slang}} [[money]], [[dough]]
+
+====Related terms====
+* {{l|es|pasto}}
+* {{l|es|pastar}}
+* {{l|es|pastor}}
+
+===Verb===
+{{head|es|verb form}}
+
+# {{es-verb form of|ending=ar|mood=imperative|sense=affirmative|pers=2|formal=no|number=singular|pastar}}
+# {{es-verb form of|ending=ar|mood=indicative|tense=present|pers=2|formal=yes|number=singular|pastar}}
+# {{es-verb form of|ending=ar|mood=indicative|tense=present|pers=3|number=singular|pastar}}
+
+[[Category:Spanish terms inherited from Latin]]
+[[Category:es:Foods]]
+
+----
+
+==Turkish==
+
+===Etymology===
+Borrowed from {{bor|tr|it|pasta}}.
+
+===Noun===
+{{tr-noun|yı|lar}}
+
+# {{lb|tr|cooking}} [[cake]]
+#: {{ux|tr|Doğum günü '''pasta'''sı çok güzeldi.|t=[A/The] birthday '''cake''' was very nice.}}
+
+====Declension====
+{{tr-infl-noun-v|a|poss=1}}
+
+=====See also=====
+* {{l|tr|kek}}
+
+[[Category:tr:Desserts]]
+
+----
+
+==Welsh==
+
+===Noun===
+{{cy-noun|m|-}}
+
+# [[#English|pasta]]
+
+===Mutation===
+{{cy-mut-auto}}
+
+[[Category:cy:Foods]]
+
+----
+
+==West Frisian==
+
+===Etymology===
+{{rfe|fy}}
+
+===Noun===
+{{fy-noun|c|pasta's}}
+
+# {{topics|fy|Foods}} [[#English|pasta]]

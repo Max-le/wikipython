@@ -5,11 +5,21 @@ from flask import Flask, request, render_template
 from wiki import *
 from bs4 import BeautifulSoup
 import wikipedia
+import scan, fetcher, json
 app = Flask(__name__)
 
-@app.route("/")
+@app.route("/hello")
 def hello():
     return "Hello World!"
+@app.route('/')
+def home():
+    return render_template("home.html")
+@app.route('/translate')
+def translate():
+    word = request.args.get('word')
+    fetcher.get_wiktionary_data(word)
+    dico = scan.extract_defs_and_translations('word_data.txt', 'German')
+    return json.dumps(dico, indent=4 )
 @app.route('/list')
 def list():
     word_to_translate = request.args.get('word')

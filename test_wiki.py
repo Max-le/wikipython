@@ -1,5 +1,5 @@
 from wiki import *
-import request
+import fetcher
 import scan
 import pycountry
 from bs4 import BeautifulSoup
@@ -20,6 +20,9 @@ from bs4 import BeautifulSoup
 # request.get_wiktionary_data('Run')
 print_dict(scan.extract_defs_and_translations('word_data.txt', 'German'))
 # language = pycountry.languages.get(name='Englishh')
-print(convert_lang_code('English'))
-print(convert_lang_code('en'))
-print(convert_lang_code('de'))
+print(language_exists('aaz'))
+print(get_iso_alpha2('French'))
+print(get_iso_name('French'))
+print(get_iso_name('french'))
+print(get_iso_name('frhf'))
+

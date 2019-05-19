@@ -15,12 +15,31 @@ def print_dict(dictionary):
                         print(key + " => "+dictionary[key])
         else:
                 raise Exception("Input is not a dictionary.")
-#Returns symbol if name given and vice-versa
+#Returns symbol ( alpha_2 ) if name given and vice-versa
 def convert_lang_code(lang):
         if pycountry.languages.get(name=lang):
                 return pycountry.languages.get(name=lang).alpha_2
         elif pycountry.languages.get(alpha_2=lang):
                 return pycountry.languages.get(alpha_2=lang).name
+def get_iso_alpha2(lang):
+        try:
+            language = pycountry.languages.lookup(lang) 
+            return language.alpha_2
+        except LookupError: 
+                print("LookupError")
+def get_iso_name(lang):
+        try:
+            language = pycountry.languages.lookup(lang) 
+            return language.name
+        except LookupError: 
+                print("LookupError")
+def language_exists(lang):
+        try:
+                pycountry.languages.lookup(lang)
+                return True
+        except LookupError:
+                return False
+        
 
 
 def ask_user_keyword():
