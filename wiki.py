@@ -1,4 +1,4 @@
-import collections, wikipedia, requests, re
+import collections, wikipedia, requests, re, pycountry
 from bs4 import BeautifulSoup
 def print_array(array):
         if (isinstance(array, collections.Sequence) and (array != []) ):
@@ -9,6 +9,20 @@ def print_array(array):
         else:
                 raise Exception("The input is not a collection.")
         return
+def print_dict(dictionary):
+        if (isinstance(dictionary, dict )):
+                for key in dictionary:
+                        print(key + " => "+dictionary[key])
+        else:
+                raise Exception("Input is not a dictionary.")
+#Returns symbol if name given and vice-versa
+def convert_lang_code(lang):
+        if pycountry.languages.get(name=lang):
+                return pycountry.languages.get(name=lang).alpha_2
+        elif pycountry.languages.get(alpha_2=lang):
+                return pycountry.languages.get(alpha_2=lang).name
+
+
 def ask_user_keyword():
     word = input('Enter the file that you want to find : ')
     if (word != ""):

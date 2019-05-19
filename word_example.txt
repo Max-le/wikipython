@@ -1,0 +1,464 @@
+==English==
+{{wikipedia|dab=trust}}
+[[File:Baghdad, 2013 (8559351173).jpg|thumb|Word trust written on a wall in Baghdad in English and Arabic]]
+===Etymology===
+From {{etyl|enm|en}} {{m|enm|truste||trust, protection}}, from {{etyl|non|en}} {{m|non|traust||confidence, help, protection}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*traustą}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*drowzdo-}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*deru-||be firm, hard, solid}}. Akin to {{cog|da|trøst|trøst, tröst|trust}}, {{cog|stq|Traast||comfort, solace}}, {{cog|fy|treast||comfort, solace}}, {{cog|nl|troost||comfort, consolation}}, {{cog|de|Trost||comfort, consolation}}, {{cog|got|trausti||alliance, pact}}. More at [[true]], [[tree]].
+
+===Pronunciation===
+* {{IPA|/tɹʌst/|lang=en}}
+* {{a|some US varieties also}} {{IPA|[t͡ʃɹʌst]|lang=en}}
+* {{audio|en-us-trust.ogg|Audio (GA)|lang=en}}
+* {{audio|LL-Q1860 (eng)-Nattes à chat-trust.wav|Audio|lang=en}}
+* {{rhymes|ʌst|lang=en}}
+
+===Noun===
+{{en-noun|~}}
+
+# [[confidence|Confidence]] in or [[reliance]] on some person or quality.
+#: ''He needs to regain her '''trust''' if he is ever going to win her back.''
+#* {{rfdatek|John Locke}}
+#*: Most take things upon '''trust'''.
+#*: '''1671''', O ever-failing '''trust''' / In mortal strength! — John Milton, ''Samson Agonistes''
+# [[dependence|Dependence]] upon something in the future; [[hope]].
+#*: '''1611''', Such '''trust''' have we through Christ. — ''Authorised Version'', 2 Corinthians iii:4.
+# Confidence in the future payment for goods or services supplied; [[credit]].
+#: ''I was out of cash, but the landlady let me have it on '''trust'''.''
+# That which is committed or entrusted; something received in confidence; a charge.
+# That upon which confidence is reposed; ground of reliance; hope.
+#* {{RQ:King James Version|book=Psalms|chapter=71|verse=5|passage=O Lord God, thou art my '''trust''' from my youth.}}
+# {{lb|en|rare}} [[trustworthiness|Trustworthiness]], [[reliability]].
+# The condition or obligation of one to whom anything is confided; responsible charge or office.
+#* {{RQ:Shakespeare Lear|act=I|scene=iv|passage=I do profess to be no less than I seem; to serve him truly that<br>will put me in '''trust'''}}
+#* {{rfdatek|Denham}}
+#*: Reward them well, if they observe their '''trust'''.
+# {{lb|en|legal}} The [[confidence]] vested in a person who has legal ownership of a property to manage for the benefit of another.
+#: ''I put the house into my sister's '''trust'''.''
+# {{lb|en|legal}} An [[estate]] [[devise]]d or [[grant]]ed in confidence that the [[devisee]] or [[grantee]] shall [[convey]] it, or dispose of the profits, at the will, or for the benefit, of another; an estate held for the use of another.
+# A group of businessmen or traders organised for mutual benefit to produce and distribute specific commodities or services, and managed by a central body of [[trustees]].
+# {{lb|en|computing}} Affirmation of the [[access]] [[right]]s of a [[user]] of a computer system.
+
+====Synonyms====
+{{top2}}
+* {{l|en|belief}}
+* {{l|en|confidence}}
+* {{l|en|expectation}}
+{{mid2}}
+* {{l|en|faith}}
+* {{l|en|hope}}
+{{bottom}}
+
+====Antonyms====
+* {{l|en|distrust}}
+* {{l|en|mistrust}}
+* {{l|en|untrust}}
+* {{l|en|wantrust}}
+
+====Derived terms====
+{{der3|en|title=Terms derived from ''trust'' (noun)
+|beef trust
+|brain trust
+|brains trust
+|constructive trust
+|honorary trust
+|mistrust
+|partial trust
+|remainder trust
+|resulting trust
+|spendthrift trust
+|trust fall
+|trust fund
+|trust territory
+|trustworthy
+|trusty
+|unit trust
+|wantrust
+}}
+
+====Translations====
+{{trans-top|confidence in or reliance on some person or quality}}
+* Arabic: {{t|ar|ثِقَة|f}}
+* Armenian: {{t+|hy|վստահություն}}
+* Bashkir: {{t|ba|ышаныс|sc=Cyrl}}
+* Belarusian: {{t|be|даве́р|m}}, {{t|be|даве́р'е|n}}
+* Bulgarian: {{t+|bg|дове́рие|n}}
+* Catalan: {{t+|ca|confiança|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|信任|tr=xìnrèn}}
+* Czech: {{t+|cs|důvěra|f}}
+* Danish: {{t|da|tillid|c}}, {{t|da|tiltro}}
+* Dutch: {{t+|nl|vertrouwen}}
+* Esperanto: {{t|eo|fido}}
+* Estonian: {{t|et|usaldus}}
+* Faroese: {{t|fo|álit|n}}
+* Finnish: {{t+|fi|luottamus}}, {{t+|fi|usko}}
+* French: {{t+|fr|confiance|f}}
+* Friulian: {{t|fur|fede|f}}
+* Georgian: {{t|ka|ნდობა}}
+* German: {{t+|de|Vertrauen|n}}
+* Greek: {{t+|el|εμπιστοσύνη|f}}
+* Hindi: {{t+|hi|विश्वास|m}}, {{t+|hi|भरोसा|m}}
+* Irish: {{t|ga|muinín|f}}, {{t|ga|iontaoibh|f}}, {{t|ga|dóchas|m}}
+* Italian: {{t+|it|fiducia|f}}
+* Japanese: {{t+|ja|信|tr=しん, shin|sc=Jpan}}, {{t+|ja|信頼|tr=しんらい, shinrai}}, {{t+|ja|信任|tr=しんにん, shinnin}}
+* Khmer: {{t|km|ទុកចិត្ត}}, {{t+|km|ជឿ}}
+* Korean: {{t+|ko|믿음}}, {{t+|ko|신뢰}}, {{t+|ko|신임}}
+* Latin: {{t|la|fides|f}}, {{t|la|fīdūcia|f}}
+* Latvian: {{t|lv|uzticība|f}}
+* Lithuanian: {{t|lt|pasitikėjimas|m}}
+* Low German:
+*: German Low German: {{t|nds-de|Vertroen|n}}
+{{trans-mid}}
+* Luxembourgish: {{t|lb|Vertrauen|n}}
+* Macedonian: {{t|mk|доверба|f}}
+* Norwegian:
+*: Bokmål: {{t+|nb|tillit|m|f}}
+*: Nynorsk: {{t|nn|tillit|m|f}}
+* Persian: {{t+|fa|اعتماد|tr=e'temâd|sc=fa-Arab}}
+* Polish: {{t+|pl|zaufanie|n}}
+* Portuguese: {{t+|pt|confiança|f}}
+* Romanian: {{t+|ro|încredere|f}}
+* Russian: {{t+|ru|дове́рие|n}}
+* Scottish Gaelic: {{t|gd|creideas|m}}, {{t|gd|earbsa|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|поверење|n|sc=Cyrl}}, {{t|sh|повјерење|n|sc=Cyrl}}
+*: Roman: {{t+|sh|poverenje|n}}, {{t|sh|povјerenje|n}}
+* Slovak: {{t|sk|dôvera|f}}
+* Slovene: {{t+|sl|zaupanje|n}}
+* Spanish: {{t+|es|confianza|f}}
+* Swahili: {{t+|sw|muamana}}
+* Swedish: {{t+|sv|förtroende|n}}, {{t+|sv|tillit|c}}
+* Tagalog: {{t|tl|tiwala}}
+* Tamil: {{t+|ta|நம்பிக்கை|tr=nambikkai}}
+* Telugu: {{t+|te|నమ్మకం}}, {{t|te|విశ్వాసం}}
+* Tibetan: {{t|bo|ཡིད་ཆེས}}
+* Turkish: {{t+|tr|güven}}, {{t+|tr|güvenç}}, {{t+|tr|itimat}}
+* Ukrainian: {{t+|uk|дові́ра|f}}, {{t|uk|дові́р'я|n}}
+* Volapük: {{t-needed|vo}}
+* Yiddish: {{t|yi|צוטרוי|m}}, {{t|yi|בטחון|m|tr=betokhn}}, {{t|yi|גלויבן|m}}
+{{trans-bottom}}
+
+{{trans-top|dependence upon something in the future; hope}}
+* Bashkir: {{t|ba|ышаныс|sc=Cyrl}}
+* Finnish: {{t+|fi|toivo}}
+* German: {{t+|de|Vertrauen|n}}, {{t+|de|Hoffnung|f}}
+* Greek: {{t+|el|πίστη}}
+* Low German:
+*: German Low German: {{t|nds-de|Hööp|f}}
+{{trans-mid}}
+* Norwegian: {{t|no|forhåpning|m}}
+* Portuguese: {{t+|pt|esperança|f}}
+* Romanian: {{t+|ro|speranță|f}}, {{t+|ro|sperare|f}}
+* Swahili: {{t+|sw|muamana}}
+* Swedish: {{t+|sv|förtröstan|c}}, {{t+|sv|tilltro|c}}
+{{trans-bottom}}
+
+{{trans-top|confidence in the future payment for goods or services supplied; credit}}
+* Dutch: {{t+|nl|vertrouwen}}
+* Finnish: {{t+|fi|luotto}}
+* Greek: {{t+|el|πίστωση|f}}
+* Norwegian: {{t|no|kredittverdighet|m}}
+* Portuguese: {{t+|pt|crédito|m}}
+* Romanian: {{t+|ro|credit|n}}
+{{trans-mid}}
+* Russian: {{t+|ru|ве́ра|f}}
+* Scottish Gaelic: {{t|gd|creideas|m}}
+* Spanish: {{t+|es|crédito|m}}, {{t+|es|fiar|m}}
+* Swahili: {{t+|sw|muamana}}
+* Ukrainian: {{t|uk|віра}}
+{{trans-bottom}}
+
+{{trans-top|trustworthiness, reliability}}
+* Finnish: {{t+|fi|luotettavuus}}
+* Norwegian: {{t|no|til å stole på}}, {{t+|no|pålitelig}}
+* Portuguese: {{t+|pt|confiabilidade|f}}
+{{trans-mid}}
+* Romanian: {{t+|ro|veridicitate|f}}
+* Scottish Gaelic: {{t|gd|creideas|m}}
+* Swahili: {{t+|sw|muamana}}
+{{trans-bottom}}
+
+{{trans-top|the confidence vested in a person who has legal ownership of a property to manage for the benefit of another}}
+* Dutch: {{t+|nl|vertrouwen}}
+* Greek: {{t+|el|καταπίστευμα|n}}
+* Hindi: {{t+|hi|न्यास|m}}
+* Norwegian: {{t+|no|tillit|m}}
+{{trans-mid}}
+* Scottish Gaelic: {{t|gd|creideas|m}}
+* Swahili: {{t+|sw|muamana}}
+* Swedish: {{t+|sv|trust|c}}
+* Thai: {{t|th|ทรัสต์}}
+{{trans-bottom}}
+
+{{trans-top|a group of businessmen or traders}}
+* Arabic: {{t|ar|تْرَسْت|m}}
+* Belarusian: {{t|be|трэст|m}}
+* Bulgarian: {{t+|bg|тръст|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|托拉斯|tr=tuōlāsī}}
+* Finnish: {{t+|fi|trusti}}
+* French: {{t+|fr|trust|m}}
+* German: {{t|de|Trust|m}}
+* Greek: {{t+|el|σύμπραξη|f}}
+* Hungarian: {{t|hu|tröszt}}
+* Japanese: {{t|ja|トラスト|tr=torasuto}}
+{{trans-mid}}
+* Korean: {{t|ko|트러스트}}
+* Persian: {{t+|fa|تراست|tr=terâst}}
+* Portuguese: {{t|pt|consórcio|m}}
+* Romanian: {{t+|ro|trust|n}}
+* Russian: {{t+|ru|трест|m}}
+* Spanish: {{t+|es|consorcio|m}}
+* Swahili: {{t+|sw|muamana}}
+* Swedish: {{t+|sv|trust|c}}
+* Turkish: {{t+|tr|tröst}}
+* Ukrainian: {{t|uk|трест|m}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Dutch: {{t-check|nl|vertrouwen hebben in}}
+* French: {{t+check|fr|confiance|f}}
+* German: {{t+check|de|Vertrauen|n}}
+* Icelandic: {{t+check|is|traust|n}}, {{t+check|is|trú|f}}, {{t-check|is|fjárhagslegttraus|n}}
+{{trans-mid}}
+* Italian: {{t+check|it|fiducia|f}}, {{t+check|it|confidenza|f}}, {{t+check|it|speranza|f}}, {{t-check|it|aspettazione|f}}, {{t+check|it|credito|m}}, {{t-check|it|amministrazione fiduciaria|f}}, {{t+check|it|consorzio|m}}, {{t-check|it|responsibilità|f}}, {{t+check|it|compito|m}}, {{t+check|it|incarico|m}}, {{t+check|it|fede|f}}
+* Korean: {{t+check|ko|신뢰|sc=Kore}}
+* Spanish: {{t+check|es|fideicomiso|m}}, {{t+check|es|fe|f}}, {{t+check|es|deber|m}}, {{t+check|es|obligación|f}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb}}
+
+# {{lb|en|transitive}} To place confidence in; to rely on, to confide, or have faith, in.
+#: ''We cannot '''trust''' anyone who deceives us.''
+#: ''{{w|In God we trust|In God we '''trust'''}}'' - official US motto
+#* '''c. 1597''', {{w|William Shakespeare}}, {{w|Henry IV}}, Act I scene iv:
+#*: I will never '''trust''' his word after.
+#* {{rfdate|}} [[w:Johnson|Johnson]]
+#*: He that '''trusts''' every one without reserve will at last be deceived.
+# {{lb|en|transitive}} To give [[credence]] to; to believe; to credit.
+#* {{rfdate|}} [[w:William Shakespeare|William Shakespeare]]
+#*: '''Trust''' me, you look well.
+# {{lb|en|transitive}} To hope confidently; to believe (usually with a phrase or infinitive clause as the object)
+#* {{rfdate|}} 2 John 12.
+#*: I '''trust''' to come unto you, and speak face to face.
+#* {{rfdate|}} Heb. xiii. 18.
+#*: We '''trust''' we have a good conscience.
+#: ''I '''trust''' you have cleaned your room?''
+# {{lb|en|transitive}} to show confidence in a person by entrusting them with something.
+#* {{rfdate|}} [[w:John Dryden|John Dryden]].
+#*: Whom, with your power and fortune, sir, you '''trust''', Now to suspect is vain.
+# {{lb|en|transitive}} To commit, as to one's care; to entrust.
+#* {{rfdate|}} [[w:Thomas Babington Macaulay|Thomas Babington Macaulay]].
+#*: Merchants were not willing to '''trust''' precious cargoes to any custody but that of a man-of-war.
+# {{lb|en|transitive}} To give credit to; to sell to upon credit, or in confidence of future payment.
+#: ''Merchants and manufacturers '''trust''' their customers annually with goods.''
+#* Johnson
+#*: It is happier sometimes to be cheated than not to '''trust'''.
+# {{lb|en|intransitive|followed by {{l|en|to}}}} To rely on (something), as though having trust (on it).
+#*: {{ux|en|to '''trust''' to luck}}
+#*: {{ux|en|Having lost the book, he had to '''trust''' to his memory for further details.}}
+# {{lb|en|archaic|transitive}} To risk; to venture confidently.
+#* {{rfdate|}} [[w:John Milton|John Milton]]
+#*: [Beguiled] by thee to '''trust''' thee from my side.
+# {{lb|en|intransitive}} To have trust; to be credulous; to be won to confidence; to confide.
+#* {{RQ:Shakespeare Well|act=II|scene=i|passage=More to know could not be more to '''trust'''.}}
+# {{lb|en|intransitive}} To be confident, as of something future; to hope.
+#* {{rfdate|}} Isa. xii. 2
+#*: I will '''trust''' and not be afraid.
+# {{lb|en|archaic|intransitive}} To sell or deliver anything in reliance upon a promise of payment; to give credit.
+#* {{rfdate|}} Johnson
+#*: It is happier sometimes to be cheated than not to '''trust'''.
+
+====Antonyms====
+* {{l|en|distrust}}
+* {{l|en|mistrust}}
+* {{l|en|trust}}
+
+====Derived terms====
+{{top2}}
+* {{l|en|mistrust}}
+* {{l|en|trustable}}
+* {{l|en|trustee}}
+* {{l|en|truster}}
+{{mid2}}
+* {{l|en|trusting}}
+* {{l|en|trust everybody, but cut the cards}}
+* {{l|en|trustor}}
+* {{l|en|trustworthy}}
+{{bottom}}
+
+====Translations====
+{{trans-top|to place confidence in}}
+* Arabic: {{t+|ar|وَثِقَ}}
+* Armenian: {{t+|hy|վստահել}}
+* Aromanian: mi-{{t|rup|ncred}}
+* Azerbaijani: {{t|az|etibar etmək}}, {{t+|az|inanmaq}}, {{t|az|qızmaq}}
+* Belarusian: {{t|be|давяра́ць|impf}}
+* Bulgarian: {{t|bg|доверя́вам|impf}}
+* Burmese: {{t+|my|အားကိုး}}
+* Catalan: {{t+|ca|fiar|alt=fiar-se}}, {{t+|ca|confiar}}
+* Chinese:
+*: Mandarin: {{t+|cmn|相信|tr=xiāngxìn}}, {{t+|cmn|信任|tr=xìnrèn}}
+* Czech: {{t+|cs|důvěřovat}}
+* Danish: {{t|da|stole på}}
+* Dutch: {{t+|nl|vertrouwen}}
+* Esperanto: {{t+|eo|konfidi}}
+* Finnish: {{t+|fi|luottaa}}, {{t+|fi|uskoa}}
+* French: {{t+|fr|faire confiance}}
+* German: {{t+|de|vertrauen}}
+* Greek: {{t+|el|εμπιστεύομαι}}
+* Hungarian: {{t+|hu|bízik}}, {{t+|hu|megbízik}}
+* Irish: {{t|ga|[[dóchas]] a bheith agat as}}, {{t|ga|[[iontaoibh]] a bheith agat as}}
+* Italian: {{t+|it|fidare}}, {{t|it|avere fiducia}}
+* Japanese: {{t+|ja|信じる|tr=しんじる, shinjiru}}, {{t+|ja|信頼|tr=しんらいする, shinrai suru|alt=信頼する}}, {{t+|ja|信任|tr=しんにんする, shinnin suru|alt=信任する}}
+{{trans-mid}}
+* Khmer: {{t|km|ទុកចិត្ត}}, {{t+|km|ជឿ}}
+* Korean: {{t+|ko|믿다}}, {{t+|ko|신임하다}}, {{t+|ko|신뢰하다}}
+* Latin: {{t|la|fido}}
+* Macedonian: {{t|mk|доверува|impf}}
+* Maori: {{t|mi|whakawhirinaki}}
+* Nahuatl: {{t|nah|temachia}}
+* Ngazidja Comorian: {{t|zdj|hw[[amini]]}}
+* Norwegian: {{t+|no|stole på}}, {{t|no|ha tillit til}}
+* Occitan: {{t+|oc|creire}}, {{t|oc|se fisar}}, {{t|oc|se confisar}}, {{t|oc|téner fisança}}
+* Polish: {{t+|pl|ufać|impf}}
+* Portuguese: {{t+|pt|confiar}}
+* Romanian: a se {{t+|ro|încrede}}
+* Russian: {{t+|ru|доверя́ть|impf}} {{qualifier|+ [[dative case]]}}
+* Slovak: {{t|sk|dôverovať|impf}}
+* Slovene: {{t+|sl|zaupati|impf}}
+* Spanish: {{t+|es|confiar}}, {{t+|es|fiarse }}
+* Swedish: {{t|sv|[[lita]] på}}, {{t|sv|ha [[tillit]] till}}
+* Thai: {{t+|th|วางใจ}}
+* Turkish: {{t+|tr|güvenmek}}
+* Ukrainian: {{t|uk|довіря́ти|impf}}
+* Vietnamese: {{t+|vi|tín nhiệm}}
+{{trans-bottom}}
+
+{{trans-top|to give credence to}}
+* Finnish: {{t+|fi|luottaa}}, {{t+|fi|uskoa}}
+* French: {{t|fr|[[avoir foi]] en quelqu’un}}
+* Greek: {{t+|el|πιστεύω}}
+* Latin: {{t|la|confido}}
+{{trans-mid}}
+* Norwegian: {{t|no|tro på}}
+* Occitan: {{t+|oc|creire}}, {{t|oc|téner fisança}}
+* Spanish: {{t+|es|creer}}
+* Swedish: {{t+|sv|lita på}}, {{t|sv|ha/hysa [[tillit]] till}}
+{{trans-bottom}}
+
+{{trans-top|to hope confidently}}
+* Finnish: {{t+|fi|luottaa}}, {{t+|fi|uskoa}}
+* Norwegian: {{t|no|tro på}}
+* Occitan: {{t+|oc|esperar}}
+{{trans-mid}}
+* Spanish: {{t+|es|esperar}}
+* Swedish: {{t|sv|[[förtrösta]] (på)}}, {{t|sv|känna [[tilltro]] (till)}}, {{t|sv|ha/hysa [[tillit]] (till)}}
+{{trans-bottom}}
+
+{{trans-top|to show confidence in a person by intrusting (him) with something}}
+* Finnish: {{t+|fi|uskoutua}}
+* Khmer: {{t|km|ទុកចិត្ត}}
+* Norwegian: {{t+|no|stole på}}
+{{trans-mid}}
+* Occitan: {{t+|oc|creire}}, {{t|oc|se fisar}}, {{t|oc|se confisar}}
+* Spanish: {{t+|es|confiar}}
+* Swedish: {{t|sv|[[räkna]] med}}
+{{trans-bottom}}
+
+{{trans-top|to commit; to intrust}}
+* Irish: {{t|ga|[[cuir]] [[in]] [[iontaoibh]]}}, {{t|ga|[[lig]] [[ar]] [[iontaoibh]] [[le]]}}
+* Spanish: {{t+|es|confiar}}
+{{trans-mid}}
+* Swedish: {{t|sv|[[anförtro]] (sig åt)}}
+{{trans-bottom}}
+
+{{trans-top|to give credit to}}
+* German: {{t+|de|anschreiben}}
+* Latin: {{t|la|fido}}
+{{trans-mid}}
+* Spanish: {{t+|es|creer}}, {{t+|es|fiar}}
+{{trans-bottom}}
+
+{{trans-top|to risk}}
+* Finnish: {{t+|fi|uskoutua}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to have trust}}
+* Finnish: {{t+|fi|uskoa}}, {{t+|fi|luottaa}}
+* French: {{t+|fr|faire confiance}}
+{{trans-mid}}
+* Norwegian: {{t|no|ha tillit}}
+* Swedish: {{t+|sv|lita}}, {{t|sv|ha/hysa [[tillit]]}}
+{{trans-bottom}}
+
+{{trans-top|to be confident}}
+* Finnish: {{t+|fi|uskoa}}, {{t+|fi|luottaa}}
+* French: {{t+|fr|faire confiance}}
+* Latin: {{t|la|confido}}
+{{trans-mid}}
+* Norwegian: {{t|no|være trygg}}
+* Swedish: {{t|sv|förtrösta}}, {{t|sv|känna [[förtröstan]]}}, {{t|sv|känna [[tilltro]]}}
+{{trans-bottom}}
+
+{{trans-top|to sell or deliver anything in reliance upon a promise of payment}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Adjective===
+{{en-adj}}
+
+# {{lb|en|obsolete}} [[secure|Secure]], [[safe]].
+# {{lb|en|obsolete}} [[faithful|Faithful]], [[dependable]].
+# {{lb|en|legal}} of or relating to a trust.
+
+===Anagrams===
+* {{anagrams|en|a=rsttu|strut|sturt}}
+
+[[Category:English basic words]]
+[[Category:en:Collectives]]
+
+----
+
+==French==
+
+===Etymology===
+Borrowed from {{bor|fr|en|trust}}.
+
+===Pronunciation===
+* {{a|France|Quebec}} {{fr-IPA|treuste}}
+
+===Noun===
+{{fr-noun|m}}
+
+# a {{l|en|trust}} {{gloss|a group of businessmen or traders}}
+
+[[Category:fr:Business]]
+
+----
+
+==Italian==
+
+===Etymology===
+Borrowed from {{bor|it|en|trust}}.
+
+===Noun===
+{{head|it|noun|g=m|invariable}}
+
+# [[#English|trust]] (group of people)
+
+====Derived terms====
+* {{l|it|trust di cervelli}} - brains trust
+
+----
+
+==Spanish==
+
+===Etymology===
+{{etyl|en|es}}
+
+===Noun===
+{{es-noun|m}}
+
+# {{lb|es|finance}} {{l|es|trust}}
