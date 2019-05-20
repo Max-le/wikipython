@@ -18,6 +18,26 @@ def extract_defs_and_translations(filename, target_lang):
             if line.find('* '+target_lang) != -1:
                 word = prettify(line)
                 word = word.replace("* "+target_lang + ": ", "")
+                
                 translations[current_definition] = word
     return translations
+
+#Example : 't+|de|Sprecher|m, t+|de|Sprecherin|f'
+def structure_word(raw):
+    words = raw.split(',')
+    cleaned_words = []
+    for word in words:
+        components = word.split('|')
+        word = {
+            'type':components[0],
+            'lang':components[1],
+            'translation':components[2],
+            "gender":""
+        }
+        if len(components) == 4:
+            word["gender"] = components[3]
+
+        cleaned_words.append(word)
+  
+    return cleaned_words
 

@@ -26,3 +26,5 @@ print(get_iso_name('French'))
 print(get_iso_name('french'))
 print(get_iso_name('frhf'))
 
+raw = "t+|fr|inconnu|m, t+|fr|inconnue|f"
+print(scan.structure_word(raw))

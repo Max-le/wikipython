@@ -1,26 +1,34 @@
 
 ## BACK-END SERVER ##
 
-from flask import Flask, request, render_template
+from flask import Flask, request, render_template, Response
 from wiki import *
 from bs4 import BeautifulSoup
 import wikipedia
 import scan, fetcher, json
 app = Flask(__name__)
 
-@app.route("/hello")
-def hello():
-    return "Hello World!"
 @app.route('/')
 def home():
     return render_template("home.html")
+@app.route('/', methods=['POST'])
+def my_form_post():
+    word = request.form['text']
+    lang = 'German'
+    payload = {'word': word, 'lang': lang}
+    r = requests.get("http://127.0.0.1:5000/translate", params=payload)
+    print(r.url)
+    result = json.loads(r.text)
+    print_dict(result)
+    return render_template("home.html", data=result)
 @app.route('/translate')
 def translate():
     word = request.args.get('word')
-    lang = 'German'
+    lang = request.args.get('lang')
     fetcher.get_wiktionary_data(word)
     dico = scan.extract_defs_and_translations('word_data.txt', lang)
-    return json.dumps(dico, indent=4 )
+    data =  json.dumps(dico, indent=4 )
+    return Response(data, mimetype='text/json')
 @app.route('/list')
 def list():
     word_to_translate = request.args.get('word')

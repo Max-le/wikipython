@@ -1,933 +1,205 @@
-{{also|Call|CALL}}
 ==English==
-{{slim-wikipedia}}
-[[File:Bundesarchiv Bild 183-C0603-0008-001, Vorbereitung Frauenkongress, Delegierte Palm.jpg|thumb|right|Woman making a telephone call (1964).]]
-[[File:Pandion haliaetus.ogg|thumb|right|Call of the [[osprey]] (bird).]]
+{{wikipedia}}
 
 ===Etymology===
-From {{inh|en|enm|callen}}, from {{inh|en|ang|ceallian|t=to call, shout}} and {{der|en|non|kalla|t=to call; shout; refer to as; name}}; both from {{inh|en|gem-pro|*kalzōną|t=to call, shout}}, from {{der|en|ine-pro|*gal(o)s-}}, {{m|ine-pro|*glōs-}}, {{m|ine-pro|*golH-so-|t=voice, cry}}. Cognate with {{cog|sco|call}}, {{m|sco|caw}}, {{m|sco|ca|t=to call, cry, shout}}, {{cog|nl|kallen|t=to chat, talk}}, {{etyl|de|-}} dialectal {{m|gmh|kallen|t=to talk; talk loudly or too much}}, {{cog|sv|kalla|t=to call, refer to, beckon}}, {{cog|no|kalle|t=to call, name}}, {{cog|is|kalla|t=to call, shout, name}}, {{cog|la|glōria|t=fame, honour, glory}}, {{cog|cy|galw|t=to call, demand}}, {{cog|pl|głos|t=voice}}, {{cog|lt|gal̃sas|t=echo}}, {{cog|ru|голос|t=voice}}. More at {{l|en|glory}}.
+From {{etyl|fro|en}} {{m|fro|estrangier||foreign, alien}}, from {{m|fro|estrange}}, from {{etyl|la|en}} {{m|la|extraneus||foreign, external}} (whence also English {{m|en|estrange}}), from {{m|la|extra||outside of}}. Displaced native {{cog|ang||[[eldritch#Etymology|eldritch]]}}. Cognate with {{cog|fr|étranger||foreigner, stranger}} and {{cog|es|extranjero||foreigner}}.
 
 ===Pronunciation===
-* {{a|UK}} {{enPR|kôl}}, {{IPA|/kɔːl/|lang=en}}
-* {{audio|En-uk-to call.ogg|Audio (UK)|lang=en}}
-* {{a|GA}} {{IPA|/kɔl/|[kʰɔl]|lang=en}}
-* {{a|US|cot-caught}} {{IPA|/kɑl/|[kʰɑl]|lang=en}}
-* {{audio|En-us-call.ogg|Audio (US)|lang=en}}
-* {{audio|en-au-call.ogg|Audio (AU)|lang=en}}
-* {{audio|LL-Q1860 (eng)-Nattes à chat-call.wav|Audio|lang=en}}
-* {{rhymes|ɔːl|lang=en}}
+* {{a|GenAm}} {{IPA|/ˈstɹeɪndʒɚ/|lang=en}}
+* {{a|RP}} {{IPA|/ˈstɹeɪndʒə/|lang=en}}
+* {{audio|en-us-stranger.ogg|Audio (US)|lang=en}}
+* {{rhymes|eɪndʒə(ɹ)|lang=en}}
+
+===Adjective===
+{{head|en|comparative adjective}}
+
+# {{en-comparative of|strange}}
+#* Truth is '''stranger''' than fiction. {{qualifier|English proverb}}
+
+====Related terms====
+* ''See'' '''[[strange]]'''
 
 ===Noun===
 {{en-noun}}
 
-# A telephone [[conversation]].
-#: ''I received several phone '''calls''' today.''
-#: ''I received several '''calls''' today.''
-# A short [[visit]], usually for [[social]] purposes.
-#: ''I paid a '''call''' to a dear friend of mine.''
-#* Cowper
-#*: the baker's punctual '''call'''
-# {{lb|en|nautical}} A visit by a ship or boat to a port.
-#: ''The ship made a '''call''' at Southampton''.
-# A cry or [[shout]].
-#: ''He heard a '''call''' from the other side of the room.''
-# A [[decision]] or [[judgement]].
-#: ''That was a good '''call'''''.
-# The characteristic [[cry]] of a bird or other animal.
-#: ''That sound is the distinctive '''call''' of the cuckoo bird.''
-# A [[beckon]]ing or [[summon]]ing.
-#: ''I had to yield to the '''call''' of the wild.''
-#* Addison
-#*: Dependence is a perpetual '''call''' upon humanity.
-#* Macaulay
-#*: running into danger without any '''call''' of duty
-# The right to speak at a given time during a debate or other public event; the [[floor]].
-#: {{ux|en|The Prime Minister has the '''call'''.}}
-#: {{ux|en|I give the '''call''' to the Manager of Opposition Business.}}
-# {{lb|en|finance}} An [[option]] to buy [[stock]] at a specified price during or at a specified time.
-# {{lb|en|cricket}} The act of calling to the other batsman.
-# {{lb|en|cricket}} The [[state]] of being the batsman whose [[role]] it is to call (depends on where the ball goes.)
-# A work [[shift]] which requires one to be [[available]] when [[requested]] (see [[on call]]). <!--Any service profession, right? Should be at [[on-call]]?--><!--No, a sense should be here, at [[call]].-->
-#* '''1978''', [[w:Alan E. Nourse|Alan E. Nourse]], ''The Practice'',<sup >[http://books.google.com/books?id=Cn9qAAAAMAAJ ]</sup> Harper & Row, {{ISBN|9780060131944}}:
-#*: page 48: “Mondays would be great, especially after a weekend of '''call'''.”
-#*: page 56: “{{...}} I’ve got '''call''' tonight, and all weekend, but I’ll be off tomorrow to help you some.”
-#* '''2007''', William D. Bailey, ''You Will Never Run Out of Jesus'', CrossHouse Publishing, {{ISBN|978-0-929292-24-3}}:
-#*: [http://books.google.com/books?id=fb3gfJbhL7UC&pg=PA29&dq=call page 29]: I took general-surgery '''call''' at Bossier Medical Center and asked special permission to take general-medical '''call''', which was gladly given away by the older staff members: {{...}}. You would be surprised at how many surgical cases came out of medical '''call'''.
-#*: [http://books.google.com/books?id=fb3gfJbhL7UC&pg=PA206&dq=call page 206]: My first night of primary medical '''call''' was greeted about midnight with a very ill 30-year-old lady who had a temperature of 103 degrees.
-#* '''2008''', Jamal M. Bullocks et al., ''Plastic Surgery Emergencies: Principles and Techniques'', Thieme, {{ISBN|978-1-58890-670-0}}, [http://books.google.com/books?id=ywMPk5TV-3AC&pg=PP11&dq=call page ix]:
-#*: We attempted to include all topics that we ourselves have faced while taking plastic surgery '''call''' at the affiliated hospitals in the Texas Medical Center, one of the largest medical centers in the world, which sees over 100,000 patients per day.
-#* '''2009''', Steven Louis Shelley, ''A Practical Guide to Stage Lighting'', page 171:
-#*: The columns in the second rectangle show fewer hours, but part of that is due to the fact that there's a division between a work '''call''' and a show '''call'''.
-# {{lb|en|computing}} The act of jumping to a subprogram, saving the means to return to the original point.
-# A statement of a particular [[state]], or [[rule]], made in many games such as [[bridge]], [[craps]], [[jacks]], and so on.
-#: ''There was a 20 dollar bet on the table, and my '''call''' was 9.''
-# {{senseid|en|poker}} {{lb|en|poker}} The act of matching a bet made by a player who has previously bet in the same round of betting.
-# A note blown on the horn to encourage the dogs in a hunt.
-# {{lb|en|nautical}} A whistle or pipe, used by the boatswain and his mate to summon the sailors to duty.
-# A pipe or other instrument to call birds or animals by imitating their note or cry. A [[game call]].
-# An invitation to take charge of or serve a [[church]] as its [[pastor]].
-# {{lb|en|archaic}} Vocation; employment; [[calling]].
-# {{lb|en|US|legal}} A reference to, or statement of, an object, course, distance, or other matter of description in a survey or grant requiring or calling for a corresponding object, etc., on the land.
-# {{lb|en|informal|slang|prostitution}} A meeting with a [[client]] for paid sex; [[hookup]]; [[job]].
-#* {{quote-text|lang=en|year=2015|author=Lyda Longa|title=Internet hookups mean fewer prostitutes on Daytona’s streets, police say|url=https://www.news-journalonline.com/news/20150220/internet-hookups-mean-fewer-prostitutes-on-daytonas-streets-police-say|passage=“They have a little network of women that watch out for each other,” Morford said. That means that if one prostitute doesn’t come back after going out on a '''call''' — whether it’s an Internet prostitute or a streetwalker — and the other women can’t get hold of her, they get scared, close up shop and won’t work, Morford said.}}
-
-====Quotations====
-* '''2007''', ''Latina'', volume 11, page 101:
-*: We actually have a '''call''' tomorrow, which is a Sunday, right after my bridal shower. I have to make enchiladas for 10 people!
-
-====Hyponyms====
-{{col4|en|title=Hyponyms of ''call (noun)''
-|altar call
-|bird call
-|booty call
-|broker's call
-|bugle call
-|calendar call
-|cat call
-|cold call
-|collect call
-|conference call
-|courtesy call
-|crank call
-|curtain call
-|distress call
-|forecall
-|function call
-|house call
-|mail call
-|margin call
-|missed call
-|money call
-|naked call
-|nuisance call
-|phone call
-|prank call
-|put-call
-|self-call
-|service call
-|sick call
-|roll call
-|tail call
-|telephone call
-|toll call
-|uncovered call
-|wake-up call
-}}
-
-====Derived terms====
-{{der4|en|title=Terms derived from ''call (noun)''
-|call-board
-|call-by-value
-|call girl
-|call-out
-|callout
-|call-up
-|callup
-|[[calling]] {{qualifier|job}}
-|caller
-|forecall
-|function call
-|put-call
-|self-call
-}}
-
-====Related terms====
-{{rel4|en|title=Terms related to ''call (noun)''
-|at call
-|call and response
-|call board
-|call bond
-|call box
-|callbox
-|call center
-|call centre
-|call fire
-|call girl
-|call mark
-|call number
-|call of nature
-|call of the wild
-|call option
-|call protection
-|call price
-|call risk
-|call rule
-|call sign
-|call slip
-|call waiting
-|on call
-|port of call
-}}
-
-====Translations====
-{{trans-top|telephone conversation}}
-* Armenian: {{t+|hy|զանգ}}
-* Bulgarian: {{t+|bg|ра́зговор|m}}, {{t|bg|оба́ждане|n}}
-* Catalan: {{t+|ca|telefonada|f}}, {{t+|ca|trucada|f}}
-* Chinese:
-*: Mandarin: {{t+|cmn|通話}}, {{t+|cmn|通话|tr=tōnghuà}}, {{t+|cmn|電話}}, {{t+|cmn|电话|tr=diànhuà}}
-* Czech: {{t+|cs|hovor|m}}
-* Danish: {{t|da|opkald|n}}, {{t|da|telefonopkald|n}}
-* Dutch: {{t+|nl|telefoongesprek|n}}, {{t+|nl|oproep|m}}
-* Esperanto: {{t|eo|voko}}
-* Finnish: {{t+|fi|soitto}}, {{t+|fi|puhelinsoitto}}
-* French: {{t+|fr|appel|m}}
-* Galician: {{t+|gl|chamada|f}}
-* Georgian: {{t|ka|ზარი}}, {{t|ka|სატელეფონო საუბარი}}
-* German: {{t+|de|Anruf|m}}
-* Greek: {{t+|el|τηλεφώνημα|n}}
-* Hebrew: {{t|he|צלצול|m|tr=tziltzul}}
-* Icelandic: {{t|is|símtal|n}}
-* Ido: {{t+|io|telefono}}
-* Indonesian: {{t+|id|telepon}}
-* Irish: {{t|ga|glaoch|m}}, {{t|ga|glao|m}}
-* Italian: {{t+|it|telefonata|f}}, {{t+|it|chiamata|f}}
-* Japanese: {{t+|ja|通話|tr=つうわ, tsūwa}}
-{{trans-mid}}
-* Korean: {{t+|ko|전화}}, {{t+|ko|통화}}
-* Luxembourgish: {{t|lb|Uruff|m}}
-* Macedonian: {{t|mk|по́вик|m}}
-* Malay: {{t|ms|panggilan}}
-* Maori: {{t|mi|waeatanga}}
-* Persian: {{t|fa|زنگیدن|tr=zangidan}}, {{t+|fa|زنگ زدن|tr=zang zadan}}
-* Polish: {{t|pl|[[rozmowa]] [[telefoniczny|telefoniczna]]|f}}
-* Portuguese: {{t|pt|telefonema|m}}, {{t+|pt|chamada}}, {{t+|pt|ligação}}
-* Quechua: {{t|qu|waqya}}
-* Romanian: {{t+|ro|chemare}}
-* Romansch: {{t|rm|telefon}}
-* Russian: {{t+|ru|звоно́к|m}}, {{t+|ru|разгово́р|m}}
-* Serbo-Croatian:
-*: Roman: {{t|sh|telefonski poziv|m}}
-* Slovene: {{t+|sl|klic}}
-* Spanish: {{t+|es|llamada|f}}, {{t|es|telefonema|m}}
-* Swedish: {{t+|sv|telefonsamtal|n}}
-* Tagalog: {{qualifier|literally}} {{t|tl|tawag|n}}
-* Turkish: {{t+|tr|çağrı}}
-* Ukrainian: {{t|uk|телефонна розмова}}
-* West Frisian: {{t|fy|telefoanpetear|n}}, {{t|fy|oprop|c}}
-{{trans-bottom}}
-
-{{trans-top|social visit}}
-* Armenian: {{t+|hy|այցելություն}}
-* Belarusian: {{t|be|наве́дванне|n}}, {{t|be|візі́т|m}}
-* Bulgarian: {{t+|bg|посеще́ние|n}}, {{t+|bg|визи́та|f}}
-* Catalan: {{t+|ca|visita|f}}
-* Chinese:
-*: Mandarin: {{t+|cmn|訪問}}, {{t+|cmn|访问|tr=fǎngwèn}}, {{t+|cmn|探望}}
-* Dutch: {{t+|nl|bezoek|n}}
-* Finnish: {{t+|fi|käynti}}, {{t+|fi|vierailu}}
-* French: {{t+|fr|visite|f}}
-* Galician: {{t+|gl|visita|f}}
-* German: {{t+|de|Besuch|m}}
-* Greek: {{t+|el|επίσκεψη|f}}
-* Icelandic: {{t+|is|heimsókn|f}}
-* Italian: {{t+|it|saluto|m}}, {{t+|it|visita|f}}, {{t|it|capatina|f}}
-* Japanese: {{t+|ja|訪問|tr=ほうもん, hōmon}}; {{t+|ja|来訪|tr=らいほう, raihō}}
-* Korean: {{t+|ko|방문}}
-* Latvian: {{t|lv|apmeklējums|m}}, {{t|lv|vizīte|f}}
-{{trans-mid}}
-* Macedonian: {{t|mk|по́сета|f}}
-* Norwegian:
-*: Bokmål: {{q|nautical}} {{t|nb|anløp|n}}
-*: Nynorsk: {{q|nautical}} {{t|nn|anløp|n}}
-* Old English: {{t|ang|sēcness|}}, {{t|ang|sōcn|f}}, {{t|ang|nēosung|f}}
-* Persian: {{t+|fa|گله|tr=gelle}}
-* Polish: {{t+|pl|wizyta|f}}
-* Portuguese: {{t+|pt|visita|f}}
-* Romanian: {{t+|ro|vizită|f}}
-* Russian: {{t+|ru|визи́т|m}}, {{t+|ru|посеще́ние|n}}, {{t+|ru|прихо́д|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|по̏сјет|m}}
-*: Roman: {{t+|sh|pȍsjet|m}}
-* Spanish: {{t+|es|visita}}
-* Swedish: {{t+|sv|besök|n}}
-* Ukrainian: {{t|uk|відві́дування|n}}, {{t|uk|візи́т|m}}, {{t|uk|візи́та|f}}
-{{trans-bottom}}
-
-{{trans-top|cry or shout}}
-* Armenian: {{t+|hy|կանչ}}
-* Bulgarian: {{t+|bg|вик|m}}, {{t+|bg|кря́сък|m}}
-* Catalan: {{t+|ca|crit|m}}, {{t+|ca|crida|f}}, {{t+|ca|xiscle|m}}
-* Czech: {{t+|cs|křik}}
-* Dutch: {{t+|nl|roep}}
-* Finnish: {{t+|fi|huuto}}
-* French: {{t+|fr|appel}}, {{t+|fr|cri|m}}
-* Galician: {{t|gl|berro|m}}
-* Georgian: {{t|ka|ყვირილი}}, {{t|ka|წამოძახილი}}, {{t|ka|შეძახილი}}, {{t|ka|ძახილი}}, {{t|ka|შეძახება}}
-* German: {{t+|de|Ruf|m}}
-* Greek: {{t+|el|κραυγή|f}}, {{t+|el|αναφώνηση|f}}, {{t+|el|ξεφωνητό|n}}
-* Hebrew: {{t+|he|קריאה|f|tr=kri'a}}
-* Icelandic: {{t+|is|kall|n}}, {{t+|is|hróp|n}}
-* Irish: {{t|ga|glao|m}}
-* Italian: {{t+|it|urlo|m}}, {{t+|it|grido|m}}
-* Japanese: {{t|ja|呼び声|tr=よびごえ, yobigoe}}; {{t|ja|叫び|tr=さけび, sakebi}}
-{{trans-mid}}
-* Korean: {{t+|ko|외침}}
-* Kurdish:
-*: Sorani: {{t+|ku|بانگ}}
-* Latgalian: {{t|ltg|saucīņs}}, {{t|ltg|klīdzīņs}}, {{t|ltg|klaiga}}
-* Latvian: {{t|lv|kliedziens}}, {{t|lv|sauciens}}
-* Luxembourgish: {{t|lb|Ruff|m}}
-* Macedonian: {{t|mk|вик|m}}, {{t|mk|крик|m}}
-* Polish: {{t+|pl|krzyk|m}}, {{t+|pl|okrzyk|m}}, {{t+|pl|wołanie|n}}
-* Portuguese: {{t+|pt|chamada|f}}, {{t+|pt|grito|m}}
-* Russian: {{t+|ru|крик|m}}
-* Scottish Gaelic: {{t|gd|gairm|f}}
-* Slovene: {{t+|sl|klic}}
-* Spanish: {{t+|es|grito}}
-* Swahili: {{t|sw|kilio}}
-* Swedish: {{t+|sv|rop|n}}
-* Ukrainian: {{t|uk|крик}}
-{{trans-bottom}}
-
-{{trans-top|characteristic cry of a bird or other animal}}
-* Armenian: {{t+|hy|կանչ}}
-* Bulgarian: {{t+|bg|вик|m}}
-* Catalan: {{t+|ca|crit|m}}
-* Finnish: {{t+|fi|ääni}}
-* French: {{t+|fr|chant|m}}, {{t+|fr|cri|m}}
-* German: {{t+|de|Ruf|m}}, {{t+|de|Laut|m}}
-* Greek: {{t+|el|τιτίβισμα|n}}, {{t+|el|κραυγή|f}}
-* Hebrew: {{t|he|ציוץ|m|tr=tziutz}}
-* Irish: {{t|ga|glao|m}}
-* Italian: {{t+|it|canto|m}}, {{t+|it|richiamo|m}}
-{{trans-mid}}
-* Japanese: {{t|ja|鳴き声|tr=なきごえ, nakigoe}}
-* Korean: {{t+|ko|울음}}
-* Macedonian: {{t|mk|крик|m}}
-* Portuguese: {{t+|pt|canto|m}}
-* Russian: {{t+|ru|крик|m}}, {{t+|ru|го́лос|m}}
-* Scottish Gaelic: {{t|gd|gairm|f}}
-* Slovene: {{t+|sl|klic|m}}
-* Spanish: {{t+|es|canto|m}}, {{t+|es|llamado|m}}
-* Swedish: {{t|sv|fågelsång|c}}
-* ǃXóõ: {{t|nmn|kxʻāa}}
-{{trans-bottom}}
-
-{{trans-top|beckoning or summoning}}
-* Armenian: {{t+|hy|կանչ}}
-* Bulgarian: {{t+|bg|зов|m}}, {{t+|bg|призи́в|m}}, {{t+|bg|повикване|n}}
-* Catalan: {{t+|ca|crida|f}}
-* Czech: {{t+|cs|volání|n}}
-* Esperanto: {{t|eo|alvoko}}
-* Finnish: {{t+|fi|kutsu}}, {{t|fi|kutsuhuuto}}
-* French: {{t+|fr|appel}}
-* German: {{t+|de|Ruf|m}}, {{t+|de|Lockruf|m}}
-* Greek: {{t+|el|κάλεσμα|n}}, {{t+|el|πρόσκληση|f}}
-*: Ancient Greek: {{t|grc|κλῆσις|f}}
-* Hebrew: {{t+|he|קריאה|f|tr=kri'a}}
-* Icelandic: {{t+|is|kall|n}}
-* Irish: {{t|ga|glaoch|m}}
-* Italian: {{t+|it|richiamo|m}}, {{t+|it|chiamata|f}}, {{t+|it|convocazione|f}}
-{{trans-mid}}
-* Japanese: {{t|ja|呼び出し|tr=よびだし, yobidashi}}
-* Korean: {{t+|ko|부름}}
-* Macedonian: {{t|mk|по́вик|m}}
-* Old English: {{t|ang|cīgung|f}}, {{t|ang|oncīgung|f}}
-* Polish: {{t+|pl|wezwanie|n}}, {{t|pl|zew|m}}
-* Portuguese: {{t+|pt|chamada|f}}, {{t+|pt|chamado|m}}
-* Russian: {{t+|ru|зов|m}}
-* Slovene: {{t+|sl|klic}}
-* Spanish: {{t+|es|convocatoria|f}}
-* Swahili: {{t+|sw|mwito}}
-* Telugu: {{t+|te|పిలుపు}}
-* Ukrainian: {{t|uk|заклик}}
-* Welsh: {{t|cy|galwad|f}}
-{{trans-bottom}}
-
-{{trans-top|the right to speak}}
-* Finnish: {{t+|fi|puheenvuoro}}
-* French: {{t+|fr|parole|f}}
-* Russian: {{t+|ru|сло́во|m}}
-{{trans-mid}}
-* Spanish: {{t+|es|palabra|f}}
-* Swedish: {{t+|sv|ord|n}}
-{{trans-bottom}}
-
-{{trans-top|(finance): contract to buy stock}}
-* Finnish: {{t|fi|osto-optio}}
-{{trans-mid}}
-* German: {{t+|de|Option|f}}
-{{trans-bottom}}
-
-{{trans-top|(medicine): overnight duty in the hospital}}
-* Finnish: {{t+|fi|päivystys}}
-* French: {{t+|fr|astreinte|f}}
-* German: {{t+|de|Notdienst|m}}, {{t+|de|Bereitschaftsdienst|m}}
-* Greek: {{t+|el|εφημερία|f}}
-{{trans-mid}}
-* Italian: {{t+|it|turno|m}}
-* Portuguese: [[plantão]] [[médico]]
-* Russian: {{t+|ru|дежу́рство|n}}
-* Spanish: {{t+|es|guardia|f}}
-{{trans-bottom}}
-
-{{trans-top|(computing): the act of jumping to a subprogram}}
-* Catalan: {{t+|ca|crida|f}}
-* Finnish: {{t+|fi|kutsu}}
-* French: {{t+|fr|appel|m}}, {{t+|fr|exécution}}
-* Greek: {{t+|el|κλήση|f}}
-* Japanese: {{t|ja|呼び出し|tr=よびだし, yobidashi}}, {{t|ja|呼び|tr=よび, yobi}}
-* Macedonian: {{t|mk|по́вик|m}}
-{{trans-mid}}
-* Polish: {{t+|pl|wywołanie|n}}
-* Portuguese: {{t+|pt|chamada|f}}
-* Russian: {{t+|ru|вы́зов|m}}
-* Spanish: {{t+|es|llamada|f}}, {{t+|es|llamado|m}}
-* Swedish: {{t+|sv|anrop|n}}
-* Ukrainian: {{t|uk|виклик}}
-{{trans-bottom}}
-
-{{trans-top|(poker): the act of matching a bet}}
-* Finnish: {{t+|fi|kutsu}}
-* Russian: {{t+|ru|колл|m}}
-{{trans-mid}}
-* Swedish: {{t+|sv|syn|c}}, {{t+|sv|call|c}}
-{{trans-bottom}}
-
-{{trans-top|Instrument to call birds or animals}}
-* Finnish: {{t+|fi|pilli}}
-* French: {{t+|fr|appeau|m}}
-{{trans-mid}}
-* Russian: {{t+|ru|мано́к|m}}
-{{trans-bottom}}
-
-===Verb===
-{{en-verb|past2=call'd}}
-
-# {{lb|en|heading}} ''To use one's voice.''
-## {{lb|en|intransitive}} To request, [[summon]], or [[beckon]].
-##: {{ux|en|That person is hurt; '''call''' for help!}}
-##* {{rfdate||and other bibliographic particulars}} {{w|John Bunyan}}
-##*: They '''called''' for rooms, and he showed them one.
-## {{lb|en|intransitive}} To [[cry]] or shout.
-##* {{rfdate||and other bibliographic particulars}} {{w|William Shakespeare}}
-##*: You must '''call''' to the nurse.
-##* {{rfdate||and other bibliographic particulars}} {{w|Rudyard Kipling}}, ''Merrow Down''
-##*: For far &mdash; oh, very far behind, / So far she cannot '''call''' to him, / Comes Tegumai alone to find / The daughter that was all to him!
-## {{lb|en|transitive}} To utter in a loud or distinct voice.
-##: {{ux|en|to '''call''' the roll of a military company}}
-##* {{rfdate||and other bibliographic particulars}} {{w|John Gay}}
-##*: no parish clerk who '''calls''' the psalm so clear
-## {{lb|en|transitive|intransitive}} To contact by [[telephone]].
-##: {{ux|en|Why don't you '''call''' me in the morning?&emsp; Why don't you '''call''' tomorrow?}}
-## {{lb|en|transitive}} To declare in advance.
-##: {{ux|en|The captains '''call''' the coin toss.}}
-## To rouse from sleep; to awaken.
-##* {{rfdate||and other bibliographic particulars}} {{w|William Shakespeare}}
-##*: If thou canst awake by four o' the clock, / I prithee '''call''' me. Sleep hath seized me wholly.
-## To declare (an effort or project) to be a failure.
-##: {{ux|en|After the third massive failure, John '''called''' the whole initiative.}}
-# {{lb|en|heading|intransitive}} ''To visit.''
-## To pay a (social) visit {{gloss|often used with "on", "round", or "at"; used by salespeople with "again" to invite customers to come again}}.
-##: {{ux|en|We could always '''call''' on a friend.&emsp; The engineer '''called''' round whilst you were away.}}
-##* {{rfdate||and other bibliographic particulars}} {{w|Sir William Temple, 1st Baronet|William Temple}}
-##*: He ordered her to '''call''' at the house once a week.
-##* {{quote-book|lang=en|year=1898|author={{w|Winston Churchill (novelist)|Winston Churchill}}
-|title={{w|The Celebrity}}|chapter=4
-|passage=The Celebrity, by arts unknown, induced Mrs. Judge Short and two other ladies to '''call''' at Mohair on an afternoon when Mr. Cooke was trying a trotter on the track. The three returned wondering and charmed with Mrs. Cooke; they were sure she had had no hand in the furnishing of that atrocious house.}}
-## To stop at a station or port.
-##: {{ux|en|This train '''calls''' at Reading, Slough and London Paddington.&emsp; Our cruise ship '''called''' at Bristol Harbour.}}
-# {{lb|en|heading}} ''To name, identify or describe.''
-## {{lb|en|ditransitive}} To [[name]] or refer to.
-##: {{ux|en|Why don't we dispense with the formalities. Please '''call''' me Al.}}
-##* {{quote-book|lang=en|year=1913|author={{w|Joseph C. Lincoln}}|chapter=7
-|title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]
-|passage=“I don't know how you and the ‘head,’ as you '''call''' him, will get on, but I do know that if you '''call''' my duds a ‘livery’ again there'll be trouble. It's bad enough to go around togged out like a life saver on a drill day, but I can stand that 'cause I'm paid for it. What I won't stand is to have them togs '''called''' a livery.{{nb...}}”}}
-##* {{RQ:RnhrtHpwd Bat|I|01}}
-##*: The Bat—they '''called''' him the Bat. Like a bat he chose the night hours for his work of rapine; like a bat he struck and vanished, pouncingly, noiselessly; like a bat he never showed himself to the face of the day.
-##* {{quote-journal|lang=en|date=2013-06-28|author={{w|Joris Luyendijk}}
-|volume=189|issue=3|page=21|magazine={{w|The Guardian Weekly}}
-|title=[http://www.guardian.co.uk/commentisfree/joris-luyendijk-banking-blog/2013/jun/19/banking-britain-beyond-control Our banks are out of control]
-|passage=Seeing the British establishment struggle with the financial sector is like watching an alcoholic{{nb...}}.&nbsp; Until 2008 there was denial over what finance had become.{{...}}But the scandals kept coming, and so we entered stage three – what therapists '''call''' "bargaining". A broad section of the political class now recognises the need for change but remains unable to see the necessity of a fundamental overhaul. Instead it offers fixes and patches.}}
-##* '''2016''', [https://web.archive.org/web/20171023035740/https://learningenglish.voanews.com/a/lets-learn-english-lesson-7-what-are-you-doing/3240468.html VOA Learning English] (public domain)
-##*: I am your boss, Caty Weaver. But, please '''call''' me Caty.  ― Thank you, Ms. Weaver. ―  Just Caty. ―  Sure thing, Ms. Weaver. ― Okay then.
-##*:: {{audio|I am your boss, Caty Weaver. But, please call me Caty.ogg|Audio (US)|lang=en}}
-## {{lb|en|in passive}} Of a person, to have as one's name; of a thing, to have as its name.
-##: {{ux|en|I'm '''called''' John.&emsp; A very tall building is '''called''' a skyscraper.}}
-##* {{quote-journal|lang=en|year=2013|month=September-October|author={{w|Henry Petroski}}
-|magazine={{w|American Scientist}}|title=[http://www.americanscientist.org/issues/pub/2013/5/the-evolution-of-eyeglasses The Evolution of Eyeglasses]
-|passage=The ability of a segment of a glass sphere to magnify whatever is placed before it was known around the year 1000, when the spherical segment was '''called''' a reading stone, essentially what today we might term a frameless magnifying glass or plain glass paperweight.}}
-## {{lb|en|transitive}} To predict.
-##: {{ux|en|He '''called''' twelve of the last three recessions.}}
-## To state, or estimate, approximately or loosely; to characterize without strict regard to fact.
-##: {{ux|en|They '''call''' the distance ten miles.&emsp; That's enough work. Let's '''call''' it a day and {{nowrap|go home}}.}}
-##* {{rfdate||and other bibliographic particulars}} {{w|John Brougham}}
-##*: [The] army is '''called''' seven hundred thousand men.
-## {{lb|en|obsolete}} To disclose the class or character of; to identify.
-##* {{rfdate||and other bibliographic particulars}} {{w|Beaumont and Fletcher}}
-##*: This speech '''calls''' him Spaniard.
-# {{lb|en|heading|sport}} ''Direct or indirect use of the voice.''
-## {{lb|en|cricket}} (of a [[batsman]]): To [[shout]] [[directions]] to the other batsman on [[whether]] or not they should take a run.
-## {{lb|en|baseball|cricket}} (of a [[fielder]]): To shout to other fielders that he [[intend]]s to take a [[catch]] (thus [[avoid]]ing [[collision]]s).
-## {{lb|en|intransitive|poker}} To [[equal]] the same amount that other [[player]]s are currently betting.
-##: ''I bet $800 and Jane raised to $1600. My options: '''call''' (match her $1600 bet), reraise or fold.''
-## {{lb|en|intransitive|poker|proscribed}} To [[match]] the current bet amount, in preparation for a [[raise]] in the same turn. (Usually, players are forbidden to announce one's play this way.)
-##: ''I'll '''call''' your 300, and raise to 600!''
-## {{lb|en|transitive}} To [[state]], or invoke a [[rule]], in many games such as [[bridge]], [[craps]], [[jacks]], and so on.
-##: {{ux|en|My partner '''called''' two spades.}}
-# {{lb|en|transitive|sometimes with ''for''}} To [[require]], [[demand#Verb|demand]].
-#: {{ux|en|He felt '''called''' to help the old man.}}
-#* {{RQ:EHough PrqsPrc|II|0147}}
-#*: Carried somehow, somewhither, for some reason, on these surging floods, were these travelers, of errand not wholly obvious to their fellows, yet of such sort as to '''call''' into query alike the nature of their errand and their own relations.
-# {{lb|en|transitive|finance}} To announce the early extinction of a debt by prepayment, usually at a [[premium]].
-# {{lb|en|transitive|banking}} To demand repayment of a loan.
-# {{lb|en|transitive|computing}} To jump to (another part of a program) to perform some operation, returning to the original point on completion.
-#: {{ux|en|A recursive function is one that '''calls''' itself.}}
+# A person whom one does not know; a person who is neither a [[friend]] nor an [[acquaintance]].
+#: {{ux|en|That gentleman is a '''stranger''' to me.&emsp; {{nowrap|Children are taught not to talk to '''strangers'''.}}}}
+#* {{RQ:WBsnt IvryGt|III}}
+#*: In former days every tavern of repute kept such a room for its own select circle, a club, or society, of habitués, who met every evening, for a pipe and a cheerful glass.{{...}}'''Strangers''' might enter the room, but they were made to feel that they were there on sufferance: they were received with distance and suspicion.
+# An [[outsider]] or [[foreigner]].
+#* {{rfdate||and other bibliographic particulars}} {{w|William Shakespeare}}
+#*: I am a most poor woman and a '''stranger''', / Born out of your dominions.
+#* {{rfdate||and other bibliographic particulars}} {{w|George Granville, 1st Baron Lansdowne|George Granville}}
+#*: Melons on beds of ice are taught to bear, / And '''strangers''' to the sun yet ripen here.
+#* '''1961''', {{w|Robert A. Heinlein}}: “[[w:Stranger in a Strange Land|'''Stranger''' in a Strange Land]]”
+# A [[newcomer]].
+#* {{quote-book|lang=en|year=1918|author={{w|W. B. Maxwell}}|chapter=7
+|title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]
+|passage=[…] St. Bede's at this period of its history was perhaps the poorest and most miserable parish in the East End of London. Close-packed, crushed by the buttressed height of the railway viaduct, rendered airless by huge walls of factories, it at once banished lively interest from a '''stranger''''s mind and left only a dull oppression of the spirit.}}
+# {{lb|en|humorous}} One who has not been seen for a long time.
+#: {{ux|en|Hello, '''stranger'''!}}
+# {{lb|en|obsolete}} One not belonging to the family or household; a guest; a visitor.
+#* {{rfdate||and other bibliographic particulars}} {{w|John Milton}}
+#*: To honour and receive / Our heavenly '''stranger'''.
+# {{lb|en|legal}} One not privy or party to an act, contract, or title; a mere intruder or intermeddler; one who interferes without right.
+#: {{ux|en|Actual possession of land gives a good title against a '''stranger''' having no title.}}
 
 ====Synonyms====
-* {{sense|cry or shout}} {{l|en|holler}}, {{l|en|yell}}; see also [[Thesaurus:shout]]
-* {{sense|contact by telephone}} {{l|en|drop a line}}, {{l|en|ring}}; see also [[Thesaurus:telephone]]
-* {{sense|rouse from sleep}} {{l|en|wake up}}; see also [[Thesaurus:awaken]]
-* {{sense|name or refer to}} {{l|en|designate}}, {{l|en|dub}}, {{l|en|name}}; see also [[Thesaurus:denominate]]
-* {{sense|predict}} {{l|en|augur}}, {{l|en|foretell}}; see also [[Thesaurus:predict]]
+* {{sense|person whom one does not know}}
+* {{sense|outsider, foreigner}} {{l|en|alien}}, {{l|en|foreigner}}, {{l|en|foreign national}}, {{l|en|non-national}}/[[nonnational]], [[non-resident]]/[[nonresident]], [[outsider]]
+* {{sense|newcomer}} {{l|en|newbie}}, {{l|en|newcomer}}
+
+====Antonyms====
+* {{sense|person whom one does not know}} {{l|en|acquaintance}}, {{l|en|friend}}
+* {{sense|outsider, foreigner}} {{l|en|compatriot}}, {{l|en|countryman}}, {{l|en|fellow}} [[citizen]], fellow [[countryman]], [[national]], [[resident]]
+* {{sense|newcomer}}
 
 ====Derived terms====
-{{der4|en|title=Terms derived from the verb "call"
-|becall
-|call a spade a spade
-|call after
-|call again
-|call by
-|call back
-|call down
-|call for
-|call in
-|call into question
-|call it a day
-|call it quits
-|call off
-|call on
-|call out
-|call round
-|call someone's bluff
-|call the shots
-|call the tune
-|call time
-|call to account
-|call to the Bar
-|call up
-|call upon
-|calling
-|miscall
-|withcall
-}}
+* {{l|en|be no stranger to}}
+* {{l|en|don't be a stranger}}
+* {{l|en|stranger danger}}
 
 ====Translations====
-{{trans-top|to request, summon, or beckon}}
-* Afrikaans: {{t|af|roep}}
-* Albanian: {{t+|sq|quaj}}
-* Arabic: {{t|ar|دَعَا}}, {{t|ar|اِتَّصَلَ}}, {{t|ar|نَادَى}}
-* Armenian: {{t+|hy|կանչել}}
-* Aromanian: {{t|rup|cljem}}
-* Assamese: {{t|as|মতা}}, {{t|as|মাতা}}
-* Asturian: {{t|ast|llamar}}
-* Azerbaijani: {{t+|az|çağırmaq}}, {{t+|az|axtarmaq}}, {{t|az|aramaq}}
-* Belarusian: {{t|be|клі́каць|impf}}, {{t|be|клі́кнуць|pf}}
-* Bengali: {{t|bn|ডাকা|tr=ḑak}}
-* Bulgarian: {{t+|bg|ви́кам|impf}}, {{t+|bg|пови́квам|pf}}
-* Burmese: {{t+|my|အော်}}, {{t+|my|ဆင့်}}
-* Catalan: {{t+|ca|cridar}}
-* Cebuano: {{t|ceb|tawag}}
+{{trans-top|person whom one does not know}}
+* Arabic: {{t+|ar|غَرِيب|m}}
+* Armenian: {{t+|hy|անծանոթ}}
+* Basque: {{t-needed|eu}}
+* Belarusian: {{t|be|незнаёмец|m}}, {{t|be|незнаёмка|f}}, {{t|be|чужы́|m}}
+* Bulgarian: {{t+|bg|чуждене́ц|m}}
+* Catalan: {{t+|ca|desconegut|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|叫|tr=jiào}}
-* Corsican: {{t+|co|chjamà}}
-* Czech: {{t+|cs|volat|impf}}, {{t+|cs|zavolat|pf}}
-* Dalmatian: {{t|dlm|clamuor}}
-* Danish: {{t|da|kalde}}
-* Dutch: {{t+|nl|roepen}}
-* Esperanto: {{t|eo|voki}}
-* Estonian: {{t|et|kutsuma}}
-* Finnish: {{t+|fi|kutsua}}, {{t+|fi|hakea}}
-* French: {{t+|fr|appeler}}
-* Friulian: {{t|fur|clamâ}}
-* Galician: {{t+|gl|chamar}}
-* Georgian: {{t|ka|დაძახება}}, {{t|ka|ხმობა}}
-* German: {{t+|de|rufen}}, {{t+|de|anrufen}}, {{t+|de|herbeirufen}}
-* Greek: {{t+|el|καλώ}}
-*: Ancient: {{t|grc|καλέω}}
-* Haitian Creole: {{t|ht|rele}}
-* Hebrew: {{t+|he|קָרָא|tr=kará}}
-* Hindi: {{t+|hi|पुकारना}}, {{t+|hi|बुलाना}}
-* Hungarian: {{t+|hu|hív}}
-* Icelandic: {{t+|is|kalla}}
-* Ido: {{t+|io|vokar}}
-* Istro-Romanian: {{t|ruo|cľamå}}
-* Italian: {{t+|it|chiamare}}
-* Japanese: {{t+|ja|呼ぶ|tr=よぶ, yobu}}
-* Kazakh: {{t+|kk|шақыру}}
-* Khmer: {{t+|km|ហៅ}}
-* Korean: {{t+|ko|부르다}}
-* Kyrgyz: {{t+|ky|чакыруу}}
-* Lao: {{t|lo|ກູ່}}, {{t|lo|ເອີ້ນ}}
-* Latgalian: {{t|ltg|saukt}}, {{t|ltg|klīgt}}
+*: Mandarin: {{t+|cmn|陌生人|tr=mòshēngrén|sc=Hani}}
+* Czech: {{t+|cs|neznámý|m}}, {{t+|cs|cizinec|m}}
+* Danish: {{t+|da|fremmed}}
+* Dutch: {{t+|nl|vreemde|m|f}}, {{t+|nl|vreemdeling|m}}, {{t|nl|vreemdelinge|f}}
+* Esperanto: {{t|eo|nekonato}}, {{t|eo|nekonatino}}
+* Finnish: {{t+|fi|tuntematon}}, {{t+|fi|vieras}}
+* French: {{t+|fr|inconnu|m}}, {{t+|fr|inconnue|f}}
+* German: {{t+|de|Fremder|m}}, {{t+|de|Fremde|f}}, {{t+|de|Fremdling|m}}, {{t|de|Fremdlingin|f}}
+* Greek: {{t+|el|ξένος|m}}, {{t+|el|άγνωστος|m}}
+* Hindi: {{t|hi|अजनबी|m|tr=ajnabī}}<!--manual translit is required to get "ajnabī"-->
+* Hungarian: {{t+|hu|idegen}}
+* Irish: {{t|ga|strainséir|m}}
+* Italian: {{t+|it|straniero|m}}, {{t+|it|straniera|f}}
+* Japanese: {{t|ja|[[知る|知らない]][[人]]|tr=しらないひと, shiranai hito}}
 {{trans-mid}}
-* Latin: {{t+|la|vocō}}
-* Latvian: {{t|lv|saukt}}
-* Ligurian: {{t|lij|ciamâ}}
-* Lithuanian: {{t|lt|šaukti}}, {{t|lt|pašaukti}}
-* Low German:
-*: German Low German: {{t+|nds-de|ropen}}
-* Macedonian: {{t|mk|ви́ка|impf}}, {{t|mk|пови́кува|pf}}
-* Malay: {{t|ms|panggil}}
-* Maori: {{t|mi|karanga}}
-* Neapolitan: {{t|nap|chiammà}}
-* North Frisian: {{qualifier|Sylt dialect}} {{t|frr|röp}}
-* Norwegian: {{t+|no|kalle}}
-* Pashto: {{t+|ps|بلل|tr=baləl}}
-* Persian: {{t+|fa|صدا زدن|tr=sedâ zadan}}
-* Polish: {{t+|pl|wzywać|impf}}, {{t+|pl|wezwać|pf}}, {{t+|pl|wołać|impf}}, {{t+|pl|zawołać|pf}}
-* Portuguese: {{t+|pt|chamar}}
-* Quechua: {{t|qu|waqyay}}
-* Romanian: {{t+|ro|chema}}
-* Romansch: {{t|rm|clamar}}, {{t|rm|clamer}}, {{t|rm|clomar}}
-* Russian: {{t+|ru|звать|impf}}, {{t+|ru|позва́ть|pf}}, {{t+|ru|вызыва́ть|impf}}, {{t+|ru|вы́звать|pf}}
-* Sanskrit: {{t|sa|आव्हे}}
-* Sardinian: {{t|sc|ciamare}}
+* Korean: {{t|ko|[[낯설다|낯선]] [[사람]]}}
+* Latin: {{t|la|extraneus}}, {{t+|la|alienus}}
+* Macedonian: {{t|mk|незнајник|m}}, {{t|mk|незнаник|m}}, {{t|mk|туѓинец|m}}
+* Persian: {{t+|fa|غریبه|tr=ğaribe}}, {{t+|fa|اجنبی|tr=ajnabi}}
+* Polish: {{t+|pl|obcy|m}}, {{t+|pl|nieznajomy|m}}, {{t+|pl|nieznajoma|f}}
+* Portuguese: {{t+|pt|estranho|m}}, {{t+|pt|estranha|f}}
+* Russian: {{t+|ru|незнако́мец|m}}, {{t+|ru|незнако́мка|f}}, {{t+|ru|чужо́й|m}}, {{t+|ru|посторо́нний|m}}, {{t+|ru|чужа́к|m}}
+* Scottish Gaelic: {{t|gd|coimheach|m}}, {{t|gd|coigreach|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|звати|impf}}
-*: Roman: {{t+|sh|zvati|impf}}
-* Sicilian: {{t+|scn|chiamari}}
-* Slovak: {{t|sk|volať|impf}}, {{t|sk|zavolať|pf}}
-* Slovene: {{t+|sl|klicati|impf}}, {{t|sl|poklicati|pf}}
-* Sorbian:
-*: Lower Sorbian: {{t|dsb|wołaś|impf}}
-* Spanish: {{t+|es|llamar}}, {{t+|es|convocar}}
-* Swahili: ku{{t|sw|ita}}
-* Swedish: {{t+|sv|kalla}}, {{t+|sv|ropa}}
-* Tajik: {{t|tg|ҷеғ задан}}, {{t|tg|фарёд кардан}}
-* Telugu: {{t+|te|పిలుచు}}
-* Thai: {{t+|th|เรียก}}
-* Turkish: {{t+|tr|aramak}}
-* Turkmen: {{t|tk|oýarmak}}, {{t|tk|çagarmak}}
-* Ukrainian: {{t|uk|кли́кати|impf}}, {{t|uk|покли́кати|pf}}; {{t|uk|зва́ти|impf}}, {{t|uk|позва́ти|pf}}
-* Urdu: {{t|ur|پکارنا|tr=pukārnā}}, {{t|ur|بلانا|tr=bulānā}}
-* Uzbek: {{t+|uz|chaqirmoq}}
-* Vietnamese: {{t+|vi|gọi}}, {{t+|vi|kêu}}
-* Walloon: {{t+|wa|houkî}}
-* West Flemish: {{t|vls|roepen}}
-* Yiddish: {{t|yi|רופֿן}}
-* Zulu: {{t|zu|biza|alt=-biza}}
+*: Roman: {{t+|sh|stránac|m}}, {{t+|sh|strȁnkinja|f}}
+* Slovak: {{t|sk|cudzinec|m}}
+* Slovene: {{t|sl|neznanec|m}}, {{t|sl|neznanka|f}}, {{t+|sl|tujec|m}}, {{t|sl|tujka|f}}
+* Spanish: {{t+|es|desconocido|m}}, {{t+|es|desconocida|f}}
+* Swedish: {{t+|sv|främling}}
+* Tajik: {{t+|tg|аҷнабӣ}}
+* Ukrainian: {{t|uk|незнайо́мець|m}}, {{t|uk|незнайо́мка|f}}, {{t|uk|чужи́нець|m}}, {{t|uk|чужи́нка|f}}, {{t|uk|чужи́й|m}}
+* Urdu: {{t+|ur|اجنبی|m|tr=ajnabī}}
+* Vietnamese: {{t+|vi|người lạ}}
+* Welsh: {{t|cy|dieithryn}}
+* Westrobothnian: {{t|gmq-bot|okännamann|m}}
 {{trans-bottom}}
 
-{{trans-top|to cry or shout}}
-* Arabic:
-*: Moroccan Arabic: {{t|ary|عْيط|tr=ʕyəṭ}}, {{t|ary|غوّت|tr=ghəwwət}}
-* Armenian: {{t+|hy|գոռալ}}
-* Catalan: {{t+|ca|cridar}}, {{t+|ca|xisclar}}, {{t|ca|xillar}}
+{{trans-top-also|outsider or foreigner|foreigner}}
+* Arabic: {{t|ar|أَجْنَبِيّ|m}}
+* Armenian: {{t+|hy|օտարական}}
+* Basque: {{t-needed|eu}}
+* Belarusian: {{t|be|іншазе́мец|m}}, {{t|be|іншазе́мка|f}}, {{t|be|чужазе́мец|m}}, {{t|be|чужазе́мка|f}}
+* Bulgarian: {{t+|bg|чуждене́ц|m}}, {{t|bg|чужденка́|f}}
+* Catalan: {{t+|ca|foraster|m}}, {{t+|ca|forastera|f}}, {{t+|ca|estranger|m}}, {{t+|ca|estrangera|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|叫|tr=jiào}}, {{t+|cmn|喊|tr=hǎn}}
-* Czech: {{t+|cs|křičet}}
-* Dutch: {{t+|nl|schreeuwen}}
-* Finnish: {{t+|fi|huudahtaa}}
-* French: {{t+|fr|appeler}}, {{t+|fr|crier}}
-* Galician: {{t+|gl|berrar}}
-* German: {{t+|de|rufen}}
-* Greek: {{t+|el|φωνάζω}}
-* Hebrew: {{t+|he|קָרָא|tr=kará}}
-* Hungarian: {{t+|hu|kiált}}
-* Icelandic: {{t+|is|kalla}}, {{t+|is|hrópa}}
-* Italian: {{t+|it|chiamare}}, {{t+|it|gridare}}
-* Japanese: {{t+|ja|叫ぶ|tr=さけぶ, sakebu}}
+*: Mandarin: {{t+|cmn|外國人|sc=Hani}}, {{t+|cmn|外国人|tr=wàiguórén|sc=Hani}}
+* Czech: {{t+|cs|cizinec|m}}, {{t|cs|cizozemec|m}}
+* Danish: {{t+|da|udlænding|c}}, {{t+|da|fremmed}}
+* Dutch: {{t+|nl|buitenlander|m}}, {{t+|nl|buitenlandse|f}}, {{t+|nl|vreemdeling|m}}, {{t|nl|vreemdelinge|f}}
+* Esperanto: {{t|eo|eksterlandano}}, {{t|eo|eksterlandanino}}, {{t|eo|alilandano}}, {{t|eo|alilandanino}}, {{t|eo|alilandulo}}, {{t|eo|alilandulino}}, {{t|eo|fremdulo}}, {{t|eo|fremdulino}}
+* Faroese: {{t|fo|útlendingur|m}}
+* Finnish: {{t+|fi|muukalainen}}
+* French: {{t+|fr|étranger|m}}, {{t+|fr|étrangère|f}}
+* German: {{t+|de|Fremder|m}}, {{t+|de|Fremde|f}}, {{t+|de|Ausländer|m}}, {{t+|de|Ausländerin|f}}, {{t+|de|Fremdling|m}}
+* Greek: {{t+|el|ξένος|m}}, {{t+|el|ξένη|f}}, {{t+|el|αλλοδαπός|m}}, {{t+|el|αλλοδαπή|f}}
+* Hindi: {{t+|hi|विदेशी|m}}, {{t+|hi|अन्यदेशीय}}, {{t+|hi|परदेशी|m}}
+* Hungarian: {{t+|hu|idegenek|p}}
+* Icelandic: {{t+|is|útlendingur|m}}
+* Ido: {{t+|io|stranjero}}, {{t|io|stranjerulo}}, {{t|io|stranjerino}}
+* Indonesian: [[orang]] [[asing]]
+* Irish: {{t|ga|strainséir|m}}
+* Italian: {{t+|it|straniero|m}}, {{t+|it|straniera|f}}
+* Japanese: {{t+|ja|外国人|tr=がいこくじん, gaikokujin}}, {{t+|ja|外人|tr=がいじん, gaijin}}
 {{trans-mid}}
-* Korean: {{t+|ko|소리치다}}, {{t+|ko|외치다}}
-* Latin: {{t|la|clamo}}
-* Ligurian: {{t|lij|ciamâ}}
-* Macedonian: {{t|mk|ви́ка}}
-* Pashto: {{t+|ps|بلل|tr=baləl}}
-* Polish: {{t+|pl|wołać|impf}}, {{t+|pl|zawołać|pf}}
-* Portuguese: {{t+|pt|gritar}}, {{t+|pt|chamar}}
-* Romanian: {{t+|ro|striga}}
-* Romansch: {{t|rm|cridar}}
-* Russian: {{t+|ru|крича́ть|impf}}, {{t+|ru|кри́кнуть|pf}}
-* Scottish Gaelic: {{t|gd|gairm}}
-* Slovene: {{t+|sl|klicati|impf}}, {{t|sl|poklicati|pf}}
-* Spanish: {{t+|es|gritar}}
-* Swahili: ku{{t|sw|ita}}
-* Swedish: {{t+|sv|ropa}}, {{t+|sv|hojta}}
-* Ukrainian: {{t|uk|кричати}}
-* Walloon: {{t+|wa|houkî}}, {{t+|wa|criyî}}
-* Zulu: {{t|zu|memeza|alt=-memeza}}
-{{trans-bottom}}
-
-{{trans-top|to contact by telephone}}
-* Arabic: {{t|ar|اتصل|alt=اِتَّصَلَ بِ}}, {{t|ar|تَلْفَنَ}}
-*: Moroccan Arabic: {{t|ary|عْيط|tr=ʕyəṭ}}
-* Armenian: {{t+|hy|զանգել}}, {{t+|hy|զանգահարել}}
-* Azerbaijani: {{t|az|zəng etmək}}, {{t|az|zəng vurmaq}}, {{t+|az|yığmaq}}
-* Belarusian: {{t|be|звані́ць|impf}}, {{t|be|пазвані́ць|pf}}; {{t|be|тэлефанава́ць|impf}}, {{t|be|патэлефанава́ць|pf}}
-* Bulgarian: {{t|bg|обаждам се}}, {{t+|bg|звъня}}
-* Catalan: {{t+|ca|telefonar}}, {{t+|ca|cridar}}, {{t+|ca|trucar}}, {{t+|ca|tocar}}
-* Chinese:
-*: Mandarin: {{t+|cmn|打電話}}, {{t+|cmn|打电话|tr=dǎ diànhuà}}
-* Czech: {{t+|cs|volat|impf}}, {{t+|cs|zavolat|pf}}, {{t+|cs|telefonovat}}, {{t|cs|zatelefonovat|pf}}
-* Dutch: {{t+|nl|opbellen}}
-* Esperanto: {{t+|eo|telefoni}}
-* Finnish: {{qualifier|puhelimella}} {{t+|fi|soittaa}}
-* French: {{t+|fr|appeler}}, {{t+|fr|téléphoner}}
-* German: {{t+|de|anrufen}}, {{qualifier|colloquial}} {{t+|de|antelefonieren}}, {{qualifier|colloquial}} {{t|de|durchrufen}}, {{qualifier|colloquial regional}} {{t|de|anbimmeln}}, {{qualifier|colloquial regional}} {{t+|de|anklingeln}}, {{qualifier|Germany regional (esp. southern Germany), Austria regional (esp. western Austria: Vorarlberg), otherwise dialectal or dated; Switzerland; South Tyrol dialectal; South Africa (KwaZulu-Natal)}} {{t+|de|anläuten}}, {{qualifier|Switzerland}} {{t+|de|telefonieren}}, {{qualifier|Namibia}} {{t+|de|anbellen}}, {{qualifier|South Africa (KwaZulu-Natal)}} {{t+|de|aufringen}}
-* Greek: {{t+|el|καλώ}}, {{t+|el|τηλεφωνώ}}
-* Hebrew: {{t+|he|צִלְצֵל|tr=tsiltsél}}, {{t|he|הִתְקַשֵּׁר|tr=hitkashér}}
-* Hindi: {{t|hi|फ़ोन करना}}
-* Hungarian: {{t+|hu|felhív}}
-* Icelandic: {{t|is|hringja í}}
-* Ido: {{t+|io|telefonar}}
-* Indonesian: {{t+|id|menelepon}}
-* Italian: {{t+|it|chiamare}}
-* Japanese: {{t+|ja|電話|tr=でんわする, denwa suru|alt=電話する}}, {{t+|ja|電話をかける|tr=でんわをかける, denwa o kakeru}}
-* Kalmyk: {{t|xal|җиңнүлх}}
-* Korean: {{t+|ko|전화하다}}
-{{trans-mid}}
-* Ligurian: {{t|lij|ciamâ}}
-* Macedonian: {{t|mk|ѕво́ни|impf}}, {{t|mk|се ја́вува}}, {{t|mk|телефони́ра|impf|pf}}
-* Persian: {{t+|fa|تلفن کردن|tr=telefon kardan}}, {{t+|fa|زنگ زدن|tr=zang zadan}}
-* Polish: {{t+|pl|dzwonić|impf}}, {{t+|pl|zadzwonić|pf}}, {{t+|pl|telefonować|impf}}, {{t+|pl|zatelefonować|pf}}
-* Portuguese: {{t+|pt|telefonar}}, {{t+|pt|ligar}}
-* Quechua: {{t|qu|waqyay}}
-* Romanian: {{t+|ro|telefona}}, {{t+|ro|suna}}
-* Russian: {{t+|ru|звони́ть|impf}}, {{t+|ru|позвони́ть|pf}}
+* Korean: {{t+|ko|외국인}} ({{t+|ko|外國人}}), {{t|ko|이국인}} ({{t|ko|異國人}})
+* Latin: {{t|la|extrāneus|m}}, {{t|la|extrānea|f}}, {{t|la|hospes|m}}
+* Macedonian: {{t|mk|странец|m}}, {{t|mk|туѓинец|m}}
+* Maori: {{t|mi|tautangata}}, {{t|mi|pūtere}}, {{t|mi|uakoau}}
+* Norwegian:
+*: Bokmål: {{t|nb|utlending|m}}
+*: Nynorsk: {{t+|nn|utlending|m}}
+* Persian: {{t+|fa|خارجی|tr=xâreji}}, {{t+|fa|اجنبی|tr=ajnabi}}
+* Polish: {{t+|pl|cudzoziemiec|m}}, {{t+|pl|cudzoziemka|f}}
+* Portuguese: {{t+|pt|estrangeiro|m}}, {{t+|pt|estrangeira|f}}, {{t+|pt|forasteiro|m}}
+* Russian: {{t+|ru|иностра́нец|m}}, {{t+|ru|иностра́нка|f}}, {{t+|ru|чужезе́мец|m}}, {{t+|ru|иноро́дец|m}} {{qualifier|non-native}}
+* Scottish Gaelic: {{t|gd|coimheach|m}}, {{t|gd|coigreach|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|називати|impf}}, {{t|sh|назвати|pf}}
-*: Roman: {{t+|sh|nazivati|impf}}, {{t+|sh|nazvati|pf}}
-* Slovak: {{t|sk|volať|impf}}, {{t|sk|zavolať|pf}}, {{t|sk|telefonovať|impf}}, {{t|sk|zatelefonovať|pf}}
-* Slovene: {{t+|sl|klicati|impf}}, {{t|sl|poklicati|pf}}
-* Spanish: {{t+|es|llamar}}, {{t+|es|hablar}}, {{t+|es|telefonear}}
-* Swahili: {{t|sw|kupiga simu}}
-* Swedish: {{t+|sv|ringa}}, {{t+|sv|telefonera}}
-* Tagalog: {{t|tl|tawagan}} {{qualifier|literally}}
-* Thai: {{t|th|โทรหา|tr=thoo-hǎa}}
-* Tibetan: {{t|bo|ཁ་དཔར་གཏོང་བ}}
-* Turkish: {{t+|tr|aramak}}
-* Ukrainian: {{t|uk|дзвони́ти|impf}}, {{t|uk|подзвони́ти|pf}}
-* Urdu: {{t|ur|فون کرنا|tr=fon karnā}}
-* Vietnamese: {{t|vi|[[gọi]] [[điện thoại]]}}
-* Walloon: {{t+|wa|houkî}}, {{t+|wa|cåler}} {{qualifier|Wisconsin Walloons}}
-* West Frisian: {{t|fy|opbelje}}, {{t|fy|opskilje}}
-* Yiddish: {{t|yi|טעלעפֿאָנירן}}
+*: Cyrillic: {{t|sh|стра́нац|m}}, {{t|sh|стра̏нкиња|f}}, {{t|sh|туђи́нац|m}}
+*: Roman: {{t+|sh|stránac|m}}, {{t+|sh|strȁnkinja|f}}, {{t+|sh|tuđínac|m}}
+* Slovak: {{t|sk|cudzinec|m}}, {{t|sk|cudzinka|f}}
+* Slovene: {{t+|sl|tujec|m}}, {{t|sl|tujka|f}}
+* Spanish: {{t+|es|forastero|m}}, {{t+|es|forastera|f}}, {{t+|es|extranjero|m}}, {{t+|es|extranjera|f}}
+* Swahili: {{t+|sw|mgeni|c1|c2}}
+* Swedish: {{t+|sv|utlänning|c}}, {{t+|sv|främling|c}}
+* Tajik: {{t+|tg|хориҷӣ}}, {{t+|tg|аҷнабӣ}}
+* Thai: {{t+|th|ฝรั่ง}}
+* Ukrainian: {{t|uk|інозе́мець|m}}, {{t|uk|інозе́мка|f}}
+* Urdu: {{t|ur|پردیشی|m|tr=pardeśī|sc=ur-Arab}}
+* Westrobothnian: {{t|gmq-bot|frammlänning|m}}
 {{trans-bottom}}
 
-{{trans-top|to pay a social visit}}
-* Armenian: {{t+|hy|այցելել}}
-* Bulgarian: {{t+|bg|посеща́вам|impf}}
-* Catalan: {{t+|ca|visitar}}
-* Czech: {{t+|cs|navštívit}}
-* Dutch: {{t+|nl|bezoeken}}
-* Finnish: {{t+|fi|vierailla}}, {{t+|fi|pysähtyä}} {{qualifier|of trains}}
-* French: {{t+|fr|visiter}}
-* Galician: {{t|gl|visitar}}
-* German: {{t+|de|besuchen}}
-* Hungarian: {{t+|hu|meglátogat}}
-{{trans-mid}}
-* Icelandic: {{t+|is|heimsækja}}, {{t|is|heilsa upp á}}
-* Italian: {{t+|it|visitare}}
-* Japanese: {{t|ja|訪ねる|tr=たずねる, tazuneru}}, {{t+|ja|訪問|alt=訪問する|tr=ほうもんする, hōmon-suru}}
-* Korean: {{t+|ko|찾아가다}}, {{t+|ko|방문하다}} ([[訪問]]-)
-* Macedonian: {{t|mk|посе́тува}}, {{t|mk|на́враќа}}
-* Portuguese: {{t+|pt|visitar}}
-* Russian: {{t+|ru|навеща́ть|impf}}, {{t+|ru|навести́ть|pf}}, {{t+|ru|посеща́ть|impf}}, {{t+|ru|посети́ть|pf}}
-* Spanish: {{t+|es|visitar}}
-* Swedish: {{t+|sv|besöka}}, {{t+|sv|hälsa på}}
-{{trans-bottom}}
-
-{{trans-top|to name or refer to}}
-* American Sign Language: {{t|ase|H@RadialFinger-H@NearCenterChesthigh H@RadialFinger-H@CenterChesthigh}}
-* Arabic: {{t|ar|دَعَا}}, {{t|ar|سَمَّى}}
-*: Moroccan Arabic: {{t|ary|سمّى|tr=səmma}}
-* Armenian: {{t+|hy|անվանել}}, {{t+|hy|կոչել}}
-* Bulgarian: {{t+|bg|наричам}}, {{t+|bg|назовавам}}
-* Catalan: {{t+|ca|cridar}}
+{{trans-top|newcomer}}
+* Armenian: {{t+|hy|նորեկ}}
 * Chinese:
-*: Mandarin: {{t+|cmn|叫|tr=jiào}}
-* Czech: {{t+|cs|říkat}}
-* Dutch: {{t+|nl|noemen}}
-* Finnish: {{t+|fi|kutsua}}, {{t+|fi|nimetä}}
-* French: {{t+|fr|appeler}}
-* German: {{t+|de|nennen}}, {{t+|de|heißen}}
-* Greek: {{t+|el|καλώ}}
-*: Ancient Greek: {{t|grc|καλέω}}
-* Hebrew: {{t+|he|קָרָא|tr=kará}}
-* Hindi: {{t+|hi|कहना}}
-* Hungarian: {{t+|hu|hív}}
-* Icelandic: {{t+|is|kalla}}
-* Irish: {{t|ga|tabhair ar}}
-*: Old Irish: {{t|sga|as·beir do}}
-* Japanese: {{t+|ja|呼ぶ|tr=よぶ, yobu}}
-* Korean: {{t+|ko|부르다}}
+*: Mandarin: {{t+|cmn|新手|tr=xīnshǒu|sc=Hani}}
+* Danish: {{t+|da|fremmed}}
+* Finnish: {{t+|fi|tulokas}}
+* German: {{t+|de|Fremder|m}}, {{t+|de|Fremde|f}}, {{t+|de|Neuling|m}}
+* Greek: {{t+|el|νέος|m}}
+* Macedonian: {{t|mk|новодојденец|m|tr=novodójdenec}}, {{t|mk|дојденец|m|tr=dójdenec}}
 {{trans-mid}}
-* Lao: {{t|lo|ເອີ້ນ}}
-* Ligurian: {{t|lij|ciamâ}}
-* Macedonian: {{t|mk|наре́кува}}, {{t|mk|ви́ка}}
-* Pashto: {{t+|ps|بلل|tr=baləl}}
-* Polish: {{t+|pl|nazywać}}
-* Portuguese: {{t+|pt|chamar}}
-* Romanian: {{t+|ro|vizita}}
-* Romansch: {{t|rm|numnar}}
-* Russian: {{t+|ru|звать|impf|impf}}, {{t+|ru|называ́ть|impf}}, {{t+|ru|назва́ть|pf}}
-* Sorbian:
-*: Lower Sorbian: {{t|dsb|groniś}}
-* Spanish: {{t+|es|llamar}}, {{t+|es|nombrar}}
-* Swedish: {{t+|sv|kalla}}
-* Tagalog: {{t|tl|tawag}}
-* Telugu: {{t+|te|అను}}
-* Thai: {{t-needed|th}}
-* Ukrainian: {{t|uk|називати}}
-* Urdu: {{t|ur|کہنا|tr=kahnā}}
-* Vietnamese: {{t+|vi|gọi}}
-* Walloon: {{t+|wa|lomer}}
-* White Hmong: {{t|mww|hu}}
-* Yiddish: {{t|yi|רופֿן}}
-* Zulu: {{t|zu|biza ngokuthi|alt=-biza ngokuthi}}
+* Maori: {{t|mi|uakoau}}
+* Polish: {{t+|pl|przybysz|m}}, {{t|pl|przybyszka|f}}
+* Portuguese: {{t|pt|recém-chegado|m}}, {{t|pt|recém-chegada|f}}
+* Russian: {{t+|ru|новоприбы́вший|m}}, {{t+|ru|прише́лец|m}}
+* Scottish Gaelic: {{t|gd|coigreach|m}}
+* Serbo-Croatian: {{t+|sh|prìdošlica|m}}, {{t+|sh|dòšljāk|m}}, {{t+|sh|došljàkinja|f}}
+* Swedish: {{t+|sv|främling}}, {{t+|sv|nykomling|c}}
 {{trans-bottom}}
 
-{{trans-top|to shout directions to the other batsman on whether or not they should take a run}}
+{{trans-top|one who has not been seen for a long time}}
+* Portuguese: {{t|pt|sumido|m}}
 {{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|to shout to other fielders that he intends to take a catch thus avoiding collisions}}
-* Catalan: {{t+|ca|cridar}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|to match or equal the amount of poker chips in the pot as the player that bet}}
-* Dutch: {{t+|nl|meegaan}}
-* Finnish: {{t+|fi|maksaa}}, {{t+|fi|katsoa}}
-* French: {{t+|fr|suivre}}
-{{trans-mid}}
-* Italian: {{t+|it|coprire}}
-* Swedish: {{t+|sv|syna}}, {{t+|sv|calla}}
-{{trans-bottom}}
-
-{{trans-top|to require, demand}}
-* Dutch: {{t+|nl|vragen|alt=vragen om}}
-* Finnish: {{t+|fi|vaatia}}
-* French: {{t+|fr|faire appel}}
-{{trans-mid}}
-* Portuguese: {{t+|pt|requerer}}
-* Spanish: {{t+|es|llamar}}, {{t+|es|requerir}}, {{t+|es|convocar}}, {{t+|es|solicitar}}
-{{trans-bottom}}
-
-{{trans-top|to state, or invoke a rule, in many games such as bridge, craps, jacks, and so on}}
-* Bulgarian: {{t+|bg|анонси́рам|impf|pf}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|to jump to another part of a program}}
-* Dutch: {{t+|nl|aanroepen}}
-* Finnish: {{t+|fi|kutsua}}
-{{trans-mid}}
-* Spanish: {{t+|es|llamar}}, {{t+|es|invocar}}
-* Swedish: {{t+|sv|anropa}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Norman: {{t-check|nrf|houâler}} {{qualifier|Jersey}}
+* Dutch: {{t+check|nl|buitenstaander|m}}, {{t+check|nl|vreemdeling|m}}
+* Georgian: {{t-check|ka|უცხო}}
 {{trans-mid}}
+* Welsh: {{t-check|cy|dyfodiad|m}}
 {{trans-bottom}}
 
-[[Category:English basic words]]
-[[Category:en:Directives]]
+====See also====
+* {{l|en|myall}}
 
-----
+===Verb===
+{{en-verb}}
 
-==Catalan==
+# {{lb|en|obsolete|transitive}} To [[estrange]]; to [[alienate]].
+#: {{rfquotek|Shakespeare}}
 
-===Pronunciation===
-* {{ca-IPA}}
+===Anagrams===
+* {{anagrams|en|a=aegnrrst|granters|regrants}}
 
-===Etymology 1===
-From {{inh|ca|la|callis|t=alley, narrow street, passageway}}
-
-====Noun====
-{{ca-noun|m}}
-
-# [[passageway]]
-
-===Etymology 2===
-From {{inh|ca|la|callum}}.
-
-====Noun====
-{{ca-noun|m|-}}
-
-# [[corn]]
-
-===Etymology 3===
-Borrowed from {{bor|ca|he|קָהָל|tr=qahál|t=assembly, synagogue}}.
-
-====Noun====
-{{ca-noun|m}}
-
-# [[Jewish]] quarter
-
-----
-
-==Irish==
-
-===Etymology 1===
-{{rfe|lang=ga}}
-
-====Alternative forms====
-* {{alter|ga|cál}}
-
-====Noun====
-{{ga-noun|m|~|-}}
-
-# {{l|en|call}}, [[need]]
-# [[claim]], [[right]]
-
-=====Declension=====
-{{ga-decl-m4-nopl|c|all}}
-
-=====Derived terms=====
-* {{l|ga|gan chall|t=needlessly}}
-
-===Etymology 2===
-
-====Noun====
-{{ga-noun|m|caill|-}}
-
-# {{alternative form of|coll|t=hazel|lang=ga}}
-
-=====Declension=====
-{{ga-decl-m1-nopl|c|all|aill}}
-
-===Mutation===
-{{ga-mut}}
-
-===Further reading===
-* {{R:ga:Ó Dónaill}}
-* {{R:ga:EID}}
-* {{R:ga:NEID}}
-
-----
-
-==Scottish Gaelic==
-
-===Noun===
-{{gd-noun|g=m|gen=calla|pl=callaidhean}}
-
-# {{verbal noun of|caill|lang=gd}}
-# [[loss]]
-# [[waste]]
-
-====Derived terms====
-* {{l|gd|call cumhachd}}
-
-===Mutation===
-{{gd-mut-cons|c|all}}
-
-----
-
-==Welsh==
-
-===Adjective===
-{{cy-adj|ach}}
-
-# [[wise]], [[sensible]], [[rational]]
-#: {{syn|cy|doeth|deallus}}
-
-====Derived terms====
-* {{l|cy|callineb||wisdom, rationality}}
-* {{l|cy|callio||to become wise}}
-
-===Mutation===
-{{cy-mut-auto}}
+[[Category:en:People]]
