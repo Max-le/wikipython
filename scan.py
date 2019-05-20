@@ -18,7 +18,7 @@ def extract_defs_and_translations(filename, target_lang):
             if line.find('* '+target_lang) != -1:
                 word = prettify(line)
                 word = word.replace("* "+target_lang + ": ", "")
-                
+                word = structure_word(word)
                 translations[current_definition] = word
     return translations
 

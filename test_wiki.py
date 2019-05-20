@@ -3,6 +3,7 @@ import fetcher
 import scan
 import pycountry
 from bs4 import BeautifulSoup
+import json
 
 # word = 'Aachen' 
 # wikilink = 'https://fr.wikipedia.org/wiki/Aix-la-Chapelle'
@@ -18,13 +19,11 @@ from bs4 import BeautifulSoup
 
 # print_dict(my_dico)
 # request.get_wiktionary_data('Run')
-print_dict(scan.extract_defs_and_translations('word_data.txt', 'German'))
+x = json.dumps(scan.extract_defs_and_translations('word_data.txt', 'German'))
+print(x)
 # language = pycountry.languages.get(name='Englishh')
 print(language_exists('aaz'))
 print(get_iso_alpha2('French'))
 print(get_iso_name('French'))
 print(get_iso_name('french'))
 print(get_iso_name('frhf'))
-
-raw = "t+|fr|inconnu|m, t+|fr|inconnue|f"
-print(scan.structure_word(raw))
