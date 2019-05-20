@@ -17,8 +17,9 @@ def home():
 @app.route('/translate')
 def translate():
     word = request.args.get('word')
+    lang = 'German'
     fetcher.get_wiktionary_data(word)
-    dico = scan.extract_defs_and_translations('word_data.txt', 'German')
+    dico = scan.extract_defs_and_translations('word_data.txt', lang)
     return json.dumps(dico, indent=4 )
 @app.route('/list')
 def list():
