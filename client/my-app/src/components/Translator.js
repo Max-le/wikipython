@@ -11,7 +11,13 @@ class Translator extends Component {
 
     }
   render() {
-    console.log(this.state.word['greeting'])
+
+ 
+    Object.keys(this.state.word).forEach(aKey => {
+      console.log("KEY : "+aKey)
+      console.log(this.state.word[aKey])
+    });
+    console.log(this.state.word)
 
     return (
         <p>Translator</p>

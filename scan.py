@@ -18,7 +18,7 @@ def extract_defs_and_translations(filename, target_lang):
             if line.find('* '+target_lang) != -1:
                 word = prettify(line)
                 word = word.replace("* "+target_lang + ": ", "")
-                word = structure_word(word)
+                word = structure_word(word, current_definition)
                 translations[current_definition] = word
     return translations
 
@@ -26,12 +26,13 @@ def extract_defs_and_translations(filename, target_lang):
 
 
 ##TO-DO : Solve case when there's a qualifier
-def structure_word(raw):
+def structure_word(raw, word_meaning):
     words = raw.split(',')
     cleaned_words = []
     for word in words:
         components = word.split('|')
         word = {
+            'meaning': word_meaning,
             'type':components[0],
             'lang':components[1],
             'translation':components[2],
