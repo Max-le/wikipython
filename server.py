@@ -3,15 +3,20 @@
 
 from flask import Flask, request, render_template, Response
 from wiki import *
+from flask_cors import CORS
+
 from bs4 import BeautifulSoup
 import wikipedia
 import scan, fetcher, json
 app = Flask(__name__)
+CORS(app)
 
 @app.route('/')
+
 def home():
     return render_template("home.html")
 @app.route('/', methods=['POST'])
+
 def my_form_post():
     word = request.form['text']
     lang = 'German'
@@ -19,12 +24,12 @@ def my_form_post():
     r = requests.get("http://127.0.0.1:5000/translate", params=payload)
     print(r.url)
     result = json.loads(r.text)
-    print_dict(result)
     return render_template("home.html", data=result)
 @app.route('/translate')
 def translate():
     word = request.args.get('word')
-    lang = request.args.get('lang')
+    lang = "German"
+    
     fetcher.get_wiktionary_data(word)
     dico = scan.extract_defs_and_translations('word_data.txt', lang)
     data =  json.dumps(dico, indent=4 )

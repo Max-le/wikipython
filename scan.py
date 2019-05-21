@@ -23,6 +23,9 @@ def extract_defs_and_translations(filename, target_lang):
     return translations
 
 #Example : 't+|de|Sprecher|m, t+|de|Sprecherin|f'
+
+
+##TO-DO : Solve case when there's a qualifier
 def structure_word(raw):
     words = raw.split(',')
     cleaned_words = []
@@ -36,8 +39,6 @@ def structure_word(raw):
         }
         if len(components) == 4:
             word["gender"] = components[3]
-
         cleaned_words.append(word)
-  
     return cleaned_words
 
