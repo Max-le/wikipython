@@ -6,8 +6,7 @@ function App() {
 
     return (
     <div className="App">
-      <InputWord/>
-      <Translator/>
+      <Translator word={"Love"}/>
 
 
     </div>
