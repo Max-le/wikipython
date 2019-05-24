@@ -28,8 +28,7 @@ def my_form_post():
 @app.route('/translate')
 def translate():
     word = request.args.get('word')
-    lang = "German"
-    
+    lang = request.args.get('lang')
     fetcher.get_wiktionary_data(word)
     dico = scan.extract_defs_and_translations('word_data.txt', lang)
     data =  json.dumps(dico, indent=4 )

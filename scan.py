@@ -20,6 +20,7 @@ def extract_defs_and_translations(filename, target_lang):
                 word = word.replace("* "+target_lang + ": ", "")
                 word = structure_word(word)
                 translations[current_definition] = word
+    print(translations)
     return translations
 
 #Example : 't+|de|Sprecher|m, t+|de|Sprecherin|f'

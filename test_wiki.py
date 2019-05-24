@@ -22,8 +22,4 @@ import json
 x = json.dumps(scan.extract_defs_and_translations('word_data.txt', 'German'))
 print(x)
 # language = pycountry.languages.get(name='Englishh')
-print(language_exists('aaz'))
-print(get_iso_alpha2('French'))
-print(get_iso_name('French'))
-print(get_iso_name('french'))
-print(get_iso_name('frhf'))
+
