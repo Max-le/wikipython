@@ -1,593 +1,499 @@
-{{also|Jump}}
+{{also|Cook}}
 ==English==
+[[File:Cooks 050918 154402.jpg|right|thumb|Trainee cooks preparing food]]
 
 ===Pronunciation===
-* {{a|UK|US}} {{enPR|jŭmp}}, {{IPA|/dʒʌmp/|[d͡ʒʌmp]|lang=en}}
-* {{audio|en-us-jump.ogg|Audio (US)|lang=en}}
-* {{rhymes|ʌmp|lang=en}}
+* {{IPA|/kʊk/|lang=en}}
+* {{a|UK dialectal|obsolete elsewhere}} {{IPA|/kuk/|lang=en}}<ref>{{cite-book|author=John Walker|title=A critical pronouncing dictionary|url=https://books.google.co.nz/books?id=9OsIAAAAQAAJ|archiveurl=|archivedate=|year=1824|page=138}}</ref>
+* {{audio|en-us-cook.ogg|Audio (US)|lang=en}}
+* {{audio|En-uk-to cook.ogg|Audio (UK)|lang=en}}
+* {{audio|en-au-cook.ogg|Audio (AU)|lang=en}}
+:* {{rhymes|ʊk|lang=en}}
 
 ===Etymology 1===
-[[File:NwFusionTapM.jpg|thumb|125px|A tap dancer jumping.]]
-From {{etyl|enm|en}} {{m|enm|jumpen||to walk quickly, run, jump}}, probably of {{etyl|gml|en}} or {{etyl|gmq|en}} origin, ultimately from {{etyl|gem-pro|en}} {{m|gem-pro|*gempaną}}, {{m|gem-pro|*gembaną||to hop, skip, jump}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*gʷʰemb-||
-to spring, hop, jump}}. Cognate with {{cog|dum|gumpen||to jump}}, {{cog|nds|jumpen||to jump}}, {{cog|gmh|gumpen}}, {{m|gmh|gampen||to jump, hop}} (dialectal {{cog|de|gampen}}, [[Walser]] dialect {{m|de|kumpu}}), {{cog|da|gumpe||to jolt}}, {{cog|sv|gumpa||to jump}}, {{cog|da|gimpe||to move up and down}}, {{cog|enm|jumpren}}, {{m|enm|jumbren||to mix, jumble}}. Related to {{l|en|jumble}}.
+{{PIE root|en|pekʷ}}
+From {{inh|en|enm|cook}}, from {{inh|en|ang|cōc||a cook}}, from {{der|en|la|coquus||cook}}, from {{m|la|coquō}}, ultimately from {{etyl|ine-pro|en}} {{m|ine-pro|*pekʷ-||to cook, become ripe}}.
+
+Cognate with {{cog|nds|kokk||cook}}, {{cog|nl|kok||cook}}, {{cog|de|Koch||cook}}, {{cog|da|kok||cook}}, {{cog|no|kokk||cook}}, {{cog|sv|kock||cook}}, {{cog|is|kokkur||cook}}, {{cog|es|cocer}}.
+
+====Noun====
+{{wikipedia}}
+{{en-noun}}
+
+# {{lb|en|cooking}} A person who prepares food for a living.
+# {{lb|en|cooking}} The [[head]] cook of a [[manor house]]
+# {{lb|en|slang}} One who [[manufacture]]s certain [[illegal]] [[drug]]s, especially [[meth]].
+#: ''Police found two meth '''cooks''' working in the illicit lab.''
+#* '''2008''', Mel Bradshaw, ''Victim Impact''
+#*: By late October, the pressure on the Dark Arrows' ecstasy '''cook''' had eased. Other suppliers had moved in with product.
+#* '''2011''', Mackenzie Phillips, ''High on Arrival''
+#*: Owsley Stanley was a pioneer LSD '''cook''', and the Purple Owsley pill from his now-defunct lab was Dad's prized possession, a rare, potent, druggie collector's item, the alleged inspiration for the Hendrix song “Purple Haze.”
+# {{lb|en|slang}} A session of [[manufacture|manufacturing]] certain [[illegal]] [[drug]]s, especially [[meth]].
+#* '''2011''', Neal Hall, ''Hell To Pay: Hells Angels vs. The Million-Dollar Rat'' (page 36)
+#*: Punko told Plante he wanted to use a full barrel for the next '''cook'''.
+# A fish, the European striped wrasse, {{taxlink|Labrus mixtus|species|noshow=1}}.
+
+=====Synonyms=====
+* {{sense|food preparation for a living}} {{l|en|chef}}
+
+=====Hyponyms=====
+* {{sense|food preparation for a living}} {{l|en|cordon bleu}}
+
+=====Coordinate terms=====
+{{sense|food preparation for a living}}
+* {{l|en|sous-chef}}
+* {{l|en|line cook}}
+* {{l|en|prep cook}}
+* {{l|en|chef}}
+* {{l|en|cookess}}, {{l|en|cookeress}} (female cook)
+
+{{sense|head cook of a manor house}}
+* {{l|en|scullery maid}}
+* {{l|en|kitchen maid}}
+
+=====Derived terms=====
+{{der3|en|cookbook|cookery|[[cooking]]<!--noun-->|cook the books|cook up|cookware}}
+
+=====Descendants=====
+* {{desc|bor=1|nrf|couque}}
+* {{desc|bor=1|th|กุ๊ก}}
+
+=====Translations=====
+{{trans-top|a person who prepares food for a living}}
+* Afrikaans: {{t+|af|kok}}
+* Albanian: {{t+|sq|kuzhinier|m}}
+* Arabic: {{t|ar|طَبَّاخ|m}}
+* Armenian: {{t+|hy|խոհարար}}
+* Assamese: {{t|as|ৰান্ধনি}}, {{t|as|চাংমাই}}, {{t|as|বাবুৰ্চি}}
+* Asturian: {{t|ast|cocineru|m}}, {{t|ast|cocedor|m}}
+* Azerbaijani: {{t+|az|aşpaz}}
+* Basque: {{t+|eu|sukaldari}}
+* Belarusian: {{t|be|ку́хар|m}}, {{t|be|куха́рка|f}}, {{t|be|павары́ха|f}}
+* Bengali: {{t|bn|রাঁধুনি|sc=Beng}}
+* Bulgarian: {{t|bg|готвач|m}}
+* Burmese: {{t+|my|ခန်တမာ}}
+* Catalan: {{t+|ca|cuiner|m}}, {{t|ca|xef|m}}
+* Chechen: {{t|ce|юургйийриг|sc=Cyrl}}
+* Chinese:
+*: Cantonese: {{t|yue|廚師|sc=Hani}}, {{t|yue|厨师|tr=cyu4 si1|sc=Hani}}
+*: Mandarin: {{t+|cmn|廚師|sc=Hani}}, {{t+|cmn|厨师|tr=chúshī|sc=Hani}}
+* Chukchi: {{t|ckt|увильын|tr=uvilʹyn}}, {{t|ckt|ывильын|tr=yvilʹyn}}
+* Czech: {{t+|cs|kuchař|m}}, {{t+|cs|kuchařka|f}}
+* Danish: {{t+|da|kok}}
+* Dutch: {{t+|nl|kok|m}}, {{t+|nl|kokkin|f}}
+* Elfdalian: {{t|ovd|kokk|m}}
+* Esperanto: {{t|eo|kuiristo}}
+* Estonian: {{t|et|kokk}}
+* Ewe: {{t|ee|nuɖala}}
+* Faroese: {{t|fo|kokkur|m}}
+* Finnish: {{t+|fi|kokki}}, {{qualifier|in a mass kitchen}} {{t+|fi|keittäjä}}
+* French: {{t+|fr|chef}}, {{t+|fr|cuisinier}}, {{qualifier|colloquial}} {{t+|fr|cuistot|m}}
+* Galician: {{t+|gl|cociñeiro}}, {{t|gl|cociñeira|f}}
+* Georgian: {{t|ka|მზარეული}}
+* German: {{t+|de|Koch|m}}, {{t+|de|Köchin|f}}
+* Greek: {{t+|el|μάγειρας|m}}, {{t+|el|μαγείρισσα|f}}
+*: Ancient: {{t|grc|μάγειρος|m}}, {{t|grc|ὀψοποιός|m}}
+* Greenlandic: {{t|kl|igasoq}}
+* Hebrew: {{t+|he|טַבָּח|m|tr=tabakh}}, {{t|he|טבחית|f|tr=tabakhít}}
+* Hindi: {{t+|hi|रसोइया|m}}
+* Hungarian: {{t+|hu|szakács}}
+* Icelandic: {{t+|is|kokkur}}
+* Ido: {{t+|io|koquisto}}
+* Indonesian: {{t+|id|koki}}
+* Irish: {{t|ga|cócaire|m}}
+* Italian: {{t+|it|cuoco|m}}, {{t+|it|cuoca|f}}
+* Japanese: {{t+|ja|調理師|tr=ちょうりし, chōrishi|sc=Jpan}}, {{t+|ja|料理人|tr=りょうりにん, ryōrinin|sc=Jpan}}, {{t+|ja|コック|tr=kokku|sc=Jpan}}, {{t|ja|シェフ|tr=shefu|sc=Jpan}}
+* Kazakh: {{t+|kk|аспаз|sc=Cyrl}}
+* Khmer: {{t|km|អ្នកដាំស្ល|tr=neak dam slɑɑ|sc=Khmr}}, {{t|km|អ្នកធ្វើបាយ|tr=neak tvəə baay|sc=Khmr}}
+* Korean: {{t+|ko|요리사}}, {{t|ko|료리사}} {{qualifier|North Korea}}
+* Kurdish: {{t+|ku|aşpêj}}
+*: Sorani: {{t|ckb|چێشتکه‌ر|sc=ku-Arab}}
+* Kyrgyz: {{t+|ky|повар}}, {{t+|ky|ашпоз}}
+* Lao: {{t|lo|ພໍ່ຄົວ}} {{qualifier|male}}, {{t+|lo|ຄົນຄົວກິນ}}
+* Latin: {{t|la|coquus|m}}, {{t|la|coqua|f}}, {{t|la|cocus}}, {{t|la|coctor|m}}, {{t|la|coctūrārius|m}}
+* Latvian: {{t|lv|pavārs|m}}
+* Lithuanian: {{t|lt|kokas|m}}, {{t|lt|virėjas|m}}
+* Lombard: {{t|lmo|cœg|m}}, {{t|lmo|cœga|f}}, {{t|lmo|coxiner|m}}, {{t|lmo|coxinera|f}}
+* Low German:
+*: German Low German: {{t|nds-de|Kock|m}}, {{t|nds-de|Kööksch|f}}, {{t|nds-de|Kööksche|f}}
+{{trans-mid}}
+* Luxembourgish: {{t|lb|Kach|m}}
+* Macedonian: {{t|mk|готвач|m|sc=Cyrl}}, {{t|mk|готвачка|f|sc=Cyrl}}
+* Malay: {{t|ms|tukang masak}}
+* Maltese: {{t|mt|kok|m}}, {{t|mt|koka|f}}
+* Mongolian: {{t+|mn|тогооч}}
+* Navajo: {{t|nv|chʼiyáán ííłʼíní|sc=Latn}}
+* Norman: {{t|nrf|tchuîsinnyi|m}} {{qualifier|Jersey}}, {{t|nrf|couque|m}} {{qualifier|Jersey}}
+* North Frisian:
+*: Föhr-Amrum: {{t|frr|kook|m}}
+* Northern Sami: {{t|se|koahkka}}, {{t|se|goahkka}}
+* Norwegian:
+*: Bokmål: {{t|nb|kokk|m}}, {{qualifier|female}} {{t|nb|kokke|m|f}}
+*: Nynorsk: {{t|nn|kokk|m}}, {{qualifier|female}} {{t|nn|kokke|f}}
+* Old English: {{t|ang|cōc|m}}
+* Pali:
+*: Devanagari: {{t|pi|सूदो|m|tr=sūdo|sc=Deva}}
+*: Latin: {{t|pi|sūdo|m}}
+* Pashto: {{t-needed|ps}}
+* Persian: {{t+|fa|آشپز|tr=âšpaz}}, {{t+|fa|پزنده|tr=pazanda, pazande}}
+* Polish: {{t+|pl|kucharz|m}}, {{t+|pl|kucharka|f}}
+* Portuguese: {{t+|pt|cozinheiro|m}}, {{t+|pt|cozinheira|f}}
+* Quechua: {{t|qu|wayk'uq}}
+* Romanian: {{t+|ro|bucătar|m}}, {{t+|ro|bucătăreasă|f}}
+* Romansch: {{t|rm|cuschinier|m}}
+* Russian: {{t+|ru|по́вар|m}}, {{t+|ru|повари́ха|f}}, {{t+|ru|кок|m}} {{qualifier|ship's cook}}, {{t+|ru|стряпу́ха|f}}, {{t+|ru|куха́рка|f}}
+* Scottish Gaelic: {{t|gd|bruich}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|кухар|m|sc=Cyrl}}, {{t|sh|кухарица|f|sc=Cyrl}}, {{t|sh|кувар|m|sc=Cyrl}}, {{t|sh|куварица|f|sc=Cyrl}}
+*: Roman: {{t+|sh|kȕhār|m}}, {{t+|sh|kȕharica|f}}, {{t+|sh|kȕvār}}, {{t+|sh|kȕvarica|f}}
+* Slovak: {{t+|sk|kuchár|m}}, {{t|sk|kuchárka|f}}
+* Slovene: {{t+|sl|kuhar|m}}, {{t|sl|kuharica|f}}
+* Sorbian:
+*: Upper Sorbian: {{t|hsb|kuchar|m}}, {{t|hsb|kucharka|f}}
+* Spanish: {{t+|es|cocinero|m}}, {{t+|es|cocinera|f}}
+* Swahili: {{t+|sw|mpishi}}, {{t+|sw|wapishi|p}}
+* Swedish: {{t+|sv|kock}}
+* Tagalog: {{t|tl|tagaluto}}
+* Tajik: {{t|tg|ошпаз}}, {{t|tg|таббох}}
+* Tamil: {{t+|ta|கூவியர்}}
+* Tatar: {{t|tt|пешерче}}
+* Telugu: {{t+|te|వంటమనిషి}} {{qualifier|both genders}}, {{t+|te|వంటవాడు}} {{qualifier|male}}
+* Thai: {{t+|th|กุ๊ก}}, {{t+|th|พ่อครัว}}, {{t+|th|แม่ครัว}} {{qualifier|female}}
+* Tibetan: {{t|bo|མ་བྱན|sc=Tibt}}
+* Turkish: {{t+|tr|aşçı}}
+* Turkmen: {{t+|tk|aşpez}}
+* Tuvan: {{t|tyv|паштанчы}}
+* Ukrainian: {{t+|uk|куха́р|m}}, {{t|uk|куха́рка|f}}
+* Urdu: {{t-needed|ur}}
+* Urhobo: {{t|urh|chere}}
+* Uyghur: {{t+|ug|ئاشپەز}}
+* Uzbek: {{t+|uz|oshpaz}}
+* Venetian: {{t|vec|cogo|m}}
+* Vietnamese: {{t+|vi|đầu bếp}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|kvisinan}}, {{qualifier|♂}} {{t|vo|hikvisinan}}, {{qualifier|♀}} {{t+|vo|jikvisinan}}
+* Welsh: {{t+|cy|cogydd|m}}, {{t+|cy|cogyddes|f}}
+{{trans-bottom}}
+
+===Etymology 2===
+{{PIE root|en|pekʷ}}
+From {{etyl|enm|en}} {{m|enm|coken}}, from the noun {{m|en|cook}}.
 
 ====Verb====
 {{en-verb}}
 
-# {{lb|en|intransitive}} To [[propel]] oneself [[rapidly]] [[upward]], [[downward]] and/or in any horizontal direction such that [[momentum]] causes the [[body]] to become [[airborne]].
-#: ''The boy '''jumped''' over a fence.''
-#: ''Kangaroos are known for their ability to '''jump''' high.''
-#* Shakespeare
-#*: Not the worst of the three but '''jumps''' twelve foot and a half by the square.
-# {{lb|en|intransitive}} To cause oneself to [[leave]] an [[elevated]] location and fall [[downward]].
-#: ''She is going to '''jump''' from the diving board.''
-# {{lb|en|transitive}} To pass by a spring or leap; to overleap.
-#: ''to '''jump''' a stream''
-# {{lb|en|intransitive}} To employ a [[parachute]] to leave an [[aircraft]] or elevated location.
-# {{lb|en|intransitive}} To react to a [[sudden]], often [[unexpected]], [[stimulus]] (such as a [[sharp]] [[prick]] or a loud sound) by [[jerk]]ing the body [[violently]].
-#: ''The sudden sharp sound made me '''jump'''.''
-# {{lb|en|intransitive}} To employ a [[move]] in certain [[board games]] where one game piece is moved from one legal [[position]] to another [[pass]]ing over the position of another piece.
-#: ''The player's knight '''jumped''' the opponent's bishop.''
-# {{lb|en|transitive}} To move to a position in (a [[queue]]/[[line]]) that is further forward.
-#: ''I hate it when people '''jump''' the queue.''
-# {{lb|en|transitive}} To [[attack]] suddenly and violently.
-#: ''The hoodlum '''jumped''' a woman in the alley.''
-# {{lb|en|transitive}} To engage in [[sexual intercourse]].
-# {{lb|en|transitive}} To [[cause]] to jump.
-#: ''The rider '''jumped''' the horse over the fence.''
-# {{lb|en|transitive}} To move the distance between two opposing subjects.
-# {{lb|en|transitive}} To increase the [[height]] of a [[tower crane]] by inserting a section at the base of the tower and jacking up everything above it.
-# {{lb|en|cycling|intransitive}} To [[increase]] [[speed]] aggressively and without warning.
-# {{lb|en|transitive|obsolete}} To expose to danger; to risk; to hazard.
-#* Shakespeare
-#*: to '''jump''' a body with a dangerous physic
-# {{lb|en|transitive|smithwork}} To join by a [[buttweld]].
-# To [[thicken]] or [[enlarge]] by [[endwise]] [[blows]]; to [[upset]].
-# {{lb|en|quarrying}} To [[bore]] with a [[jumper]].
-# {{lb|en|obsolete}} To coincide; to agree; to accord; to tally; followed by ''with''.
-#* Shakespeare
-#*: It '''jumps''' with my humour.
-# {{lb|en|intransitive|programming}} To start [[execute|executing]] [[code]] from a different [[location]], rather than following the [[program counter]].
-# {{lb|en|intransitive|slang|archaic}} To [[flee]]; to make one's escape.
-#* '''1891''', Arthur Conan Doyle, ''The Red-Headed League''
-#*: “It's all clear,” he whispered. “Have you the chisel and the bags? Great Scott! '''Jump''', Archie, jump, and I'll swing for it!”<br>Sherlock Holmes had sprung out and seized the intruder by the collar. The other dived down the hole, and I heard the sound of rending cloth as Jones clutched at his skirts.
+# {{lb|en|transitive}} To prepare ([[food]]) for eating by heating it, often by combining it with other [[ingredients]].
+#: ''I'm '''cooking''' bangers and mash.''
+# {{lb|en|intransitive}} To prepare (unspecified) food for eating by heating it, often by combining it with other [[ingredients]].
+#: ''He's in the kitchen, '''cooking'''.''
+# {{lb|en|intransitive}} To be being cooked.
+#: ''The dinner is '''cooking''' on the stove.''
+# {{lb|en|intransitive|figuratively}} To be uncomfortably hot.
+#: ''Look at that poor dog shut up in that car on a day like today - it must be '''cooking''' in there.''
+# {{lb|en|slang}} To [[execute]] by [[electric chair]].
+# {{lb|en|transitive|slang}} To hold onto (a [[grenade]]) briefly after igniting the [[fuse]], so that it explodes almost immediately after being thrown.
+#: ''I always '''cook''' my [[frag]]s, in case they try to grab one and throw it back.''
+# To [[concoct]] or [[prepare]].
+#* '''2006''', Frank Spalding, ''Methamphetamine: The Dangers of Crystal Meth'' (page 47)
+#*: The process of '''cooking''' meth can leave residue on surfaces all over the home, exposing all of its occupants to the drug.
+# To tamper with or alter; to [[cook up]].
+#* {{quote-book|lang=en|author=Joseph Addison|authorlink=Joseph Addison|coauthors=Richard John Green|title=Essays of Joseph Addison|chapter=The newspaper|year=1880|location=London|publisher=Roger de Coverly Club|page=154|passage=They all of them receive the same advices from abroad, and very often in the same words; but their way of '''cooking''' it is so different, that there is no citizen, who has an eye to the public good, who can leave the coffee-house with peace of mind...}}
+# {{lb|en|intransitive|jazz|slang}} To play or [[improvise]] in an inspired and rhythmically exciting way.<!-- http://www.collinsdictionary.com/dictionary/american/cook --> (From 1930s [[jive]] talk.)
+#: ''Watch this band: they '''cook'''!''
+#: ''Crank up the Coltrane and start '''cooking'''!''
+#* '''1957''', {{w|Miles Davis}} quoted by {{w|Ira Gitler}}, [https://archive.is/20130411155345/www.plosin.com/milesahead/prlp/prlp7094.html liner notes] to ''{{w|Cookin' with the Miles Davis Quintet}}'', Prestige LP 7094:
+#*: This album is called '''Cookin’''' at Miles’ request. He said, “After all, that’s what we did – came in and '''cooked'''.”
+# {{lb|en|intransitive|music|slang}} To play music vigorously.<!-- http://dictionary.reference.com/browse/cook -->
+#: ''On the Wagner piece, the orchestra was '''cooking'''!''
+#* '''2012''', ''{{w|Los Angeles Times}}'', [http://articles.latimes.com/2012/oct/09/entertainment/la-et-cm-laco-review-20121009 "Review: Los Angeles Chamber Orchestra won't stand still"]:
+#*: The tempos were swift. The orchestra '''cooked''', reading [conductor] Kahane's mind and swinging with him as one.
 
 =====Synonyms=====
-* {{sense|propel oneself upwards}} {{l|en|leap}}, {{l|en|spring}}
-* {{sense|cause oneself to leave an elevated location and fall}} {{l|en|jump down}}, {{l|en|jump off}}
-* {{sense|employ a parachute to leave an aircraft or elevated location}} {{l|en|skydive}}
-* {{sense|react to a sudden stimulus by jerking the body violently}} {{l|en|flinch}}, {{l|en|jerk}}, {{l|en|jump out of one's skin}}, {{l|en|leap out of one's skin}}, {{l|en|twitch}}
-* {{sense|To engage in sexual intercourse}} {{l|en|hump}}, {{l|en|jump someone's bones}}
+* {{sense|to be uncomfortably hot}} {{l|en|bake}}, {{l|en|stew}}
+* {{sense|hold on to a grenade}} {{l|en|cook off}}
 
-=====Derived terms=====
-<!--"jumping-off point" is derived from "jumping"-->
-{{rel-top|Terms derived from ''jump'' (verb)}}
-* {{l|en|jumped-up}}
-* {{l|en|jumper}}<!--one who jumps-->
-* {{l|en|jumpily}}
-* {{l|en|jumpy}}
-* {{l|en|jump about}}
-* {{l|en|jump around}}
-* {{l|en|jump at}}
-* {{l|en|jump down}}
-* {{l|en|jump down someone's throat}}
-* {{l|en|jump for joy}}
-* {{l|en|jump in}}
-* {{l|en|jump in one's skin}}
-* {{l|en|jump leads}}
-* {{l|en|jump off}}
-{{rel-mid}}
-* {{l|en|jump on}}
-* {{l|en|jump out}}
-* {{l|en|jump out at}}
-* {{l|en|jump up}}
-* {{l|en|jump out of one's skin}}
-* {{l|en|jump rope}}<!--verb-->
-* {{l|en|jump seat}}
-* {{l|en|jump ship}}
-* {{l|en|jump shot}}
-* {{l|en|jump-start}}
-* {{l|en|jump suit}}
-* {{l|en|jump the gun}}
-* {{l|en|jump the queue}}
-* {{l|en|jump the shark}}
-{{rel-bottom}}
-''See also'' '''[[jumped]]''', '''[[jamp]]''', '''[[jumper]]''' ''and'' '''[[jumping]]'''
+=====Hypernyms=====
+* {{sense|to prepare or plan something}} {{l|en|concoct}}, {{l|en|contrive}}, {{l|en|devise}}, {{l|en|make up}}, {{l|en|plan}}, {{l|en|prepare}}
 
-=====Related terms=====
-{{top2}}
-
-{{bottom}}
+=====Hyponyms=====
+* ''Troponyms'': [[bake]], [[barbecue]], [[boil]], [[braise]], [[fry]], [[grill]], [[microwave]], [[poach]], [[roast]], [[scramble]], [[steam]], [[stew]]
+* See also [[Thesaurus:cook]]
 
 =====Translations=====
-{{trans-top-see|propel oneself rapidly upward such that momentum causes the body to become airborne|leap}}
-* Albanian: {{t+|sq|kërcej}}
-* Alviri-Vidari: {{t|avd|بپرستن|tr=bepperestan}}
-* American Sign Language: {{t|ase|V@Palm-FingerDown-OpenB@CenterTrunkhigh-PalmUp BentV@NearPalm-FingerDown-OpenB@CenterTrunkhigh-PalmUp}}
-* Arabic: {{t+|ar|قَفَزَ}}
-*: Egyptian Arabic: {{t|arz|نط|tr=naṭṭ}}
-*: Hijazi Arabic: {{t|acw|نط|tr=naṭṭ}}
-* Armenian: {{t+|hy|ցատկել}}, {{t+|hy|թռչել}}
-* Aromanian: {{t|rup|sar}}, {{t|rup|ansar}}
-* Assamese: {{t|as|জঁপিওৱা}}, {{t|as|জাঁপ মাৰা}}
-* Asturian: {{t|ast|blincar}}, {{t|ast|saltar}}
-* Azerbaijani: {{t+|az|atılmaq}}, {{t+|az|tullanmaq}}, {{t|az|hoppanmaq}}, {{t+|az|sıçramaq}}
-* Basque: {{t+|eu|jauzi egin}}, {{t+|eu|salto egin}}
-* Belarusian: {{t|be|скака́ць|impf}}, {{t|be|ско́кнуць|pf}}, {{t|be|ско́чыць|pf}}
-* Bengali: {{t|bn|লাফান}}, {{t|bn|ঝাঁপ দেত্তয়া}}
-* Bulgarian: {{t+|bg|скачам}}
-* Burmese: {{t+|my|ခုန်}}
-* Catalan: {{t+|ca|saltar}}
+{{trans-top|to prepare (food) for eating}}
+* Albanian: {{t+|sq|gatuaj}}
+* Arabic: {{t|ar|طَبَخَ}}
+*: Moroccan Arabic: {{t|ary|طيب|tr=ṭeyyeb}}
+* Armenian: {{t+|hy|եփել}}
+* Assamese: {{t|as|ৰন্ধা}}, {{t|as|ৰান্ধা}} {{qualifier|Central Assam}}
+* Belarusian: {{t|be|гатава́ць|impf}}, {{t|be|вары́ць|impf}}, {{t|be|куха́рыць|impf}}
+* Breton: {{t+|br|keginañ}}
+* Bulgarian: {{t+|bg|го́твя|impf}}
+* Burmese: {{t+|my|ချက်ပြုတ်}}, {{t+|my|ချက်}}
+* Catalan: {{t+|ca|cuinar}}
+* Central Sierra Miwok: {{t|csm|čý·s-}}
 * Chinese:
-*: Mandarin: {{t+|cmn|跳|tr=tiào}}, {{t+|cmn|蹦跳|tr=bèngtiào}}, {{t+|cmn|蹦|tr=bèng}}
-* Czech: {{t+|cs|skočit}}
-* Dalmatian: {{t|dlm|satur}}
-* Danish: {{t+|da|springe}}, {{t+|da|hoppe}}
-* Dutch: {{t+|nl|springen}}, {{t+|nl|opspringen}}
-* Elfdalian: {{t|ovd|uppa}}
-* Esperanto: {{t+|eo|salti}}
-* Estonian: {{t|et|hüppama}}
-* Faroese: {{t|fo|hoppa}}, {{t|fo|leypa}}
-* Finnish: {{t+|fi|hypätä}}
-* French: {{t+|fr|sauter}}
-* Friulian: {{t|fur|saltâ}}
-* Galician: {{t+|gl|saltar}}
-* Georgian: {{t|ka|ხტომა}}, {{t|ka|ხტუნვა}}, {{t|ka|ხტუნაობა}}
-* German: {{t+|de|springen}}, {{t+|de|hüpfen}}
-* Greek: {{t+|el|πηδάω}}, {{t+|el|σαλτάρω}}
-*: Ancient Greek: {{t|grc|πηδάω}}
-* Greenlandic: {{t|kl|pissippoq}}
-* Hadza: {{t|hts|khaxxe}}
-* Hebrew: {{t+|he|קָפַץ|tr=kafats}}
-* Hindi: {{t+|hi|कूदना}}
-* Hungarian: {{t+|hu|ugrik}}
-* Icelandic: {{t+|is|hoppa}}
-* Indonesian: {{t+|id|melompat}}
-* Irish: {{t|ga|léim}}
-* Istriot: {{t|ist|saltà}}
-* Italian: {{t+|it|saltare}}
-* Japanese: {{t+|ja|跳ぶ|tr=とぶ, tobu}}, {{t+|ja|ジャンプ|tr=janpu suru|alt=ジャンプする}}
-* Kazakh: {{t+|kk|секіру}}
-* Khmer: {{t+|km|លោត|tr=loot|sc=Khmr}}
-* Korean: {{t+|ko|뛰다}}, {{t|ko|점프하다}}
-* Kyrgyz: {{t+|ky|секирүү}}
-* Lao: {{t|lo|ໂດດ}}, {{t|lo|ກະໂດດ}}
-{{trans-mid}}
-* Latgalian: {{t|ltg|lēkt}}, {{t|ltg|laksteit}}
-* Latin: {{t|la|saliō}}, {{t|la|saltō}}
-* Latvian: {{t+|lv|lēkt}}, {{t+|lv|lēkāt}}
-* Lithuanian: {{t+|lt|šokti}}, {{t|lt|šokinėti}}
-* Luxembourgish: {{t|lb|sprangen}}
-* Macedonian: {{t|mk|ско́ка}}, {{t|mk|скокне}}
-* Malay: {{t|ms|melompat}}
-* Maltese: {{t|mt|qabeż}}
-* Maori: {{t|mi|panau}} {{qualifier|of a fish out of water}}, {{t|mi|oma}}
-* Mongolian: {{t+|mn|харайх}}, {{t+|mn|үсрэх}}
-* Neapolitan: {{t|nap|zumpà}}
-* Norman: {{t|nrf|sauter}} {{qualifier|Jersey}}
-* Northern Sami: {{t|se|njuiket}}
-* Norwegian: {{t+|no|hoppe}}
-* Novial: {{t|nov|salta}}
-* Occitan: {{t+|oc|sautar}}
-* Old English: {{t|ang|hlēapan}}
-* Persian: {{t+|fa|پریدن|tr=paridan}}, {{t+|fa|جهیدن|tr=jahidan}}, {{t+|fa|جستن|tr=jastan}}
-* Polish: {{t+|pl|skakać}}, {{t+|pl|skoczyć}}
-* Portuguese: {{t+|pt|saltar}}, {{t+|pt|pular}}
-* Quechua: {{t+|qu|tusuy}}
-* Romanian: {{t+|ro|sări}}, {{t+|ro|sălta}}
-* Romansch: {{t|rm|siglir}}, {{t|rm|saglir}}, {{t|rm|sagleir}}
-* Russian: {{t+|ru|пры́гать|impf}}, {{t+|ru|пры́гнуть|pf}}, {{t+|ru|скака́ть|impf}}, {{t+|ru|скакну́ть|pf}}
-* Sardinian: {{t|sc|saltai}}, {{t|sc|saltare}}, {{t|sc|sartare}}
-* Scottish Gaelic: {{t|gd|leum}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|скочити|pf|sc=Cyrl}}, {{t|sh|скакати|impf|sc=Cyrl}}
-*: Roman: {{t+|sh|skočiti|pf}}, {{t+|sh|skakati|impf}}
-* Sicilian: {{t+|scn|satari}}, {{t+|scn|sautari}}
-* Slovak: {{t|sk|skočiť|pf}}
-* Slovene: {{t|sl|skočiti|pf}}
-* Sorbian:
-*: Lower Sorbian: {{t|dsb|skócyś|pf}}, {{t|dsb|skokaś|impf}}
-*: Upper Sorbian: {{t|hsb|skočić|pf}}, {{t+|hsb|skakać|impf}}
-* Spanish: {{t+|es|saltar}}, {{t+|es|brincar}}
-* Swedish: {{t+|sv|hoppa}}
-* Tagalog: {{t|tl|talon}}, {{t|tl|lundag}}, {{t|tl|kandag}}
-* Tajik: {{t+|tg|паридан}}
-* Telugu: {{t+|te|దూకు}}
-* Thai: {{t+|th|กระโดด}}, {{t+|th|โดด}}
-* Turkish: {{t+|tr|zıplamak}}
-* Turkmen: {{t+|tk|bökmek}}
-* Ukrainian: {{t|uk|стриба́ти|impf}}, {{t|uk|скака́ти|impf}}
-* Urdu: {{t|ur|کودنا|tr=kūdnā}}
-* Uzbek: {{t+|uz|sakramoq}}, {{t+|uz|irgʻimoq}}
-* Venetian: {{t|vec|saltar}}
-* Vietnamese: {{t+|vi|nhảy}}
-* Walloon: {{t+|wa|potchî}}, {{t+|wa|zoupler}}, {{t+|wa|hopler}}, {{t+|wa|sôtler}}, {{t+|wa|djibler}}
-* Welsh: {{t+|cy|neidio}}, {{t+|cy|ysboncio}}
-* Yiddish: {{t|yi|שפּרינגען}}
-{{trans-bottom}}
-
-{{trans-top|cause oneself to leave an elevated location and fall downward}}
-* Basque: {{t+|eu|jauzi egin}}, {{t+|eu|salto egin}}
-* Catalan: {{t+|ca|saltar}}
-* Chinese:
-*: Mandarin: {{t+|cmn|跳|tr=tiào}}
-* Czech: {{t+|cs|skočit}}, {{t+|cs|skákat}}
-* Danish: {{t+|da|springe}}, {{t+|da|hoppe}}
-* Dutch: {{t+|nl|springen}}
-* Finnish: {{qualifier|[[alas]]}} {{t+|fi|hypätä}}
-* French: {{t+|fr|sauter}}
-* Georgian: {{t|ka|ჩახტომა}}
-* German: {{t+|de|springen}}
-* Greek: {{t+|el|πηδάω}}, {{t+|el|σαλτάρω}}
-* Italian: {{t+|it|saltare}}
-* Japanese: {{t|ja|飛び降りる|tr=とびおりる, tobioriru}}
-* Macedonian: {{t|mk|скока}}
-* Mongolian: {{t+|mn|үсрэх}}, {{t+|mn|дэвхрэх}}
-{{trans-mid}}
-* Norman: {{t|nrf|sauter}} {{qualifier|Jersey}}
-* Norwegian: {{t+|no|hoppe}}
-* Old English: {{t|ang|hlēapan}}
-* Persian: {{t|fa|پایین پریدن|tr=paein paridan}}
-* Polish: {{t+|pl|skakać}}, {{t+|pl|skoczyć}}
-* Portuguese: {{t+|pt|saltar}}, {{t+|pt|pular}}
-* Romanian: {{t+|ro|sări}}, {{t+|ro|sălta}}
-* Russian: {{t+|ru|пры́гать|impf}}, {{t+|ru|пры́гнуть|pf}}, {{t+|ru|спрыгивать|impf}}, {{t+|ru|спрыгнуть|pf}}
-* Scottish Gaelic: {{t|gd|leum}}
-* Slovene: {{t|sl|skočiti}}
-* Sorbian:
-*: Lower Sorbian: {{t|dsb|skócyś|pf}}, {{t|dsb|skokaś|impf}}
-* Spanish: {{t+|es|saltar}}
-* Swedish: {{t+|sv|hoppa}}
-* Thai: {{t+|th|กระโดด}}, {{t+|th|โดด}}
-* Turkish: {{t+|tr|atlamak}}
-{{trans-bottom}}
-
-{{trans-top|employ a parachute to leave an aircraft or elevated location}}
-* Basque: {{t+|eu|jauzi egin}}, {{t+|eu|salto egin}}
-* Catalan: {{t+|ca|saltar}}
-* Danish: {{t+|da|springe}}
-* Dutch: {{qualifier|parachutespringen}} {{t+|nl|springen}}
-* Finnish: {{t+|fi|hypätä}}
-* Georgian: {{t|ka|გადახტომა}}
-* German: {{t+|de|springen}}
-* Greek: {{t+|el|πηδάω}}, {{t+|el|σαλτάρω}}
-* Italian: {{t+|it|saltare}}
-* Japanese: (command) {{t+|ja|降下}}！
-* Macedonian: {{t|mk|скока}}
-{{trans-mid}}
-* Norwegian: {{t+|no|hoppe}}
-* Persian: {{t+|fa|پرش|tr=paresh}}
-* Polish: {{t+|pl|skakać}}, {{t+|pl|skoczyć}}
-* Portuguese: {{t+|pt|saltar}}, {{t+|pt|pular}}
-* Romanian: {{t+|ro|sări}}
-* Russian: {{t+|ru|пры́гать|impf}}, {{t+|ru|пры́гнуть|pf}}, {{t+|ru|спрыгивать|impf}}, {{t+|ru|спрыгнуть|pf}}
-* Scottish Gaelic: {{t|gd|leum}}
-* Slovene: {{t|sl|skočiti}}
-* Spanish: {{t+|es|saltar}}
-* Swedish: {{t+|sv|hoppa}}
-* Thai: {{t+|th|กระโดด}}, {{t+|th|โดด}}
-{{trans-bottom}}
-
-{{trans-top|react to a sudden stimulus by jerking the body violently}}
-* Catalan: {{t+|ca|sobresaltar}}
-* Danish: {{t|da|spjætte}}, {{t|da|fare sammen}}
-* Dutch: {{t+|nl|opspringen}}, {{t+|nl|opschrikken}}
-* Finnish: {{t|fi|hätkähtää}}, {{t+|fi|sätkiä}}
-* French: {{t+|fr|sursauter}}
-* Georgian: {{t|ka|ახტომა}}, {{t|ka|შეკრთომა}}
-* Macedonian: {{t|mk|скокнува}}
-* Norwegian: {{t|no|skvette}}
-{{trans-mid}}
-* Polish: {{t+|pl|podskoczyć}}
-* Portuguese: {{t|pt|sobressaltar}}
-* Romanian: {{t+|ro|tresări}}
-* Russian: {{t+|ru|вска́кивать|impf}}, {{t+|ru|вскочи́ть|pf}}, {{t+|ru|подпры́гивать|impf}}, {{t+|ru|подпрыгнуть|pf}}, {{t+|ru|вздра́гивать|impf}}, {{t+|ru|вздро́гнуть|pf}}
-* Scottish Gaelic: {{t|gd|leum}}
-* Slovene: {{t|sl|skočiti}}, {{t|sl|poskočiti}}
-* Swedish: {{t+|sv|hoppa till}}, {{t+|sv|hoppa}}
-{{trans-bottom}}
-
-{{trans-top|employ a move in certain board games in which one piece moves over another}}
-* Basque: {{t+|eu|jauzi egin}}, {{t+|eu|salto egin}}
-* Catalan: {{t+|ca|saltar}}
-* Danish: {{t+|da|springe}}
-* Dutch: {{t+|nl|springen}}, {{t+|nl|zetten}}
-* Finnish: {{t+|fi|hypätä}}
-* Italian: {{t+|it|saltare}}
-* Macedonian: {{t|mk|прескокнува}}
-{{trans-mid}}
-* Norwegian: {{t|no|hoppe over}}
-* Portuguese: {{t+|pt|saltar}}, {{t+|pt|pular}}
-* Romanian: {{t+|ro|sări}} {{qualifier|peste}}
-* Russian: {{t+|ru|перепры́гивать|impf}}, {{t+|ru|перепры́гнуть|pf}}, {{t+|ru|перескакивать|impf}}, {{t+|ru|перескочить|pf}}
-* Slovene: {{t|sl|preskočiti}}
-* Swedish: {{t+|sv|hoppa}}, {{t+|sv|hoppa över}}
-{{trans-bottom}}
-
-{{trans-top|move to a position in (a queue/line) that is further forward}}
-* Catalan: {{t+|ca|saltar}}
-* Danish: {{t|da|springe over}}
-* Dutch: {{t+|nl|voordringen}}
-* Finnish: {{t+|fi|etuilla}}
-* French: {{t+|fr|doubler}}
-* Italian: {{t+|it|saltare}}
-* Japanese: {{t|ja|飛び越す|tr=とびこす, tobikosu}}
-{{trans-mid}}
-* Macedonian: {{t|mk|прескокнува}}
-* Norwegian: {{t|no|snike}}, {{t|no|gå forbi}}
-* Portuguese: {{t+|pt|pular}}
-* Slovene: {{t|sl|preskočiti}}
-* Spanish: {{t+|es|saltar}}
-* Swedish: {{t|sv|smita före}}, {{t|sv|gå förbi}}
-* Thai: {{t|th|แซง}}
-{{trans-bottom}}
-
-{{trans-top|engage in sexual intercourse}}
-* Finnish: {{t+|fi|astua}}, {{t+|fi|panna}}
-* French: {{t+|fr|sauter}}
-{{trans-mid}}
-* Greek: {{t+|el|πηδάω}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Breton: {{qualifier|1,2,3}} {{t+check|br|lammat}}, {{qualifier|1,2}} {{t-check|br|sailhañ}}, {{qualifier|4}} {{t+check|br|gourlammat}}
-* Bulgarian: {{t+check|bg|скачам}}, {{t+check|bg|подскачам}}, {{t+check|bg|прескачам}}
-* Esperanto: {{t+check|eo|salti}}
-* Estonian: {{t-check|et|hüppama}}
-* Guaraní: {{t+check|gn|po}}
-* Hebrew: {{t-check|he|לקפוץ}}
-* Indonesian: {{t+check|id|lompat}}, {{t+check|id|loncat}}
-{{trans-mid}}
-* Interlingua: {{t-check|ia|saltar}}
-* Korean: {{t+check|ko|뛰다}}, {{t-check|ko|점프하다}}
-* Latvian: {{t-check|lv|lekt}}
-* Malayalam: {{t+check|ml|ചാടുക}}
-* Romanian: {{t+check|ro|sări}}, {{t+check|ro|sălta}}
-* Spanish: {{t+check|es|saltar}}
-* Tupinambá: {{t-check|tpn|por}}
-{{trans-bottom}}
-
-====Noun====
-{{en-noun}}
-
-# The act of jumping; a leap; a spring; a bound.
-#* John Locke
-#*: To advance by '''jumps'''.
-# An effort; an attempt; a venture.
-#* Shakespeare
-#*: Our fortune lies / Upon this '''jump'''.
-# {{lb|en|mining}} A [[dislocation]] in a [[stratum]]; a [[fault]].
-# {{lb|en|architecture}} An abrupt interruption of level in a piece of [[brickwork]] or [[masonry]].
-# An [[instance]] of propelling oneself upwards.
-#: ''The boy took a skip and a '''jump''' down the lane.''
-# An object which causes one to jump, a ramp.
-#: ''He went off a '''jump'''.''
-# An instance of causing oneself to fall from an elevated location.
-#: ''There were a couple of '''jumps''' from the bridge.''
-# An instance of employing a parachute to leave an aircraft or elevated location.
-#: ''She was terrified before the '''jump''', but was thrilled to be skydiving.''
-# An instance of reacting to a sudden stimulus by jerking the body.
-# A jumping move in a board game.
-#: ''the knight's '''jump''' in chess''
-# A [[button]] (of a [[joypad]], [[joystick]] or similar [[device]]) used to make a [[video game]] character jump ([[propel]] itself [[upwards]]).
-#: ''Press '''jump''' to start.''
-# {{lb|en|sports|horses}} An [[obstacle]] that forms part of a [[showjumping]] course, and that the horse has to jump over cleanly.
-#: ''Heartless managed the scale the first '''jump''' but fell over the second.''
-# {{lb|en|with ''on''}} An early start or an advantage.
-#: ''He got a '''jump''' on the day because he had laid out everything the night before.''
-#: ''Their research department gave them the '''jump''' on the competition.''
-# {{lb|en|mathematics}} A [[discontinuity]] in the [[graph]] of a [[function]], where the function is continuous in a [[punctured interval]] of the discontinuity.
-# {{lb|en|science fiction}} An instance of [[faster-than-light]] travel, not observable from ordinary space.
-# {{lb|en|computing}} A change of the path of [[execution]] to a different [[location]].
-
-=====Quotations=====
-* {{seeCites}}
-
-=====Synonyms=====
-* {{sense|instance of propelling oneself into the air}} {{l|en|leap}}
-* {{sense|instance of causing oneself to fall from an elevated location}}
-* {{sense|instance of employing a parachute to leave an aircraft or elevated location}}
-* {{sense|instance of reacting to a sudden stimulus by jerking the body}} {{l|en|flinch}}, {{l|en|jerk}}, {{l|en|twitch}}
-
-=====Derived terms=====
-<!--"for the high jump" is derived from "high jump"-->
-{{rel-top3|Terms derived from ''jump'' (noun)}}
-* {{l|en|high jump}}
-* {{l|en|hop, skip and jump}}
-* {{l|en|hop, step and jump}}
-{{rel-mid3}}
-* {{l|en|jump blues}}
-* {{l|en|jump drive}}
-* {{l|en|jump jet}}<!--attributive use of noun-->
-* {{l|en|jump rope}}<!--attributive-->
-{{rel-mid3}}
-* {{l|en|long jump}}
-* {{l|en|triple jump}}
-* {{l|en|Walleye jump}}
-{{rel-bottom}}
-
-=====Translations=====
-{{trans-top-see|instance of propelling oneself into the air|leap}}
-* Arabic: {{t|ar|قَفْزَة|f}}
-* Assamese: {{t|as|জাঁপ}}, {{t|as|লাফ}}, {{t|as|ওফৰ}}, {{t|as|ছিটিক}}
-* Asturian: {{t|ast|saltu|m}}, {{t|ast|blincu|m}}
-* Basque: {{t|eu|jauzi}}, {{t+|eu|salto}}
-* Catalan: {{t+|ca|salt|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|跳|tr=tiào|sc=Hani}}
-* Corsican: {{t|co|saltu|m}}
-* Czech: {{t+|cs|skok|m}}
-* Danish: {{t+|da|spring|n}}, {{t+|da|hop|n}}
-* Dutch: {{t+|nl|sprong|m}}
-* Estonian: {{t|et|hüpe}}
-* Finnish: {{t+|fi|hyppy}}, {{t+|fi|loikka}}
-* French: {{t+|fr|saut|m}}
-* Friulian: {{t|fur|salt|m}}
-* Galician: {{t+|gl|salto|m}}, {{t|gl|brinco|m}}, {{t|gl|chimpo|m}}, {{t|gl|pulo|m}}
-* Georgian: {{t|ka|ნახტომი|sc=Geor}}
-* German: {{t+|de|Sprung|m}}
-* Greek:
-*: Ancient Greek: {{t|grc|πήδημα|n}}
-*: Modern Greek: {{t+|el|άλμα|n}}, {{t+|el|αναπήδηση|f}}
-* Icelandic: {{t+|is|stökk|n}}
-* Italian: {{t+|it|salto|m}}
-* Japanese: {{t+|ja|跳躍|tr=chōyaku|sc=Jpan}}, {{t+|ja|ジャンプ|tr=janpu}}
-* Korean: {{t|ko|도약}}, {{t|ko|점프}}
-{{trans-mid}}
+*: Mandarin: {{t+|cmn|做飯|sc=Hani}}, {{t+|cmn|做饭|tr=zuòfàn|sc=Hani}}, {{t+|cmn|做菜|tr=zuòcài|sc=Hani}}, {{t+|cmn|烹調|sc=Hani}}, {{t+|cmn|烹调|tr=pēngtiáo|sc=Hani}}, {{t+|cmn|烹飪|sc=Hani}}, {{t+|cmn|烹饪|tr=pēngrèn|sc=Hani}}
+* Choctaw: {{t|cho|hoponi}}
+* Cornish: {{t|kw|kegina}}
+* Czech: {{t+|cs|vařit|impf}}
+* Danish: {{t|da|lave mad}}, {{t|da|kokkerere}}
+* Dutch: {{t+|nl|koken}}
+* Esperanto: {{t|eo|kuiri}}
+* Estonian: {{t|et|keetma}}
+* Ewe: {{t|ee|ɖa}}
+* Faroese: {{t|fo|matgera}}
+* Finnish: {{t+|fi|keittää}}, {{t+|fi|laittaa ruokaa}}, {{qualifier|colloquial}} {{t+|fi|kokata}}, {{t|fi|[[tehdä]] [[ruokaa]]}}
+* French: {{t+|fr|cuisiner}}
+* Friulian: {{t|fur|cusinâ}}, {{t|fur|cuei}}
+* Galician: {{t+|gl|cociñar}}, {{t+|gl|cocer}}
+* Georgian: {{t|ka|საჭმლის მომზადება}}
+* German: {{t+|de|kochen}}, {{t+|de|garen}}
+* Greek: {{t+|el|μαγειρεύω}}, {{t+|el|παρασκευάζω}}
+*: Ancient Greek: {{t|grc|πέσσω}}
+* Greenlandic: {{t|kl|igavoq}}
+* Hebrew: {{t+|he|בישל|alt=בישל \ בִּשֵּׁל|tr=bishél}}
+* Hindi: {{t+|hi|पकाना|tr=pakānā}}
+* Hungarian: {{t+|hu|főz}}
+* Icelandic: {{t+|is|elda}}
+* Ido: {{t+|io|koquar}}
+* Italian: {{t+|it|cuocere}}
+* Japanese: {{t+|ja|料理|tr=りょうりする, ryōri suru|alt=料理する|sc=Jpan}}
+* Khmer: {{t+|km|ស្ល|tr=slɑɑ|sc=Khmr}}, {{t|km|ចំអិន|tr=cɑm’ən|sc=Khmr}}, {{t+|km|ដណ្ដាំ|tr=dɑndam|sc=Khmr}}, {{t+|km|ដុត|tr=dot|sc=Khmr}}
+* Korean: {{t+|ko|요리하다}}
 * Kurdish:
-*: Sorani: {{t+|ku|باز|sc=ku-Arab}}
-* Latvian: {{t|lv|lēciens|m}}
-* Lithuanian: {{t|lt|šuolis|m}}
-* Macedonian: {{t|mk|скок|m}}
-* Norwegian: {{t+|no|hopp|n}}, {{t|no|sprang|n}}
-* Occitan: {{t+|oc|saut|m}}
-* Old English: {{t|ang|hlīep|m}}
-* Persian: {{t|fa|بپر|tr=bepar|sc=fa-Arab}}
-* Polish: {{t+|pl|skok|m-in}}
-* Portuguese: {{t+|pt|salto|m}}, {{t+|pt|pulo|m}}
-* Quechua: {{t|qu|phinkiy}}
-* Russian: {{t+|ru|прыжо́к|m}}, {{t+|ru|скачо́к|m}}
-* Scottish Gaelic: {{t|gd|leum|m}}
+*: Kurmanji: {{t+|ku|pijandin}}
+*: Sorani: {{t|ku|چێشت لێنان}}
+* Lao: {{t|lo|ຄົວກິນ}}
+* Latin: {{t|la|coquō}}
+* Latvian: {{t|lv|vārīt}}, {{t+|lv|cept}}, {{t|lv|gatavot}}
+* Lithuanian: {{t|lt|virti}}
+* Low German:
+*: German Low German: {{t+|nds-de|kaken}}, {{t+|nds-de|koken}}
+* Luxembourgish: {{t|lb|brutschen}}, {{t+|lb|kachen}}
+* Macedonian: {{t|mk|го́тви|impf|sc=Cyrl}}
+{{trans-mid}}
+* Malayalam: {{t|ml|പാകം ചെയ്യുന്നു|sc=Mlym}}
+* Maranao: {{t|mrw|iloto}}
+* Mongolian: {{t|mn|хоол хийх|tr=khool khiikh}}, {{t+|mn|чанах}}
+* Navajo: {{t|nv|yishbéézh}}
+* Ngazidja Comorian: {{t|zdj|upiha}}
+* Norman: {{t|nrf|coutchi}} {{qualifier|Jersey}}
+* North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|kööge}}
+* Northern Yukaghir: {{t|ykg|пан|tr=pan|sc=Cyrl}}
+* Norwegian:
+*: Bokmål: {{t|nb|lage mat}}
+* Old English: {{t|ang|sēoþan}}
+* Pashto: {{t+|ps|پخول|tr=pëxëwël}}
+* Persian: {{t+|fa|پختن|tr=poxtan}}
+* Polish: {{t+|pl|gotować|impf}}, {{t+|pl|warzyć|impf}}, {{t+|pl|kucharzyć|impf}}
+* Portuguese: {{t+|pt|cozinhar}}
+* Quechua: {{t|qu|yanuy}}, {{t|qu|yanui}}, {{t|qu|arui}}, {{t|qu|wayk'uy}}, {{t|qu|chayachiy}}
+* Romanian: {{t+|ro|găti}}
+* Romansch: {{t|rm|cuschinar}}
+* Russian: {{t+|ru|гото́вить|impf}}, {{t+|ru|пригото́вить|pf}}, {{t+|ru|вари́ть|impf}}, {{t+|ru|свари́ть|pf}}, {{t+|ru|стря́пать|impf}}, {{t+|ru|состря́пать|pf}}
+* Sanskrit: {{t+|sa|पचति}}
+* Scottish Gaelic: {{t|gd|bruich}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|скок|sc=Cyrl}}
-*: Roman: {{t+|sh|skok}}
-* Sicilian: {{t+|scn|sàutu|m}}, {{t+|scn|satu}}, {{t+|scn|sàvutu}}
-* Slovene: {{t|sl|skok|m}}
+*: Cyrillic: {{t|sh|кувати|impf|sc=Cyrl}}, {{t|sh|скувати|pf|sc=Cyrl}}
+*: Roman: {{t+|sh|kuhati|impf}}, {{t+|sh|skuhati|pf}}
+* Sicilian: {{t+|scn|còciri}}
+* Slovak: {{t|sk|variť|impf}}
+* Slovene: {{t+|sl|kuhati|impf}}, {{t|sl|skuhati|pf}}
+* Spanish: {{t+|es|cocinar}}
+* Swahili: {{t|sw|kupika}}
+* Swedish: {{t|sv|laga mat}}
+* Sylheti: {{t|syl|ꠞꠣꠘ꠆ꠗꠣ}}
+* Tagalog: {{t|tl|magluto}}, {{t|tl|magluto}}
+* Tajik: {{t+|tg|пухтан}}
+* Tamil: {{t+|ta|குய்}}
+* Telugu: {{t+|te|వండు}}
+* Thai: {{t|th|ปรุงอาหาร|tr=bprung aa-hăan}}, {{t+|th|ประกอบอาหาร|tr=bprà-gòp aa-hăan}}, {{t|th|หุงหาอาหาร|tr=hŭng-hăa aa-hăan}}, {{t|th|ทำอาหาร|tr=tam aa-hăan}}
+* Tibetan: {{t|bo|ཁ་ལག་བཟོ་བ|sc=Tibt}}, {{t|bo|འཚོད་པ|sc=Tibt}}, {{t|bo|བཟོས}}
+* Tocharian A: {{t|xto|päk-}}
+* Tocharian B: {{t|txb|päk-}}
+* Turkish: {{t+|tr|pişirmek}}
+* Tuvan: {{t|tyv|дүлер}}, {{t|tyv|паштаар}}, {{t|tyv|белеткээр}}
+* Ukrainian: {{t|uk|готува́ти|impf}}, {{t|uk|кухова́рити|impf}}, {{t+|uk|вари́ти|impf}}
+* Urdu: {{t|ur|پکانا|tr=pakānā}}
+* Uripiv-Wala-Rano-Atchin: {{t|upv|mʷi-mʷasos}}
+* Venetian: {{t|vec|còxer}}, {{t|vec|cóxar}}, {{t|vec|cósar}}
+* Vietnamese: {{t+|vi|nấu}}, {{t|vi|nấu chín}}, {{t+|vi|nấu ăn}}
+* Walloon: {{t+|wa|cure}}, {{t+|wa|fé}}, {{t+|wa|coujhner}}
+* Waray-Waray: {{t|war|lu-to}}
+* Welsh: {{t+|cy|coginio}}
+* Yagnobi: {{t|yai|пухсак}}
+{{trans-bottom}}
+
+{{trans-top|to prepare food}}
+* Arabic:
+*: Moroccan Arabic: {{t|ary|طيب|tr=Teyyeb}}
+* Armenian: {{t+|hy|պատրաստել}}
+* Bulgarian: {{t+|bg|готвя}}
+* Catalan: {{t+|ca|cuinar}}
+* Czech: {{t+|cs|vařit}}
+* Dutch: {{t+|nl|koken}}
+* Esperanto: {{t|eo|kuiri}}
+* Ewe: {{t|ee|ɖa}}
+* Finnish: {{t+|fi|keittää}}, {{t+|fi|laittaa ruokaa}}, {{qualifier|colloquial}} {{t+|fi|kokata}}, {{t|fi|[[tehdä]] [[ruokaa]]}}
+* French: {{t+|fr|cuisiner}}
+* Galician: {{t+|gl|cociñar}}
+* Georgian: {{t|ka|მომზადება|sc=Geor}}
+* German: {{t+|de|kochen}}
+* Greek: {{t+|el|μαγειρεύω}}, {{t+|el|παρασκευάζω}}
+* Hebrew: {{t+|he|בישל|alt=בישל \ בִּשֵּׁל|tr=bishél}}
+* Hungarian: {{t+|hu|főz}}
+* Ido: {{t+|io|koquadar}}
+* Italian: {{t+|it|cucinare}}
+* Khmer: {{t|km|ធ្វើបាយ|tr=tvəə baay|sc=Khmr}}, {{t|km|ដាំស្ល|tr=dam slɑɑ|sc=Khmr}}
+* Kurdish:
+*: Sorani: {{t|ku|چێشت حازرکردن}}
+{{trans-mid}}
+* Latvian: {{t|lv|gatavot}}, {{t|lv|vārīt}}, {{t+|lv|cept}}
+* Lombard: {{t|lmo|coxinar}}
+* Maranao: {{t|mrw|iloto}}
+* Navajo: {{t|nv|yibéézh|sc=Latn}}
+* Norman: {{t|nrf|coutchi}} {{qualifier|Jersey}}
+* Norwegian:
+*: Bokmål: {{t|nb|lage mat}}
+* Persian: {{t+|fa|آشپزی|tr=âšpazi}}, {{t+|fa|پخت و پز|tr=poxtopaz}}
+* Portuguese: {{t+|pt|cozinhar}}
+* Romanian: {{t+|ro|găti}}, {{t+|ro|prepara}}
+* Russian: {{t+|ru|гото́вить|impf}}, {{t+|ru|пригото́вить|pf}}
+* Slovene: {{t+|sl|kuhati}}, {{t|sl|skuhati}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|skok|m}}
-* Spanish: {{t+|es|salto|m}}
-* Swedish: {{t+|sv|hopp}}
-* Venetian: {{t+|vec|salt|m}}, {{t|vec|salto}}
-* Welsh: {{t+|cy|naid|f}}
-* Walloon: {{t|wa|potchaedje|m}}, {{t+|wa|hope|f}}, {{t|wa|såtlaedje|m}}, {{t|wa|zouplaedje|m}}
-* Yiddish: {{t|yi|שפּרונג|m}}
+*: Lower Sorbian: {{t|dsb|wariś|impf}}
+* Spanish: {{t+|es|cocinar}}
+* Swedish: {{t|sv|laga mat}}, {{t+|sv|tillaga}}
+* Tagalog: {{t|tl|magluto}}
+* Telugu: {{t+|te|వండు}}
+* Tibetan: {{t|bo|ཁ་ལག་བཟོས}}
+* Venetian: {{t|vec|coxinar}}
+* Walloon: {{t+|wa|fé a magnî}}, {{t+|wa|coujhner}}
 {{trans-bottom}}
 
-{{trans-top|instance of causing oneself to fall from an elevated location}}
-* Basque: {{t|eu|jauzi}}, {{t+|eu|salto}}
-* Catalan: {{t+|ca|salt|m}}
-* Czech: {{t+|cs|skok}}
-* Danish: {{t+|da|spring|n}}, {{t+|da|hop|n}}
-* Dutch: {{t+|nl|sprong|m}}
-* Finnish: {{t+|fi|hyppy}}
-* French: {{t+|fr|saut|m}}
-* German: {{t+|de|Sprung|m}}
-* Italian: {{t+|it|salto|m}}
-* Macedonian: {{t|mk|скок|m}}
+{{trans-top|to become ready for eating}}
+* Arabic:
+*: Moroccan Arabic: {{t|ary|طاب|tr=Tab}}
+* Armenian: {{t+|hy|եփել}}
+* Catalan: {{t+|ca|coure}}, {{t+|ca|cuinar}}
+* Czech: {{t|cs|uvařit se|pf}}
+* Dutch: {{t+|nl|koken}}
+* Esperanto: {{t|eo|kuiriĝi}}
+* Finnish: {{t+|fi|kypsyä}}
+* French: {{t+|fr|cuire}}
+* Friulian: {{t|fur|cuei}}
+* Galician: {{t+|gl|cociñar}}, {{t+|gl|cocer}}
+* German: {{t+|de|kochen}}, {{t+|de|garen}}
+* Hebrew: {{t|he|הִתְבַּשֵּׁל|tr=hitbashél}}
+* Hungarian: {{t+|hu|fő}}
+* Italian: {{t+|it|cuocere}}
+* Japanese: {{t-needed|ja}}
+* Lombard: {{t|lmo|cœxer}} {{qualifier|coeus, cözer}}
 {{trans-mid}}
-* Norwegian: {{t+|no|hopp|n}}, {{t|no|sprang|n}}
-* Old English: {{t|ang|hlīep|m}}
-* Polish: {{t+|pl|skok|m-in}}
-* Portuguese: {{t+|pt|salto|m}}, {{t+|pt|pulo|m}}
-* Russian: {{t+|ru|прыжо́к|m}}
-* Scottish Gaelic: {{t|gd|leum|m}}
-* Slovene: {{t|sl|skok|m}}
-* Sorbian:
-*: Lower Sorbian: {{t|dsb|skok|m}}
-* Swedish: {{t+|sv|hopp}}
+* Norman: {{t|nrf|tchuithe}} {{qualifier|Jersey}}
+* Occitan: {{t+|oc|còire}}
+* Persian: {{t+|fa|پختن|tr=poxtan}}, {{t+|fa|پخته|tr=poxteh}}
+* Portuguese: {{t+|pt|cozinhar}}
+* Romanian: {{t+|ro|coace}}
+* Romansch: {{t|rm|coier}}
+* Russian: {{t+|ru|гото́виться|impf}}
+* Sardinian: {{t|sc|còchere}}
+* Scottish Gaelic: {{t|gd|bruich}}
+* Slovene: {{t|sl|kuhati se}}, {{t|sl|skuhati se}}
+* Spanish: {{t+|es|cocinar}}, {{t+|es|cocer}}
+* Swedish: {{t+|sv|lagas}}, {{t+|sv|koka}}
+* Telugu: {{t+|te|ఉడుకు}}
+* Tocharian A: {{t|xto|päk-}}
+* Tocharian B: {{t|txb|päk-}}
+* Walloon: {{t+|wa|cure}}
 {{trans-bottom}}
 
-{{trans-top|instance of employing a parachute to leave an aircraft or elevated location}}
-* Basque: {{t|eu|jauzi}}, {{t+|eu|salto}}
-* Catalan: {{t+|ca|salt|m}}
-* Danish: {{t+|da|spring|n}}
-* Dutch: {{t+|nl|sprong|m}}
-* Finnish: {{t+|fi|hyppy}}
-* German: {{t+|de|Sprung|m}}
-* Macedonian: {{t|mk|скок|m}}
+{{trans-top|colloquial: to be uncomfortably hot}}
+* Catalan: {{t|ca|coure's}}
+* Dutch: {{t+|nl|bakken}}
+* Finnish: {{t|fi|paistua}}
+* French: {{t+|fr|cuire}}
+* German: [[kochend]] [[heiß]] {{t+check|de|sein}}
+* Greek: {{t+|el|ψήνομαι}}
+* Hungarian: {{t+|hu|megfő}}, {{t+|hu|megsül}}
 {{trans-mid}}
-* Norwegian: {{t+|no|hopp|n}}, {{t|no|sprang|n}}
-* Portuguese: {{t+|pt|salto|m}}, {{t+|pt|pulo|m}}
-* Russian: {{t+|ru|прыжо́к|m}}
-* Scottish Gaelic: {{t|gd|leum|m}}
-* Serbo-Croatian: {{t+|sh|skok}}
-* Slovene: {{t|sl|skok|m}}
-* Swedish: {{t+|sv|hopp}}
-{{trans-bottom}}
-
-{{trans-top|instance of reacting to a sudden stimulus by jerking the body}}
-* Catalan: {{t|ca|sobresalt|m}}
-* Danish: {{t|da|spjæt|n}}
-* Dutch: {{t+|nl|sprong|m}}
-* Finnish: {{t+|fi|sätky}}
-* Icelandic: {{t+|is|viðbragð|n}}, {{t|is|kippur|m}}
-* Irish: {{t|ga|geit|f}}
-{{trans-mid}}
-* Macedonian: {{t|mk|скок|m}}
-* Norwegian: {{t|no|skvetting|m}}
-* Portuguese: {{t+|pt|sobressalto|m}}
-* Scottish Gaelic: {{t|gd|leum|m}}, {{t|gd|clisgeadh|m}}
-* Slovene: {{t|sl|skok|m}}, {{t|sl|poskok|m}}
-* Swedish: {{t+|sv|hopp}}
-{{trans-bottom}}
-
-{{trans-top|jumping move in a board game}}
-* Basque: {{t|eu|jauzi}}, {{t+|eu|salto}}
-* Danish: {{t+|da|spring|n}}
-* Dutch: {{t+|nl|sprong|m}}
-* Finnish: {{t+|fi|hyppy}}
-* Macedonian: {{t|mk|прескок|m}}, {{t|mk|скок|m}}
-* Norwegian: {{t|no|sprang|n}}
-* Portuguese: {{t+|pt|salto|m}}, {{t+|pt|pulo|m}}
-{{trans-mid}}
-* Russian: {{t+|ru|прыжо́к|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|скок|sc=Cyrl}}
-*: Roman: {{t+|sh|preskok}}
-* Slovene: {{t|sl|preskok|m}}
-* Swedish: {{t+|sv|hopp}}
-{{trans-bottom}}
-
-{{trans-top|discontinuity of function}}
-* Swedish: {{t+|sv|hopp}}
-{{trans-mid}}
+* Portuguese: {{t+|pt|cozinhar}}, {{t+|pt|torrar}}
+* Romanian: {{t+|ro|încinge}}, {{t+|ro|coace}}
+* Slovene: {{t|sl|cvreti se}}
+* Spanish: {{t+|es|cocerse}}
+* Swedish: {{t+|sv|koka}}, {{t+|sv|stekas}}
+* Walloon: {{t+|wa|cure}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Arabic: {{t+check|ar|قفز}}
-* Breton: {{qualifier|1,2}} {{t+check|br|lamm|m}}, {{qualifier|1}} {{t+check|br|sailh|m}}
-* Bulgarian: {{t+check|bg|скок|m}}
-* Esperanto: {{t+check|eo|salto}}
-* Estonian: {{t-check|et|hüpe}}
-* Guaraní: {{t+check|gn|po}}
-* Hebrew: {{t+check|he|קפיצה|f}}
+* Arabic: {{t-check|ar|طَبَخَ}}
+* Indonesian: {{t+check|id|masak|alt=memasak}} <!-- was "[[masak|memasak]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-mid}}
-* Interlingua: {{t-check|ia|salto}}
-* Malayalam: {{t+check|ml|ചാട്ടം}}
-* Romanian: {{t+check|ro|salt|n}}, {{t+check|ro|săritură|f}}
-* Spanish: {{t+check|es|salto|m}}
-* Tagalog: {{t-check|tl|talon}}
-* Tupinambá: {{t-check|tpn|pora}}
+* Norman: {{t-check|nrf|tchuithe}} {{qualifier|Jersey}}
 {{trans-bottom}}
 
-====Adverb====
-{{en-adv|-}}
+===Etymology 3===
+Imitative.
 
-# {{lb|en|obsolete}} [[exactly]]; [[precisely]]
-#* Marcellus, in "Hamlet" by William Shakespeare, act 1 scene 1, l 64-65
-#*: Thus twice before, and '''jump''' at this dead hour,
-#*: With martial stalk hath he gone by our watch.
+====Verb====
+{{en-verb}}
 
-====Adjective====
-{{en-adj}}
+# {{lb|en|obsolete|rare|intransitive}} To make the noise of the [[cuckoo]].
+#* {{quote-book|lang=en|year=1599|title=The Silkwormes, and their Flies|author=Thomas Moffet|authorlink=Thomas Muffet|oclc=428112023|location=London|publisher=V.S. for Nicholas Ling|passage=Constant cuckoos '''cook''' on every side.}}
 
-# {{lb|en|obsolete}} Exact; matched; fitting; precise.
-#* Ben Jonson
-#*: '''jump''' names
+===Etymology 4===
+Unknown; possibly related to {{m|en|chuck}}.
 
-===Etymology 2===
-Compare {{cog|fr|jupe||a long petticoat, a skirt}} and English {{m|en|jupon}}.
+====Verb====
+{{en-verb}}
 
-====Noun====
-{{en-noun}}
+# {{lb|en|UK|dialect|obsolete}} To [[throw]].
+#* {{quote-book|lang=en|author=Francis Grose|title=A Provincial Glossary: With a Collection of Local Proverbs, and Popular Superstitions|url=|archiveurl=|archivedate=|edition=|location=London|publisher=Printed for S. Hooper|year=1787|oclc=938433091|page=37|passage=Cook. To throw. '''Cook''' me that ball, throw me that ball. Glou.}}
 
-# A kind of loose jacket for men.
-
-=====Related terms=====
-* {{l|en|jumper}}
-* {{l|en|jumps}}
+===References===
+<references/>
 
 [[Category:English basic words]]
-[[Category:en:Buttons]]
-[[Category:en:Gaits]]
-[[Category:en:Physical fitness]]
+[[Category:English ergative verbs]]
+[[Category:en:Food and drink]]
+[[Category:en:Occupations]]
+[[Category:en:People]]
+
+----
+
+==Middle English==
+
+===Alternative forms===
+* {{alter|enm|cok|coke|koke|cuyke|cuke|cooke}}
+
+===Etymology===
+From {{inh|enm|ang|cōc}}, from {{der|enm|VL.|cocus}}, from {{der|enm|la|coquus}}.
+
+===Pronunciation===
+* {{IPA|lang=enm|/koːk/|/kuːk/}}
+
+===Noun===
+{{enm-noun|pl=cookes}}
+
+# {{l|en|cook}}, [[chef]], [[restauranteur]]
+# {{lb|enm|figurative}} [[nourisher]], [[nourishment]]
+
+====Descendants====
+* {{desc|sco|cuke}}, {{l|sco|cuik}}
+* {{desctree|en|cook}}
+
+====References====
+* {{R:MED Online|entry=cọ̄k (n.(6)) |id=MED8317 |accessdate=2018-04-03}}
+
+[[Category:enm:Food and drink]]
+[[Category:enm:Occupations]]
+[[Category:enm:People]]
+
+----
+
+==Scots==
+{{rfv|sco}}
+===Verb===
+{{head|sco|verb}}
+
+# To appear and disappear by turns. <!--Chambers 1908-->

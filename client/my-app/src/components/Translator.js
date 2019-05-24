@@ -2,9 +2,10 @@ import React, { Component } from "react";
 class Translator extends Component { 
   constructor(props) {
     super(props);
-    this.state = {wordInput: "query", word_data:[], targetLang: "French", requestCompleted: false};
+    this.state = {wordInput: "query", word_data:[], targetLang: "German", requestCompleted: false};
     this.handleSubmit = this.handleSubmit.bind(this);
     this.handleChange = this.handleChange.bind(this); 
+    this.handleLanguageChange = this.handleLanguageChange.bind(this);
   }
   handleSubmit(event){
     //TO-DO :  CHANGE REDUX STATE
@@ -26,26 +27,47 @@ class Translator extends Component {
     console.log(this.state.wordInput)
     
   }
-  render() {
-    if (this.state.requestCompleted === true ){
-      console.log(this.state.wordInput)
-      const keys = Object.keys(this.state.word_data)
-      console.log(keys)
-      console.log(this.state.word_data[keys[0]])
-      keys.forEach(key => { console.log(this.state.word_data[key][0].translation)
+  handleLanguageChange(event){
+    this.setState({targetLang: event.target.value})
+    console.log(this.state.targetLang)
+
+  }
+  wordInput(){
+    return (<div>
+      <span>Enter the word to translate here : </span>
+      <form onSubmit={this.handleSubmit}>
+      <input type="text" value={this.state.wordInput} onChange={this.handleChange} />
+      <select name="Languages" onChange={this.handleLanguageChange}>
+        <option value="German">German</option>
+        <option value="French">French</option>
+        <option value="Dutch">Dutch</option>
+        <option value="Italian">Italian</option>
+
+      </select>
+      
+      <input type="submit" value="Submit"/>
+      </form>
+      
+      </div>)
+    }
+    render() {
+      if (this.state.requestCompleted === true ){
         
-      });
-      const listKeys = keys.map((key, index)=> <p key={index}>{key} : {this.state.word_data[key][0].translation}</p>)
-      return (    <div>{listKeys}</div>)
+        console.log(this.state.wordInput)
+        const keys = Object.keys(this.state.word_data)
+        console.log(keys)
+        console.log(this.state.word_data[keys[0]])
+        keys.forEach(key => { console.log(this.state.word_data[key][0].translation)
+          
+        });
+        const listKeys = keys.map((key, index) => 
+        <p key={index}>{key} : <i>{this.state.word_data[key][0].translation}</i> ({this.state.word_data[key][0].gender})</p>)
+        return ( 
+          
+          <div>{this.wordInput()}{listKeys}</div>)
         }
         else return (
-          <div>
-          <span>Enter the word to translate here : </span>
-          <form onSubmit={this.handleSubmit}>
-          <input type="text" value={this.state.wordInput} onChange={this.handleChange} />
-          <input type="submit" value="Submit"/>
-          </form>
-          </div>
+          this.wordInput()
           );
         }
         
