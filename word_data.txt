@@ -1,499 +1,86 @@
-{{also|Cook}}
 ==English==
-[[File:Cooks 050918 154402.jpg|right|thumb|Trainee cooks preparing food]]
-
-===Pronunciation===
-* {{IPA|/kʊk/|lang=en}}
-* {{a|UK dialectal|obsolete elsewhere}} {{IPA|/kuk/|lang=en}}<ref>{{cite-book|author=John Walker|title=A critical pronouncing dictionary|url=https://books.google.co.nz/books?id=9OsIAAAAQAAJ|archiveurl=|archivedate=|year=1824|page=138}}</ref>
-* {{audio|en-us-cook.ogg|Audio (US)|lang=en}}
-* {{audio|En-uk-to cook.ogg|Audio (UK)|lang=en}}
-* {{audio|en-au-cook.ogg|Audio (AU)|lang=en}}
-:* {{rhymes|ʊk|lang=en}}
-
-===Etymology 1===
-{{PIE root|en|pekʷ}}
-From {{inh|en|enm|cook}}, from {{inh|en|ang|cōc||a cook}}, from {{der|en|la|coquus||cook}}, from {{m|la|coquō}}, ultimately from {{etyl|ine-pro|en}} {{m|ine-pro|*pekʷ-||to cook, become ripe}}.
-
-Cognate with {{cog|nds|kokk||cook}}, {{cog|nl|kok||cook}}, {{cog|de|Koch||cook}}, {{cog|da|kok||cook}}, {{cog|no|kokk||cook}}, {{cog|sv|kock||cook}}, {{cog|is|kokkur||cook}}, {{cog|es|cocer}}.
-
-====Noun====
 {{wikipedia}}
-{{en-noun}}
-
-# {{lb|en|cooking}} A person who prepares food for a living.
-# {{lb|en|cooking}} The [[head]] cook of a [[manor house]]
-# {{lb|en|slang}} One who [[manufacture]]s certain [[illegal]] [[drug]]s, especially [[meth]].
-#: ''Police found two meth '''cooks''' working in the illicit lab.''
-#* '''2008''', Mel Bradshaw, ''Victim Impact''
-#*: By late October, the pressure on the Dark Arrows' ecstasy '''cook''' had eased. Other suppliers had moved in with product.
-#* '''2011''', Mackenzie Phillips, ''High on Arrival''
-#*: Owsley Stanley was a pioneer LSD '''cook''', and the Purple Owsley pill from his now-defunct lab was Dad's prized possession, a rare, potent, druggie collector's item, the alleged inspiration for the Hendrix song “Purple Haze.”
-# {{lb|en|slang}} A session of [[manufacture|manufacturing]] certain [[illegal]] [[drug]]s, especially [[meth]].
-#* '''2011''', Neal Hall, ''Hell To Pay: Hells Angels vs. The Million-Dollar Rat'' (page 36)
-#*: Punko told Plante he wanted to use a full barrel for the next '''cook'''.
-# A fish, the European striped wrasse, {{taxlink|Labrus mixtus|species|noshow=1}}.
-
-=====Synonyms=====
-* {{sense|food preparation for a living}} {{l|en|chef}}
-
-=====Hyponyms=====
-* {{sense|food preparation for a living}} {{l|en|cordon bleu}}
-
-=====Coordinate terms=====
-{{sense|food preparation for a living}}
-* {{l|en|sous-chef}}
-* {{l|en|line cook}}
-* {{l|en|prep cook}}
-* {{l|en|chef}}
-* {{l|en|cookess}}, {{l|en|cookeress}} (female cook)
-
-{{sense|head cook of a manor house}}
-* {{l|en|scullery maid}}
-* {{l|en|kitchen maid}}
-
-=====Derived terms=====
-{{der3|en|cookbook|cookery|[[cooking]]<!--noun-->|cook the books|cook up|cookware}}
-
-=====Descendants=====
-* {{desc|bor=1|nrf|couque}}
-* {{desc|bor=1|th|กุ๊ก}}
-
-=====Translations=====
-{{trans-top|a person who prepares food for a living}}
-* Afrikaans: {{t+|af|kok}}
-* Albanian: {{t+|sq|kuzhinier|m}}
-* Arabic: {{t|ar|طَبَّاخ|m}}
-* Armenian: {{t+|hy|խոհարար}}
-* Assamese: {{t|as|ৰান্ধনি}}, {{t|as|চাংমাই}}, {{t|as|বাবুৰ্চি}}
-* Asturian: {{t|ast|cocineru|m}}, {{t|ast|cocedor|m}}
-* Azerbaijani: {{t+|az|aşpaz}}
-* Basque: {{t+|eu|sukaldari}}
-* Belarusian: {{t|be|ку́хар|m}}, {{t|be|куха́рка|f}}, {{t|be|павары́ха|f}}
-* Bengali: {{t|bn|রাঁধুনি|sc=Beng}}
-* Bulgarian: {{t|bg|готвач|m}}
-* Burmese: {{t+|my|ခန်တမာ}}
-* Catalan: {{t+|ca|cuiner|m}}, {{t|ca|xef|m}}
-* Chechen: {{t|ce|юургйийриг|sc=Cyrl}}
-* Chinese:
-*: Cantonese: {{t|yue|廚師|sc=Hani}}, {{t|yue|厨师|tr=cyu4 si1|sc=Hani}}
-*: Mandarin: {{t+|cmn|廚師|sc=Hani}}, {{t+|cmn|厨师|tr=chúshī|sc=Hani}}
-* Chukchi: {{t|ckt|увильын|tr=uvilʹyn}}, {{t|ckt|ывильын|tr=yvilʹyn}}
-* Czech: {{t+|cs|kuchař|m}}, {{t+|cs|kuchařka|f}}
-* Danish: {{t+|da|kok}}
-* Dutch: {{t+|nl|kok|m}}, {{t+|nl|kokkin|f}}
-* Elfdalian: {{t|ovd|kokk|m}}
-* Esperanto: {{t|eo|kuiristo}}
-* Estonian: {{t|et|kokk}}
-* Ewe: {{t|ee|nuɖala}}
-* Faroese: {{t|fo|kokkur|m}}
-* Finnish: {{t+|fi|kokki}}, {{qualifier|in a mass kitchen}} {{t+|fi|keittäjä}}
-* French: {{t+|fr|chef}}, {{t+|fr|cuisinier}}, {{qualifier|colloquial}} {{t+|fr|cuistot|m}}
-* Galician: {{t+|gl|cociñeiro}}, {{t|gl|cociñeira|f}}
-* Georgian: {{t|ka|მზარეული}}
-* German: {{t+|de|Koch|m}}, {{t+|de|Köchin|f}}
-* Greek: {{t+|el|μάγειρας|m}}, {{t+|el|μαγείρισσα|f}}
-*: Ancient: {{t|grc|μάγειρος|m}}, {{t|grc|ὀψοποιός|m}}
-* Greenlandic: {{t|kl|igasoq}}
-* Hebrew: {{t+|he|טַבָּח|m|tr=tabakh}}, {{t|he|טבחית|f|tr=tabakhít}}
-* Hindi: {{t+|hi|रसोइया|m}}
-* Hungarian: {{t+|hu|szakács}}
-* Icelandic: {{t+|is|kokkur}}
-* Ido: {{t+|io|koquisto}}
-* Indonesian: {{t+|id|koki}}
-* Irish: {{t|ga|cócaire|m}}
-* Italian: {{t+|it|cuoco|m}}, {{t+|it|cuoca|f}}
-* Japanese: {{t+|ja|調理師|tr=ちょうりし, chōrishi|sc=Jpan}}, {{t+|ja|料理人|tr=りょうりにん, ryōrinin|sc=Jpan}}, {{t+|ja|コック|tr=kokku|sc=Jpan}}, {{t|ja|シェフ|tr=shefu|sc=Jpan}}
-* Kazakh: {{t+|kk|аспаз|sc=Cyrl}}
-* Khmer: {{t|km|អ្នកដាំស្ល|tr=neak dam slɑɑ|sc=Khmr}}, {{t|km|អ្នកធ្វើបាយ|tr=neak tvəə baay|sc=Khmr}}
-* Korean: {{t+|ko|요리사}}, {{t|ko|료리사}} {{qualifier|North Korea}}
-* Kurdish: {{t+|ku|aşpêj}}
-*: Sorani: {{t|ckb|چێشتکه‌ر|sc=ku-Arab}}
-* Kyrgyz: {{t+|ky|повар}}, {{t+|ky|ашпоз}}
-* Lao: {{t|lo|ພໍ່ຄົວ}} {{qualifier|male}}, {{t+|lo|ຄົນຄົວກິນ}}
-* Latin: {{t|la|coquus|m}}, {{t|la|coqua|f}}, {{t|la|cocus}}, {{t|la|coctor|m}}, {{t|la|coctūrārius|m}}
-* Latvian: {{t|lv|pavārs|m}}
-* Lithuanian: {{t|lt|kokas|m}}, {{t|lt|virėjas|m}}
-* Lombard: {{t|lmo|cœg|m}}, {{t|lmo|cœga|f}}, {{t|lmo|coxiner|m}}, {{t|lmo|coxinera|f}}
-* Low German:
-*: German Low German: {{t|nds-de|Kock|m}}, {{t|nds-de|Kööksch|f}}, {{t|nds-de|Kööksche|f}}
-{{trans-mid}}
-* Luxembourgish: {{t|lb|Kach|m}}
-* Macedonian: {{t|mk|готвач|m|sc=Cyrl}}, {{t|mk|готвачка|f|sc=Cyrl}}
-* Malay: {{t|ms|tukang masak}}
-* Maltese: {{t|mt|kok|m}}, {{t|mt|koka|f}}
-* Mongolian: {{t+|mn|тогооч}}
-* Navajo: {{t|nv|chʼiyáán ííłʼíní|sc=Latn}}
-* Norman: {{t|nrf|tchuîsinnyi|m}} {{qualifier|Jersey}}, {{t|nrf|couque|m}} {{qualifier|Jersey}}
-* North Frisian:
-*: Föhr-Amrum: {{t|frr|kook|m}}
-* Northern Sami: {{t|se|koahkka}}, {{t|se|goahkka}}
-* Norwegian:
-*: Bokmål: {{t|nb|kokk|m}}, {{qualifier|female}} {{t|nb|kokke|m|f}}
-*: Nynorsk: {{t|nn|kokk|m}}, {{qualifier|female}} {{t|nn|kokke|f}}
-* Old English: {{t|ang|cōc|m}}
-* Pali:
-*: Devanagari: {{t|pi|सूदो|m|tr=sūdo|sc=Deva}}
-*: Latin: {{t|pi|sūdo|m}}
-* Pashto: {{t-needed|ps}}
-* Persian: {{t+|fa|آشپز|tr=âšpaz}}, {{t+|fa|پزنده|tr=pazanda, pazande}}
-* Polish: {{t+|pl|kucharz|m}}, {{t+|pl|kucharka|f}}
-* Portuguese: {{t+|pt|cozinheiro|m}}, {{t+|pt|cozinheira|f}}
-* Quechua: {{t|qu|wayk'uq}}
-* Romanian: {{t+|ro|bucătar|m}}, {{t+|ro|bucătăreasă|f}}
-* Romansch: {{t|rm|cuschinier|m}}
-* Russian: {{t+|ru|по́вар|m}}, {{t+|ru|повари́ха|f}}, {{t+|ru|кок|m}} {{qualifier|ship's cook}}, {{t+|ru|стряпу́ха|f}}, {{t+|ru|куха́рка|f}}
-* Scottish Gaelic: {{t|gd|bruich}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|кухар|m|sc=Cyrl}}, {{t|sh|кухарица|f|sc=Cyrl}}, {{t|sh|кувар|m|sc=Cyrl}}, {{t|sh|куварица|f|sc=Cyrl}}
-*: Roman: {{t+|sh|kȕhār|m}}, {{t+|sh|kȕharica|f}}, {{t+|sh|kȕvār}}, {{t+|sh|kȕvarica|f}}
-* Slovak: {{t+|sk|kuchár|m}}, {{t|sk|kuchárka|f}}
-* Slovene: {{t+|sl|kuhar|m}}, {{t|sl|kuharica|f}}
-* Sorbian:
-*: Upper Sorbian: {{t|hsb|kuchar|m}}, {{t|hsb|kucharka|f}}
-* Spanish: {{t+|es|cocinero|m}}, {{t+|es|cocinera|f}}
-* Swahili: {{t+|sw|mpishi}}, {{t+|sw|wapishi|p}}
-* Swedish: {{t+|sv|kock}}
-* Tagalog: {{t|tl|tagaluto}}
-* Tajik: {{t|tg|ошпаз}}, {{t|tg|таббох}}
-* Tamil: {{t+|ta|கூவியர்}}
-* Tatar: {{t|tt|пешерче}}
-* Telugu: {{t+|te|వంటమనిషి}} {{qualifier|both genders}}, {{t+|te|వంటవాడు}} {{qualifier|male}}
-* Thai: {{t+|th|กุ๊ก}}, {{t+|th|พ่อครัว}}, {{t+|th|แม่ครัว}} {{qualifier|female}}
-* Tibetan: {{t|bo|མ་བྱན|sc=Tibt}}
-* Turkish: {{t+|tr|aşçı}}
-* Turkmen: {{t+|tk|aşpez}}
-* Tuvan: {{t|tyv|паштанчы}}
-* Ukrainian: {{t+|uk|куха́р|m}}, {{t|uk|куха́рка|f}}
-* Urdu: {{t-needed|ur}}
-* Urhobo: {{t|urh|chere}}
-* Uyghur: {{t+|ug|ئاشپەز}}
-* Uzbek: {{t+|uz|oshpaz}}
-* Venetian: {{t|vec|cogo|m}}
-* Vietnamese: {{t+|vi|đầu bếp}}
-* Volapük: {{qualifier|♂♀}} {{t+|vo|kvisinan}}, {{qualifier|♂}} {{t|vo|hikvisinan}}, {{qualifier|♀}} {{t+|vo|jikvisinan}}
-* Welsh: {{t+|cy|cogydd|m}}, {{t+|cy|cogyddes|f}}
-{{trans-bottom}}
-
-===Etymology 2===
-{{PIE root|en|pekʷ}}
-From {{etyl|enm|en}} {{m|enm|coken}}, from the noun {{m|en|cook}}.
-
-====Verb====
-{{en-verb}}
-
-# {{lb|en|transitive}} To prepare ([[food]]) for eating by heating it, often by combining it with other [[ingredients]].
-#: ''I'm '''cooking''' bangers and mash.''
-# {{lb|en|intransitive}} To prepare (unspecified) food for eating by heating it, often by combining it with other [[ingredients]].
-#: ''He's in the kitchen, '''cooking'''.''
-# {{lb|en|intransitive}} To be being cooked.
-#: ''The dinner is '''cooking''' on the stove.''
-# {{lb|en|intransitive|figuratively}} To be uncomfortably hot.
-#: ''Look at that poor dog shut up in that car on a day like today - it must be '''cooking''' in there.''
-# {{lb|en|slang}} To [[execute]] by [[electric chair]].
-# {{lb|en|transitive|slang}} To hold onto (a [[grenade]]) briefly after igniting the [[fuse]], so that it explodes almost immediately after being thrown.
-#: ''I always '''cook''' my [[frag]]s, in case they try to grab one and throw it back.''
-# To [[concoct]] or [[prepare]].
-#* '''2006''', Frank Spalding, ''Methamphetamine: The Dangers of Crystal Meth'' (page 47)
-#*: The process of '''cooking''' meth can leave residue on surfaces all over the home, exposing all of its occupants to the drug.
-# To tamper with or alter; to [[cook up]].
-#* {{quote-book|lang=en|author=Joseph Addison|authorlink=Joseph Addison|coauthors=Richard John Green|title=Essays of Joseph Addison|chapter=The newspaper|year=1880|location=London|publisher=Roger de Coverly Club|page=154|passage=They all of them receive the same advices from abroad, and very often in the same words; but their way of '''cooking''' it is so different, that there is no citizen, who has an eye to the public good, who can leave the coffee-house with peace of mind...}}
-# {{lb|en|intransitive|jazz|slang}} To play or [[improvise]] in an inspired and rhythmically exciting way.<!-- http://www.collinsdictionary.com/dictionary/american/cook --> (From 1930s [[jive]] talk.)
-#: ''Watch this band: they '''cook'''!''
-#: ''Crank up the Coltrane and start '''cooking'''!''
-#* '''1957''', {{w|Miles Davis}} quoted by {{w|Ira Gitler}}, [https://archive.is/20130411155345/www.plosin.com/milesahead/prlp/prlp7094.html liner notes] to ''{{w|Cookin' with the Miles Davis Quintet}}'', Prestige LP 7094:
-#*: This album is called '''Cookin’''' at Miles’ request. He said, “After all, that’s what we did – came in and '''cooked'''.”
-# {{lb|en|intransitive|music|slang}} To play music vigorously.<!-- http://dictionary.reference.com/browse/cook -->
-#: ''On the Wagner piece, the orchestra was '''cooking'''!''
-#* '''2012''', ''{{w|Los Angeles Times}}'', [http://articles.latimes.com/2012/oct/09/entertainment/la-et-cm-laco-review-20121009 "Review: Los Angeles Chamber Orchestra won't stand still"]:
-#*: The tempos were swift. The orchestra '''cooked''', reading [conductor] Kahane's mind and swinging with him as one.
-
-=====Synonyms=====
-* {{sense|to be uncomfortably hot}} {{l|en|bake}}, {{l|en|stew}}
-* {{sense|hold on to a grenade}} {{l|en|cook off}}
-
-=====Hypernyms=====
-* {{sense|to prepare or plan something}} {{l|en|concoct}}, {{l|en|contrive}}, {{l|en|devise}}, {{l|en|make up}}, {{l|en|plan}}, {{l|en|prepare}}
-
-=====Hyponyms=====
-* ''Troponyms'': [[bake]], [[barbecue]], [[boil]], [[braise]], [[fry]], [[grill]], [[microwave]], [[poach]], [[roast]], [[scramble]], [[steam]], [[stew]]
-* See also [[Thesaurus:cook]]
-
-=====Translations=====
-{{trans-top|to prepare (food) for eating}}
-* Albanian: {{t+|sq|gatuaj}}
-* Arabic: {{t|ar|طَبَخَ}}
-*: Moroccan Arabic: {{t|ary|طيب|tr=ṭeyyeb}}
-* Armenian: {{t+|hy|եփել}}
-* Assamese: {{t|as|ৰন্ধা}}, {{t|as|ৰান্ধা}} {{qualifier|Central Assam}}
-* Belarusian: {{t|be|гатава́ць|impf}}, {{t|be|вары́ць|impf}}, {{t|be|куха́рыць|impf}}
-* Breton: {{t+|br|keginañ}}
-* Bulgarian: {{t+|bg|го́твя|impf}}
-* Burmese: {{t+|my|ချက်ပြုတ်}}, {{t+|my|ချက်}}
-* Catalan: {{t+|ca|cuinar}}
-* Central Sierra Miwok: {{t|csm|čý·s-}}
-* Chinese:
-*: Mandarin: {{t+|cmn|做飯|sc=Hani}}, {{t+|cmn|做饭|tr=zuòfàn|sc=Hani}}, {{t+|cmn|做菜|tr=zuòcài|sc=Hani}}, {{t+|cmn|烹調|sc=Hani}}, {{t+|cmn|烹调|tr=pēngtiáo|sc=Hani}}, {{t+|cmn|烹飪|sc=Hani}}, {{t+|cmn|烹饪|tr=pēngrèn|sc=Hani}}
-* Choctaw: {{t|cho|hoponi}}
-* Cornish: {{t|kw|kegina}}
-* Czech: {{t+|cs|vařit|impf}}
-* Danish: {{t|da|lave mad}}, {{t|da|kokkerere}}
-* Dutch: {{t+|nl|koken}}
-* Esperanto: {{t|eo|kuiri}}
-* Estonian: {{t|et|keetma}}
-* Ewe: {{t|ee|ɖa}}
-* Faroese: {{t|fo|matgera}}
-* Finnish: {{t+|fi|keittää}}, {{t+|fi|laittaa ruokaa}}, {{qualifier|colloquial}} {{t+|fi|kokata}}, {{t|fi|[[tehdä]] [[ruokaa]]}}
-* French: {{t+|fr|cuisiner}}
-* Friulian: {{t|fur|cusinâ}}, {{t|fur|cuei}}
-* Galician: {{t+|gl|cociñar}}, {{t+|gl|cocer}}
-* Georgian: {{t|ka|საჭმლის მომზადება}}
-* German: {{t+|de|kochen}}, {{t+|de|garen}}
-* Greek: {{t+|el|μαγειρεύω}}, {{t+|el|παρασκευάζω}}
-*: Ancient Greek: {{t|grc|πέσσω}}
-* Greenlandic: {{t|kl|igavoq}}
-* Hebrew: {{t+|he|בישל|alt=בישל \ בִּשֵּׁל|tr=bishél}}
-* Hindi: {{t+|hi|पकाना|tr=pakānā}}
-* Hungarian: {{t+|hu|főz}}
-* Icelandic: {{t+|is|elda}}
-* Ido: {{t+|io|koquar}}
-* Italian: {{t+|it|cuocere}}
-* Japanese: {{t+|ja|料理|tr=りょうりする, ryōri suru|alt=料理する|sc=Jpan}}
-* Khmer: {{t+|km|ស្ល|tr=slɑɑ|sc=Khmr}}, {{t|km|ចំអិន|tr=cɑm’ən|sc=Khmr}}, {{t+|km|ដណ្ដាំ|tr=dɑndam|sc=Khmr}}, {{t+|km|ដុត|tr=dot|sc=Khmr}}
-* Korean: {{t+|ko|요리하다}}
-* Kurdish:
-*: Kurmanji: {{t+|ku|pijandin}}
-*: Sorani: {{t|ku|چێشت لێنان}}
-* Lao: {{t|lo|ຄົວກິນ}}
-* Latin: {{t|la|coquō}}
-* Latvian: {{t|lv|vārīt}}, {{t+|lv|cept}}, {{t|lv|gatavot}}
-* Lithuanian: {{t|lt|virti}}
-* Low German:
-*: German Low German: {{t+|nds-de|kaken}}, {{t+|nds-de|koken}}
-* Luxembourgish: {{t|lb|brutschen}}, {{t+|lb|kachen}}
-* Macedonian: {{t|mk|го́тви|impf|sc=Cyrl}}
-{{trans-mid}}
-* Malayalam: {{t|ml|പാകം ചെയ്യുന്നു|sc=Mlym}}
-* Maranao: {{t|mrw|iloto}}
-* Mongolian: {{t|mn|хоол хийх|tr=khool khiikh}}, {{t+|mn|чанах}}
-* Navajo: {{t|nv|yishbéézh}}
-* Ngazidja Comorian: {{t|zdj|upiha}}
-* Norman: {{t|nrf|coutchi}} {{qualifier|Jersey}}
-* North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|kööge}}
-* Northern Yukaghir: {{t|ykg|пан|tr=pan|sc=Cyrl}}
-* Norwegian:
-*: Bokmål: {{t|nb|lage mat}}
-* Old English: {{t|ang|sēoþan}}
-* Pashto: {{t+|ps|پخول|tr=pëxëwël}}
-* Persian: {{t+|fa|پختن|tr=poxtan}}
-* Polish: {{t+|pl|gotować|impf}}, {{t+|pl|warzyć|impf}}, {{t+|pl|kucharzyć|impf}}
-* Portuguese: {{t+|pt|cozinhar}}
-* Quechua: {{t|qu|yanuy}}, {{t|qu|yanui}}, {{t|qu|arui}}, {{t|qu|wayk'uy}}, {{t|qu|chayachiy}}
-* Romanian: {{t+|ro|găti}}
-* Romansch: {{t|rm|cuschinar}}
-* Russian: {{t+|ru|гото́вить|impf}}, {{t+|ru|пригото́вить|pf}}, {{t+|ru|вари́ть|impf}}, {{t+|ru|свари́ть|pf}}, {{t+|ru|стря́пать|impf}}, {{t+|ru|состря́пать|pf}}
-* Sanskrit: {{t+|sa|पचति}}
-* Scottish Gaelic: {{t|gd|bruich}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|кувати|impf|sc=Cyrl}}, {{t|sh|скувати|pf|sc=Cyrl}}
-*: Roman: {{t+|sh|kuhati|impf}}, {{t+|sh|skuhati|pf}}
-* Sicilian: {{t+|scn|còciri}}
-* Slovak: {{t|sk|variť|impf}}
-* Slovene: {{t+|sl|kuhati|impf}}, {{t|sl|skuhati|pf}}
-* Spanish: {{t+|es|cocinar}}
-* Swahili: {{t|sw|kupika}}
-* Swedish: {{t|sv|laga mat}}
-* Sylheti: {{t|syl|ꠞꠣꠘ꠆ꠗꠣ}}
-* Tagalog: {{t|tl|magluto}}, {{t|tl|magluto}}
-* Tajik: {{t+|tg|пухтан}}
-* Tamil: {{t+|ta|குய்}}
-* Telugu: {{t+|te|వండు}}
-* Thai: {{t|th|ปรุงอาหาร|tr=bprung aa-hăan}}, {{t+|th|ประกอบอาหาร|tr=bprà-gòp aa-hăan}}, {{t|th|หุงหาอาหาร|tr=hŭng-hăa aa-hăan}}, {{t|th|ทำอาหาร|tr=tam aa-hăan}}
-* Tibetan: {{t|bo|ཁ་ལག་བཟོ་བ|sc=Tibt}}, {{t|bo|འཚོད་པ|sc=Tibt}}, {{t|bo|བཟོས}}
-* Tocharian A: {{t|xto|päk-}}
-* Tocharian B: {{t|txb|päk-}}
-* Turkish: {{t+|tr|pişirmek}}
-* Tuvan: {{t|tyv|дүлер}}, {{t|tyv|паштаар}}, {{t|tyv|белеткээр}}
-* Ukrainian: {{t|uk|готува́ти|impf}}, {{t|uk|кухова́рити|impf}}, {{t+|uk|вари́ти|impf}}
-* Urdu: {{t|ur|پکانا|tr=pakānā}}
-* Uripiv-Wala-Rano-Atchin: {{t|upv|mʷi-mʷasos}}
-* Venetian: {{t|vec|còxer}}, {{t|vec|cóxar}}, {{t|vec|cósar}}
-* Vietnamese: {{t+|vi|nấu}}, {{t|vi|nấu chín}}, {{t+|vi|nấu ăn}}
-* Walloon: {{t+|wa|cure}}, {{t+|wa|fé}}, {{t+|wa|coujhner}}
-* Waray-Waray: {{t|war|lu-to}}
-* Welsh: {{t+|cy|coginio}}
-* Yagnobi: {{t|yai|пухсак}}
-{{trans-bottom}}
-
-{{trans-top|to prepare food}}
-* Arabic:
-*: Moroccan Arabic: {{t|ary|طيب|tr=Teyyeb}}
-* Armenian: {{t+|hy|պատրաստել}}
-* Bulgarian: {{t+|bg|готвя}}
-* Catalan: {{t+|ca|cuinar}}
-* Czech: {{t+|cs|vařit}}
-* Dutch: {{t+|nl|koken}}
-* Esperanto: {{t|eo|kuiri}}
-* Ewe: {{t|ee|ɖa}}
-* Finnish: {{t+|fi|keittää}}, {{t+|fi|laittaa ruokaa}}, {{qualifier|colloquial}} {{t+|fi|kokata}}, {{t|fi|[[tehdä]] [[ruokaa]]}}
-* French: {{t+|fr|cuisiner}}
-* Galician: {{t+|gl|cociñar}}
-* Georgian: {{t|ka|მომზადება|sc=Geor}}
-* German: {{t+|de|kochen}}
-* Greek: {{t+|el|μαγειρεύω}}, {{t+|el|παρασκευάζω}}
-* Hebrew: {{t+|he|בישל|alt=בישל \ בִּשֵּׁל|tr=bishél}}
-* Hungarian: {{t+|hu|főz}}
-* Ido: {{t+|io|koquadar}}
-* Italian: {{t+|it|cucinare}}
-* Khmer: {{t|km|ធ្វើបាយ|tr=tvəə baay|sc=Khmr}}, {{t|km|ដាំស្ល|tr=dam slɑɑ|sc=Khmr}}
-* Kurdish:
-*: Sorani: {{t|ku|چێشت حازرکردن}}
-{{trans-mid}}
-* Latvian: {{t|lv|gatavot}}, {{t|lv|vārīt}}, {{t+|lv|cept}}
-* Lombard: {{t|lmo|coxinar}}
-* Maranao: {{t|mrw|iloto}}
-* Navajo: {{t|nv|yibéézh|sc=Latn}}
-* Norman: {{t|nrf|coutchi}} {{qualifier|Jersey}}
-* Norwegian:
-*: Bokmål: {{t|nb|lage mat}}
-* Persian: {{t+|fa|آشپزی|tr=âšpazi}}, {{t+|fa|پخت و پز|tr=poxtopaz}}
-* Portuguese: {{t+|pt|cozinhar}}
-* Romanian: {{t+|ro|găti}}, {{t+|ro|prepara}}
-* Russian: {{t+|ru|гото́вить|impf}}, {{t+|ru|пригото́вить|pf}}
-* Slovene: {{t+|sl|kuhati}}, {{t|sl|skuhati}}
-* Sorbian:
-*: Lower Sorbian: {{t|dsb|wariś|impf}}
-* Spanish: {{t+|es|cocinar}}
-* Swedish: {{t|sv|laga mat}}, {{t+|sv|tillaga}}
-* Tagalog: {{t|tl|magluto}}
-* Telugu: {{t+|te|వండు}}
-* Tibetan: {{t|bo|ཁ་ལག་བཟོས}}
-* Venetian: {{t|vec|coxinar}}
-* Walloon: {{t+|wa|fé a magnî}}, {{t+|wa|coujhner}}
-{{trans-bottom}}
-
-{{trans-top|to become ready for eating}}
-* Arabic:
-*: Moroccan Arabic: {{t|ary|طاب|tr=Tab}}
-* Armenian: {{t+|hy|եփել}}
-* Catalan: {{t+|ca|coure}}, {{t+|ca|cuinar}}
-* Czech: {{t|cs|uvařit se|pf}}
-* Dutch: {{t+|nl|koken}}
-* Esperanto: {{t|eo|kuiriĝi}}
-* Finnish: {{t+|fi|kypsyä}}
-* French: {{t+|fr|cuire}}
-* Friulian: {{t|fur|cuei}}
-* Galician: {{t+|gl|cociñar}}, {{t+|gl|cocer}}
-* German: {{t+|de|kochen}}, {{t+|de|garen}}
-* Hebrew: {{t|he|הִתְבַּשֵּׁל|tr=hitbashél}}
-* Hungarian: {{t+|hu|fő}}
-* Italian: {{t+|it|cuocere}}
-* Japanese: {{t-needed|ja}}
-* Lombard: {{t|lmo|cœxer}} {{qualifier|coeus, cözer}}
-{{trans-mid}}
-* Norman: {{t|nrf|tchuithe}} {{qualifier|Jersey}}
-* Occitan: {{t+|oc|còire}}
-* Persian: {{t+|fa|پختن|tr=poxtan}}, {{t+|fa|پخته|tr=poxteh}}
-* Portuguese: {{t+|pt|cozinhar}}
-* Romanian: {{t+|ro|coace}}
-* Romansch: {{t|rm|coier}}
-* Russian: {{t+|ru|гото́виться|impf}}
-* Sardinian: {{t|sc|còchere}}
-* Scottish Gaelic: {{t|gd|bruich}}
-* Slovene: {{t|sl|kuhati se}}, {{t|sl|skuhati se}}
-* Spanish: {{t+|es|cocinar}}, {{t+|es|cocer}}
-* Swedish: {{t+|sv|lagas}}, {{t+|sv|koka}}
-* Telugu: {{t+|te|ఉడుకు}}
-* Tocharian A: {{t|xto|päk-}}
-* Tocharian B: {{t|txb|päk-}}
-* Walloon: {{t+|wa|cure}}
-{{trans-bottom}}
-
-{{trans-top|colloquial: to be uncomfortably hot}}
-* Catalan: {{t|ca|coure's}}
-* Dutch: {{t+|nl|bakken}}
-* Finnish: {{t|fi|paistua}}
-* French: {{t+|fr|cuire}}
-* German: [[kochend]] [[heiß]] {{t+check|de|sein}}
-* Greek: {{t+|el|ψήνομαι}}
-* Hungarian: {{t+|hu|megfő}}, {{t+|hu|megsül}}
-{{trans-mid}}
-* Portuguese: {{t+|pt|cozinhar}}, {{t+|pt|torrar}}
-* Romanian: {{t+|ro|încinge}}, {{t+|ro|coace}}
-* Slovene: {{t|sl|cvreti se}}
-* Spanish: {{t+|es|cocerse}}
-* Swedish: {{t+|sv|koka}}, {{t+|sv|stekas}}
-* Walloon: {{t+|wa|cure}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Arabic: {{t-check|ar|طَبَخَ}}
-* Indonesian: {{t+check|id|masak|alt=memasak}} <!-- was "[[masak|memasak]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
-{{trans-mid}}
-* Norman: {{t-check|nrf|tchuithe}} {{qualifier|Jersey}}
-{{trans-bottom}}
-
-===Etymology 3===
-Imitative.
-
-====Verb====
-{{en-verb}}
-
-# {{lb|en|obsolete|rare|intransitive}} To make the noise of the [[cuckoo]].
-#* {{quote-book|lang=en|year=1599|title=The Silkwormes, and their Flies|author=Thomas Moffet|authorlink=Thomas Muffet|oclc=428112023|location=London|publisher=V.S. for Nicholas Ling|passage=Constant cuckoos '''cook''' on every side.}}
-
-===Etymology 4===
-Unknown; possibly related to {{m|en|chuck}}.
-
-====Verb====
-{{en-verb}}
-
-# {{lb|en|UK|dialect|obsolete}} To [[throw]].
-#* {{quote-book|lang=en|author=Francis Grose|title=A Provincial Glossary: With a Collection of Local Proverbs, and Popular Superstitions|url=|archiveurl=|archivedate=|edition=|location=London|publisher=Printed for S. Hooper|year=1787|oclc=938433091|page=37|passage=Cook. To throw. '''Cook''' me that ball, throw me that ball. Glou.}}
-
-===References===
-<references/>
-
-[[Category:English basic words]]
-[[Category:English ergative verbs]]
-[[Category:en:Food and drink]]
-[[Category:en:Occupations]]
-[[Category:en:People]]
-
-----
-
-==Middle English==
-
-===Alternative forms===
-* {{alter|enm|cok|coke|koke|cuyke|cuke|cooke}}
 
 ===Etymology===
-From {{inh|enm|ang|cōc}}, from {{der|enm|VL.|cocus}}, from {{der|enm|la|coquus}}.
+From {{inh|en|enm|income}}, perhaps continuing (in altered form) {{inh|en|ang|incyme|t=an in-coming, entrance}}, equivalent to {{af|en|in-|come}}. Cognate with {{cog|nl|inkomen||income, earnings, gainings}}, {{cog|de|Einkommen||income, earnings, competence}}, {{cog|is|innkváma||income}}, {{cog|da|indkomst||income}}, {{cog|sv|inkomst||income}}.
 
 ===Pronunciation===
-* {{IPA|lang=enm|/koːk/|/kuːk/}}
+* {{IPA|/ˈɪnˌkʌm/|lang=en}}
+* {{audio|en-us-income.ogg|Audio (US)|lang=en}}
 
 ===Noun===
-{{enm-noun|pl=cookes}}
+{{en-noun|~}}
 
-# {{l|en|cook}}, [[chef]], [[restauranteur]]
-# {{lb|enm|figurative}} [[nourisher]], [[nourishment]]
+# [[money|Money]] one [[earn]]s by [[work]]ing or by [[capitalise|capitalising]] on the work of others.
+#* {{quote-book|lang=en|year=1918|author={{w|W. B. Maxwell}}|chapter=23
+|title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]
+|passage=The struggle with ways and means had recommenced, more difficult now a hundredfold than it had been before, because of their increasing needs. Their '''income''' disappeared as a little rivulet that is swallowed by the thirsty ground.}}
+#* '''2010''' Dec. 4, [[w:Evan Thomas|Evan Thomas]], "[http://www.newsweek.com/2010/12/04/the-deepest-dangers-facing-the-united-states.html Why It’s Time to Worry]", ''Newsweek'' <small>(retrieved 16 June 2013)</small>:
+#*: In 1970 the richest 1 percent made 9 percent of the nation’s '''income'''; now that top slice makes closer to 25 percent.
+#* {{quote-journal|lang=en|date=2013-06-07|author={{w|Joseph Stiglitz}}
+|volume=188|issue=26|page=19|magazine={{w|The Guardian Weekly}}
+|title=[http://www.guardian.co.uk/commentisfree/2013/may/27/globalisation-is-about-taxes-too Globalisation is about taxes too]
+|passage=It is the starving of the public sector which has been pivotal in America no longer being the land of opportunity – with a child's life prospects more dependent on the '''income''' and education of its parents than in other advanced countries.}}
+# {{lb|en|business|commerce}} Money coming in to a [[fund]], [[account]], or [[policy]].
+# {{lb|en|obsolete}} A coming in; [[arrival]]; [[entrance]]; [[introduction]].
+#* Bishop Rust
+#*: more abundant '''incomes''' of light and strength from God
+#: {{rfquotek|Shakespeare}}
+# {{lb|en|archaic|or|dialectal|Scotland}} A [[newcomer]] or arrival; an [[incomer]].
+# {{lb|en|obsolete}} An [[entrance]]-[[fee]].
+# {{lb|en|archaic}} A coming in as by [[influx]] or [[inspiration]], hence, an inspired [[quality]] or [[characteristic]], as [[courage]] or [[zeal]]; an inflowing [[principle]].
+#* Chapman
+#*: I would then make in and steep / My '''income''' in their blood.
+# {{lb|en|UK|_|dialectal|Scotland}} A [[disease]] or [[ailment]] without known or apparent cause, as distinguished from one induced by accident or contagion; an [[oncome]].
+# That which is taken into the body as food; the [[ingesta]]; sometimes restricted to the nutritive, or digestible, portion of the food.
 
-====Descendants====
-* {{desc|sco|cuke}}, {{l|sco|cuik}}
-* {{desctree|en|cook}}
+====Antonyms====
+* {{sense|money coming in}} {{l|en|outgo}}
 
-====References====
-* {{R:MED Online|entry=cọ̄k (n.(6)) |id=MED8317 |accessdate=2018-04-03}}
+====Derived terms====
+{{der4|en|income statement|income support|income tax|passive income}}
 
-[[Category:enm:Food and drink]]
-[[Category:enm:Occupations]]
-[[Category:enm:People]]
+====Translations====
+{{trans-top|Money one earns by working or by capitalising on the work of others}}
+* Armenian: {{t+|hy|եկամուտ}}
+* Bulgarian: {{t+|bg|доход|m}}, {{t+|bg|приход|m}}
+* Catalan: {{t|ca|renda|f}}
+* Chinese:
+*: Mandarin: {{t+check|cmn|收入|tr=shōu rù|sc=Hani}}
+* Czech: {{t+|cs|příjem|m}}
+* Danish: {{t|da|indtægt|c}}, {{t+|da|indkomst|c}}
+* Dutch: {{t+|nl|inkomen|n}}
+* Esperanto: {{t|eo|enspezo}}
+* Finnish: {{t+|fi|tulo}},  {{t+|fi|tulot}}, {{t+|fi|ansio}}
+* French: {{t+|fr|revenu|m}}, {{t+|fr|recette|f}}
+* Georgian: {{t|ka|შემოსავალი}}
+* German: {{t+|de|Einkommen|n}}
+* Greek: {{t+|el|εισόδημα|n}}, {{t+|el|έσοδα|n-p}}
+* Hindi: {{t+|hi|आय|sc=Deva}}, {{t+|hi|आमदनी|sc=Deva}}, {{t+|hi|कमाई|sc=Deva}}
+* Hungarian: {{t+|hu|bevétel}}, {{t+|hu|jövedelem}}
+* Irish: {{t|ga|ioncam|m}}, {{t|ga|teacht isteach|m}}
+* Italian: {{qualifier|always plural}} {{t+|it|introiti}}, {{t+|it|reddito}}
+{{trans-mid}}
+* Japanese: {{t+|ja|所得|tr=しょとく, shotoku}}, {{t|ja|収入|tr=しゅうにゅう, shuunyuu}}
+* Latin: {{t|la|reditus|m}}, {{t+|la|fructus|m}}
+* Malay: {{t|ms|pendapatan}}
+* Maori: {{t|mi|whiwhinga}}, {{t|mi|whiwhinga moni}}
+* Norwegian: {{t+|no|inntekt|m|f}}
+* Polish: {{t+|pl|dochód|m}}
+* Portuguese: {{t+|pt|renda|f}}, {{t+|pt|rendimento|m}}
+* Romanian: {{t+|ro|venit|n}}
+* Russian: {{t+|ru|дохо́д|m}}, {{t+|ru|прихо́д|m}}, {{t+|ru|при́быль|f}}, {{t+|ru|за́работок|m}}, {{t+|ru|поступле́ния}}
+* Scottish Gaelic: {{t|gd|teachd-a-steach|m}}
+* Spanish: {{t+|es|ingresos|m}}, {{t+|es|renta|f}}
+* Swahili: {{t+|sw|mapato}}
+* Swedish: {{t+|sv|inkomst|c}}
+* Tagalog: {{t+|tl|kita}}
+* Turkish: {{t+|tr|gelir}}
+* Ukrainian: {{t|uk|прибу́ток}}, {{t|uk|дохо́д}}
+* Westrobothnian: {{t|gmq-bot|värj|n}}, {{t|gmq-bot|väri|n}}, {{t|gmq-bot|vęrg|f}}
+{{trans-bottom}}
 
-----
+{{topics|en|Accounting|Finance}}
 
-==Scots==
-{{rfv|sco}}
-===Verb===
-{{head|sco|verb}}
-
-# To appear and disappear by turns. <!--Chambers 1908-->
+===Anagrams===
+* {{anagrams|en|a=ceimno|come in}}
