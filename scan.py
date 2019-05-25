@@ -32,12 +32,14 @@ def structure_word(raw):
     cleaned_words = []
     for word in words:
         components = word.split('|')
-        word = {
-            'type':components[0],
-            'lang':components[1],
-            'translation':components[2],
-            "gender":""
-        }
+        if (len(components) > 2): 
+            word = {
+                'type':components[0],
+                'lang':components[1],
+                'translation':components[2],
+                "gender":""
+            }
+        
         if len(components) == 4:
             word["gender"] = components[3]
         cleaned_words.append(word)
